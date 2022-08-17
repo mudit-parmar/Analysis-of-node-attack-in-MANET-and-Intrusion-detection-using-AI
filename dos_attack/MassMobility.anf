@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scave:Analysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:scave="http://www.omnetpp.org/omnetpp/scave">
+  <inputs>
+    <inputs name="/dos_attack/results/MassMobility-*.vec"/>
+    <inputs name="/dos_attack/results/MassMobility-*.sca"/>
+  </inputs>
+  <datasets>
+    <datasets name="just">
+      <items xsi:type="scave:Add" filterPattern="name(packetSent:count)"/>
+      <items xsi:type="scave:Add" filterPattern="name(packetReceived:count)"/>
+    </datasets>
+    <datasets name="just2">
+      <items xsi:type="scave:Add" filterPattern="name(numSent)"/>
+      <items xsi:type="scave:Add" filterPattern="name(numReceived)"/>
+      <items xsi:type="scave:Add" filterPattern="name(packetDropRetryLimitReached:count)"/>
+    </datasets>
+    <datasets name="just3">
+      <items xsi:type="scave:Add" filterPattern="name(residualEnergyCapacity:last)"/>
+    </datasets>
+  </datasets>
+  <chartSheets/>
+</scave:Analysis>

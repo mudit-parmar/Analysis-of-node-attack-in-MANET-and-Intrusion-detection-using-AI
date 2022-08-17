@@ -1,0 +1,247 @@
+[Config MassMobility]
+description = Mobility is set to MassMobility
+network = Wireless
+sim-time-limit = 30s
+
+*.host*.ipv4.arp.typename = "GlobalArp"
+
+*.hostA.numApps = 1
+*.hostA.app[0].typename = "UdpBasicApp"
+*.hostA.app[0].destAddresses = "hostB"
+*.hostA.app[0].destPort = 5000
+*.hostA.app[0].messageLength = 1000B
+*.hostA.app[0].sendInterval = exponential(15ms)
+*.hostA.app[0].packetName = "UDPData"
+
+*.hostB.numApps = 1
+*.hostB.app[0].typename = "UdpSink"
+*.hostB.app[0].localPort = 5000
+
+
+
+#-----------Black Hole attact--------------
+*.hostR[6].forwarding = false
+*.hostR[2].forwarding = false
+*.hostR[9].forwarding = false
+#-------------------------------------------
+
+
+
+#DOS Attack-----------------Start-----------
+
+
+*.hostR[4].numApps = 1
+*.hostR[4].app[0].typename = "UdpBasicApp"
+*.hostR[4].app[0].destPort = 5000
+*.hostR[4].app[0].messageLength = 512B
+#for Dos attack make it 10ms
+#for other attacks make it 500ms
+*.hostR[4].app[0].sendInterval = exponential(500ms)
+*.hostR[4].app[0].packetName = "UDPData1"
+*.hostR[4].app[0].destAddresses = "hostR[1] hostR[2] hostR[3] hostR[5] hostR[6] hostR[7] hostR[8] hostR[9] hostR[10]"
+
+
+*.hostR[6].numApps = 1
+*.hostR[6].app[0].typename = "UdpBasicApp"
+*.hostR[6].app[0].destPort = 5000
+*.hostR[6].app[0].messageLength = 512B
+#for Dos attack make it 10ms
+#for other attacks make it 500ms
+*.hostR[6].app[0].sendInterval = exponential(500ms)
+*.hostR[6].app[0].packetName = "UDPData2"
+*.hostR[6].app[0].destAddresses = "hostR[4] hostR[11] hostR[12] hostR[13] hostR[14] hostR[15] hostR[16] hostR[17] hostR[18] hostR[19] hostR[20]"
+
+
+*.hostR[1].app[0].typename = "UdpSink"
+*.hostR[1].app[0].localPort = 5000
+*.hostR[2].app[0].typename = "UdpSink"
+*.hostR[2].app[0].localPort = 5000
+*.hostR[3].app[0].typename = "UdpSink"
+*.hostR[3].app[0].localPort = 5000
+*.hostR[5].app[0].typename = "UdpSink"
+*.hostR[5].app[0].localPort = 5000
+*.hostR[7].app[0].typename = "UdpSink"
+*.hostR[7].app[0].localPort = 5000
+*.hostR[8].app[0].typename = "UdpSink"
+*.hostR[8].app[0].localPort = 5000
+*.hostR[9].app[0].typename = "UdpSink"
+*.hostR[9].app[0].localPort = 5000
+*.hostR[10].app[0].typename = "UdpSink"
+*.hostR[10].app[0].localPort = 5000
+
+
+*.hostR[11].app[0].typename = "UdpSink"
+*.hostR[11].app[0].localPort = 5000
+*.hostR[12].app[0].typename = "UdpSink"
+*.hostR[12].app[0].localPort = 5000
+*.hostR[13].app[0].typename = "UdpSink"
+*.hostR[13].app[0].localPort = 5000
+*.hostR[14].app[0].typename = "UdpSink"
+*.hostR[14].app[0].localPort = 5000
+*.hostR[15].app[0].typename = "UdpSink"
+*.hostR[15].app[0].localPort = 5000
+*.hostR[16].app[0].typename = "UdpSink"
+*.hostR[16].app[0].localPort = 5000
+*.hostR[17].app[0].typename = "UdpSink"
+*.hostR[17].app[0].localPort = 5000
+*.hostR[18].app[0].typename = "UdpSink"
+*.hostR[18].app[0].localPort = 5000
+*.hostR[19].app[0].typename = "UdpSink"
+*.hostR[19].app[0].localPort = 5000
+*.hostR[20].app[0].typename = "UdpSink"
+*.hostR[20].app[0].localPort = 5000
+
+
+#DOS Attack-----------------End------------------------------------------------
+
+
+
+
+#-----------------------------------------------------------------------------
+*.host*.wlan[0].typename = "WirelessInterface"
+#*.host*.wlan[0].radio.typename = "UnitDiskRadio"
+*.host*.wlan[0].mac.typename = "CsmaCaMac"
+*.host*.wlan[0].mac.ackTimeout = 300us
+*.host*.wlan[0].mac.useAck = true
+#*.host*.wlan[0].radio.transmitter.communicationRange = 250m
+
+*.host*.wlan[0].radio.displayCommunicationRange = false
+
+
+#*.host*.wlan[0].radio.receiver.ignoreInterference = true
+*.host*.wlan[0].mac.headerLength = 23B
+
+*.host*.**.bitrate = 1Mbps
+
+*.radioMedium.typename = "ApskScalarRadioMedium"
+*.radioMedium.backgroundNoise.power = -90dBm
+*.radioMedium.mediumLimitCache.centerFrequency = 2GHz
+
+*.host*.wlan[0].radio.typename = "ApskScalarRadio"
+*.host*.wlan[0].radio.centerFrequency = 2GHz
+*.host*.wlan[0].radio.bandwidth = 2MHz
+
+*.host*.wlan[0].radio.transmitter.preambleDuration = 10us
+*.host*.wlan[0].radio.transmitter.headerLength = 8B
+*.host*.wlan[0].radio.receiver.sensitivity = -85dBm
+*.host*.wlan[0].radio.receiver.energyDetection = -85dBm
+*.host*.wlan[0].radio.receiver.snirThreshold = 4dB
+
+#*.hostR1.wlan[*].radio.bitErrorRate.result-recording-modes = default,+vector
+
+
+#-----------------------------------------------------------------------------
+*.hostA.wlan[0].radio.displayCommunicationRange = true
+
+*.visualizer.sceneVisualizer.descriptionFigure = "title"
+
+*.visualizer.mediumVisualizer.displaySignals = true
+
+*.visualizer.physicalLinkVisualizer.displayLinks = true
+*.visualizer.physicalLinkVisualizer.packetFilter = "UDPData*"
+#-----------------------------------------------------------------------------
+
+*.host*.forwarding = true
+
+*.configurator.config = xml("<config><interface hosts='**' address='10.0.0.x' netmask='255.255.255.0'/><autoroute metric='errorRate'/></config>")
+*.configurator.optimizeRoutes = false
+*.host*.ipv4.routingTable.netmaskRoutes = ""
+
+
+*.configurator.addStaticRoutes = false
+
+*.host*.typename = "AodvRouter"
+
+*.hostB.wlan[0].radio.displayCommunicationRange = true
+
+*.visualizer.dataLinkVisualizer.packetFilter = "AODV*"
+
+
+*.visualizer.dataLinkVisualizer.displayLinks = true
+*.visualizer.networkRouteVisualizer.displayRoutes = true
+*.visualizer.*LinkVisualizer.lineShift = 0
+*.visualizer.networkRouteVisualizer.lineShift = 0
+*.visualizer.networkRouteVisualizer.packetFilter = "UDPData*"
+#-----------------------------------------------------------------------------
+
+
+*.host*.wlan[0].radio.energyConsumer.typename = "StateBasedEpEnergyConsumer"
+*.host*.wlan[0].radio.energyConsumer.sleepPowerConsumption = 1mW
+*.host*.wlan[0].radio.energyConsumer.switchingPowerConsumption = 1mW
+*.host*.wlan[0].radio.energyConsumer.receiverIdlePowerConsumption = 2mW
+*.host*.wlan[0].radio.energyConsumer.receiverBusyPowerConsumption = 5mW
+*.host*.wlan[0].radio.energyConsumer.receiverReceivingPowerConsumption = 10mW
+*.host*.wlan[0].radio.energyConsumer.transmitterIdlePowerConsumption = 2mW
+*.host*.wlan[0].radio.energyConsumer.transmitterTransmittingPowerConsumption = 100mW
+
+*.host*.energyStorage.typename = "IdealEpEnergyStorage"
+
+*.host*.wlan[0].radio.displayInterferenceRange = false
+
+
+**.mobility.constraintAreaMinZ = 0m
+**.mobility.constraintAreaMaxZ = 0m
+**.mobility.constraintAreaMinX = 0m
+**.mobility.constraintAreaMinY = 0m
+*.host*.mobility.constraintAreaMaxX = 500m
+*.host*.mobility.constraintAreaMaxY = 500m
+*.host*.mobility.typename = "MassMobility"
+*.host*.mobility.changeInterval = normal(5s, 0.1s)
+*.host*.mobility.angleDelta = normal(0deg, 30deg)
+#*.host*.mobility.speed = normal(2mps, 0.01mps)
+*.host*.mobility.speed =${speed = 1..20 step 1}mps
+*.host*.wlan[0].mac.queue.packetCapacity = 10
+
+
+
+*.visualizer.mobilityVisualizer.displayVelocities = true
+*.visualizer.mobilityVisualizer.displayMovementTrails = true
+
+
+###########################################################
+
+##for Dos & Blackhole attack uncomment the following line
+*.host*.wlan[0].radio.transmitter.power = 1.4mW
+
+##for Hello Flooding attack uncomment the following lines
+####------Hello Flooding Attack------------------
+#
+#*.hostA.wlan[0].radio.transmitter.power = 1.4mW
+#*.hostB.wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[0].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[1].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[3].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[4].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[5].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[7].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[8].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[10].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[11].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[12].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[13].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[14].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[15].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[16].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[17].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[18].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[19].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[20].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[21].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[22].wlan[0].radio.transmitter.power = 1.4mW
+#*.hostR[23].wlan[0].radio.transmitter.power = 1.4mW
+#
+#
+#
+#*.hostR[6].wlan[0].radio.transmitter.power = 50mW
+#*.hostR[2].wlan[0].radio.transmitter.power = 50mW
+#*.hostR[9].wlan[0].radio.transmitter.power = 50mW
+
+#---------------------------------------------------
+
+
+[Config RandomWaypointMobility]
+description = Mobility is set to RandomWaypoint
+extends = MassMobility
+*.host*.mobility.typename = "RandomWaypointMobility"
+
+

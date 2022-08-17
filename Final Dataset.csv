@@ -1,0 +1,2276 @@
+﻿Node,Mobility,Mobility_speed,packet_Received,packet_Sent,Forwarding_Difference,Energy,num_Received,num_Sent,packet_Drop,Transmission_Power,Attack_type,Type_of_node
+R0,RandomWayPoint,4,37,10,161,-1.138122366,1217,1056,0,1.4,Normal,Normal
+R1,RandomWayPoint,4,26,2,0,-0.198992862,0,0,0,1.4,Normal,Normal
+R2,RandomWayPoint,4,34,4,0,-0.206068118,0,0,0,1.4,Normal,Normal
+R3,RandomWayPoint,4,21,2,0,-0.164677882,0,0,0,1.4,Normal,Normal
+R4,RandomWayPoint,4,17,2,0,-0.168907607,0,0,0,1.4,Normal,Normal
+R5,RandomWayPoint,4,15,2,0,-0.195697185,0,0,0,1.4,Normal,Normal
+R6,RandomWayPoint,4,72,7,0,-0.253835847,35,35,0,1.4,Normal,Normal
+R7,RandomWayPoint,4,72,8,0,-0.206096548,0,0,0,1.4,Normal,Normal
+R8,RandomWayPoint,4,31,4,0,-0.263685063,0,0,0,1.4,Normal,Normal
+R9,RandomWayPoint,4,45,14,780,-0.70672103,1101,321,2,1.4,Normal,Normal
+R10,RandomWayPoint,4,67,14,8,-0.541900082,267,259,4,1.4,Normal,Normal
+R11,RandomWayPoint,4,44,6,0,-0.27467251,0,0,0,1.4,Normal,Normal
+R12,RandomWayPoint,4,59,8,73,-0.474852282,305,232,0,1.4,Normal,Normal
+R13,RandomWayPoint,4,31,7,0,-0.289554715,0,0,0,1.4,Normal,Normal
+R14,RandomWayPoint,4,15,2,0,-0.182954928,0,0,0,1.4,Normal,Normal
+R15,RandomWayPoint,4,65,12,0,-0.388110761,281,281,0,1.4,Normal,Normal
+R16,RandomWayPoint,4,70,7,0,-0.181613261,0,0,0,1.4,Normal,Normal
+R17,RandomWayPoint,4,67,11,2,-0.177862667,3,1,2,1.4,Normal,Normal
+R18,RandomWayPoint,4,77,9,0,-0.182053638,0,0,0,1.4,Normal,Normal
+R19,RandomWayPoint,4,45,5,0,-0.165352296,40,40,0,1.4,Normal,Normal
+R20,RandomWayPoint,4,56,5,0,-0.242641777,0,0,0,1.4,Normal,Normal
+R21,RandomWayPoint,4,72,8,0,-0.227179405,0,0,0,1.4,Normal,Normal
+R22,RandomWayPoint,4,61,8,0,-0.260300037,0,0,0,1.4,Normal,Normal
+A,RandomWayPoint,4,21,2070,-1269,-1.413721165,2,1271,1,1.4,Normal,Normal
+B,RandomWayPoint,4,347,9,321,-0.108105845,328,7,1,1.4,Normal,Normal
+R0,RandomWayPoint,8,72,7,0,-0.284591289,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,8,91,11,0,-0.285390235,0,0,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,8,97,14,565,-0.727835294,924,359,1,1.4,Blackhole,Normal
+R3,RandomWayPoint,8,73,7,0,-0.147118541,0,0,0,1.4,Blackhole,Normal
+R4,RandomWayPoint,8,92,11,0,-0.254819748,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,8,83,12,1,-0.298667037,3,2,1,1.4,Blackhole,Normal
+R6,RandomWayPoint,8,79,12,0,-0.286634742,1,1,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,8,98,14,2,-0.185196507,3,1,2,1.4,Blackhole,Normal
+R8,RandomWayPoint,8,77,12,72,-0.290231688,73,1,0,1.4,Blackhole,Attacker
+R9,RandomWayPoint,8,52,8,0,-0.107329915,0,0,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,8,87,14,3,-0.141667815,3,0,5,1.4,Blackhole,Normal
+R11,RandomWayPoint,8,74,10,0,-0.285406235,0,0,0,1.4,Blackhole,Normal
+R12,RandomWayPoint,8,105,14,159,-0.516567572,429,270,1,1.4,Blackhole,Normal
+R13,RandomWayPoint,8,87,10,0,-0.284530846,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,8,61,9,0,-0.233427519,0,0,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,8,87,11,0,-0.202926336,1,1,1,1.4,Blackhole,Normal
+R16,RandomWayPoint,8,102,12,1,-0.160347459,2,1,2,1.4,Blackhole,Normal
+R17,RandomWayPoint,8,85,13,0,-0.10432237,1,1,3,1.4,Blackhole,Normal
+R18,RandomWayPoint,8,98,15,214,-1.178831955,1235,1021,1,1.4,Blackhole,Normal
+R19,RandomWayPoint,8,88,10,0,-0.285158001,0,0,0,1.4,Blackhole,Normal
+R20,RandomWayPoint,8,78,11,0,-0.256450182,1,1,0,1.4,Blackhole,Normal
+R21,RandomWayPoint,8,87,13,87,-0.308102863,111,24,1,1.4,Blackhole,Normal
+R22,RandomWayPoint,8,106,17,1,-0.222320859,29,28,5,1.4,Blackhole,Normal
+A,RandomWayPoint,8,63,2123,-1299,-1.384078467,3,1302,1,1.4,Blackhole,Normal
+B,RandomWayPoint,8,439,14,365,-0.136315587,374,9,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,12,58,7,0,-0.283883508,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,12,57,8,0,-0.265328674,14,14,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,12,40,7,0,-0.28181356,0,0,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,12,42,3,0,-0.21259243,0,0,0,1.4,Blackhole,Normal
+R4,RandomWayPoint,12,30,5,0,-0.222969214,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,12,55,6,0,-0.249663386,0,0,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,12,53,7,0,-0.287627702,0,0,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,12,63,8,0,-0.17789024,2,2,2,1.4,Blackhole,Normal
+R8,RandomWayPoint,12,58,7,0,-0.224364861,0,0,0,1.4,Blackhole,Normal
+R9,RandomWayPoint,12,22,5,0,-0.213925486,0,0,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,12,39,6,0,-0.293116405,5,5,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,12,71,10,1,-0.266984061,10,9,1,1.4,Blackhole,Normal
+R12,RandomWayPoint,12,66,10,636,-0.252858971,638,2,2,1.4,Blackhole,Attacker
+R13,RandomWayPoint,12,49,7,0,-0.277025248,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,12,47,7,0,-0.279714044,0,0,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,12,54,7,0,-0.289653508,0,0,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,12,69,10,2,-0.248301324,2,0,3,1.4,Blackhole,Normal
+R17,RandomWayPoint,12,50,3,0,-0.228609225,0,0,0,1.4,Blackhole,Normal
+R18,RandomWayPoint,12,63,9,260,-0.948262727,957,697,0,1.4,Blackhole,Normal
+R19,RandomWayPoint,12,54,10,39,-0.893570353,714,675,3,1.4,Blackhole,Normal
+R20,RandomWayPoint,12,71,11,0,-0.251722837,31,31,1,1.4,Blackhole,Normal
+R21,RandomWayPoint,12,49,7,0,-0.26149581,0,0,0,1.4,Blackhole,Normal
+R22,RandomWayPoint,12,69,9,34,-0.79851958,662,628,0,1.4,Blackhole,Normal
+A,RandomWayPoint,12,41,2084,-965,-1.193903032,3,968,3,1.4,Blackhole,Normal
+B,RandomWayPoint,12,77,12,32,-0.180246337,39,7,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,16,62,10,0,-0.140765516,0,0,0,1.4,Normal,Normal
+R1,RandomWayPoint,16,37,9,10,-0.450602426,268,258,0,1.4,Normal,Normal
+R2,RandomWayPoint,16,61,10,0,-0.223084809,1,1,0,1.4,Normal,Normal
+R3,RandomWayPoint,16,53,12,129,-0.615028594,519,390,0,1.4,Normal,Normal
+R4,RandomWayPoint,16,65,16,0,-0.226683584,4,4,1,1.4,Normal,Normal
+R5,RandomWayPoint,16,61,8,-3,-0.18929632,0,3,0,1.4,Normal,Normal
+R6,RandomWayPoint,16,52,9,0,-0.190797163,0,0,0,1.4,Normal,Normal
+R7,RandomWayPoint,16,68,11,0,-0.219878731,1,1,0,1.4,Normal,Normal
+R8,RandomWayPoint,16,75,12,6,-0.176624165,31,25,1,1.4,Normal,Normal
+R9,RandomWayPoint,16,59,10,31,-0.378745352,158,127,0,1.4,Normal,Normal
+R10,RandomWayPoint,16,66,10,-3,-0.225998601,0,3,0,1.4,Normal,Normal
+R11,RandomWayPoint,16,58,10,0,-0.186634839,0,0,0,1.4,Normal,Normal
+R12,RandomWayPoint,16,44,6,0,-0.105334951,0,0,0,1.4,Normal,Normal
+R13,RandomWayPoint,16,54,9,-2,-0.212129566,0,2,1,1.4,Normal,Normal
+R14,RandomWayPoint,16,67,16,364,-0.614367804,643,279,11,1.4,Normal,Normal
+R15,RandomWayPoint,16,69,16,13,-0.31842012,76,63,0,1.4,Normal,Normal
+R16,RandomWayPoint,16,63,11,-4,-0.228682764,0,4,0,1.4,Normal,Normal
+R17,RandomWayPoint,16,65,11,132,-0.288383636,203,71,0,1.4,Normal,Normal
+R18,RandomWayPoint,16,46,8,0,-0.240286674,0,0,1,1.4,Normal,Normal
+R19,RandomWayPoint,16,60,16,28,-0.2591428,47,19,7,1.4,Normal,Normal
+R20,RandomWayPoint,16,58,7,-1,-0.162910454,0,1,0,1.4,Normal,Normal
+R21,RandomWayPoint,16,56,12,-3,-0.346360401,176,179,0,1.4,Normal,Normal
+R22,RandomWayPoint,16,62,8,-1,-0.226289184,0,1,0,1.4,Normal,Normal
+A,RandomWayPoint,16,66,1998,-1367,-1.501112238,6,1373,2,1.4,Normal,Normal
+B,RandomWayPoint,16,789,11,724,-0.226752998,730,6,2,1.4,Normal,Normal
+R0,RandomWayPoint,20,103,16,0,-0.18738427,0,0,0,1.4,Normal,Normal
+R1,RandomWayPoint,20,110,20,-1,-0.183024973,0,1,0,1.4,Normal,Normal
+R2,RandomWayPoint,20,125,20,0,-0.202443686,4,4,0,1.4,Normal,Normal
+R3,RandomWayPoint,20,122,17,0,-0.157206699,0,0,0,1.4,Normal,Normal
+R4,RandomWayPoint,20,108,26,162,-0.561808957,499,337,8,1.4,Normal,Normal
+R5,RandomWayPoint,20,132,20,0,-0.183603405,3,3,0,1.4,Normal,Normal
+R6,RandomWayPoint,20,112,20,0,-0.197253085,4,4,0,1.4,Normal,Normal
+R7,RandomWayPoint,20,105,19,0,-0.256808165,1,1,0,1.4,Normal,Normal
+R8,RandomWayPoint,20,151,19,0,-0.228500024,0,0,0,1.4,Normal,Normal
+R9,RandomWayPoint,20,128,19,-1,-0.207107925,0,1,0,1.4,Normal,Normal
+R10,RandomWayPoint,20,128,18,0,-0.19090779,0,0,0,1.4,Normal,Normal
+R11,RandomWayPoint,20,131,25,0,-0.256876684,1,1,0,1.4,Normal,Normal
+R12,RandomWayPoint,20,134,18,1,-0.15030568,1,0,1,1.4,Normal,Normal
+R13,RandomWayPoint,20,137,23,275,-0.524225283,510,235,11,1.4,Normal,Normal
+R14,RandomWayPoint,20,146,20,-1,-0.229820496,0,1,0,1.4,Normal,Normal
+R15,RandomWayPoint,20,144,20,-1,-0.206128302,22,23,1,1.4,Normal,Normal
+R16,RandomWayPoint,20,149,24,0,-0.234259183,0,0,0,1.4,Normal,Normal
+R17,RandomWayPoint,20,142,24,2,-0.493320945,273,271,0,1.4,Normal,Normal
+R18,RandomWayPoint,20,127,25,244,-0.376560419,276,32,12,1.4,Normal,Normal
+R19,RandomWayPoint,20,131,19,-2,-0.222335138,1,3,0,1.4,Normal,Normal
+R20,RandomWayPoint,20,109,16,0,-0.122415871,0,0,0,1.4,Normal,Normal
+R21,RandomWayPoint,20,111,17,0,-0.184876036,0,0,0,1.4,Normal,Normal
+R22,RandomWayPoint,20,120,17,0,-0.198101731,0,0,0,1.4,Normal,Normal
+A,RandomWayPoint,20,156,1976,-1316,-1.512170495,24,1340,20,1.4,Normal,Normal
+B,RandomWayPoint,20,826,23,686,-0.171481288,700,14,2,1.4,Normal,Normal
+R0,RandomWayPoint,4,37,10,161,-1.138122366,1217,1056,0,1.4,Normal,Normal
+R1,RandomWayPoint,4,26,2,0,-0.198992862,0,0,0,1.4,Normal,Normal
+R2,RandomWayPoint,4,34,4,0,-0.206068118,0,0,0,1.4,Normal,Normal
+R3,RandomWayPoint,4,21,2,0,-0.164677882,0,0,0,1.4,Normal,Normal
+R4,RandomWayPoint,4,17,2,0,-0.168907607,0,0,0,1.4,Normal,Normal
+R5,RandomWayPoint,4,15,2,0,-0.195697185,0,0,0,1.4,Normal,Normal
+R6,RandomWayPoint,4,72,7,0,-0.253835847,35,35,0,1.4,Normal,Normal
+R7,RandomWayPoint,4,72,8,0,-0.206096548,0,0,0,1.4,Normal,Normal
+R8,RandomWayPoint,4,31,4,0,-0.263685063,0,0,0,1.4,Normal,Normal
+R9,RandomWayPoint,4,45,14,780,-0.70672103,1101,321,2,1.4,Normal,Normal
+R10,RandomWayPoint,4,67,14,8,-0.541900082,267,259,4,1.4,Normal,Normal
+R11,RandomWayPoint,4,44,6,0,-0.27467251,0,0,0,1.4,Normal,Normal
+R12,RandomWayPoint,4,59,8,73,-0.474852282,305,232,0,1.4,Normal,Normal
+R13,RandomWayPoint,4,31,7,0,-0.289554715,0,0,0,1.4,Normal,Normal
+R14,RandomWayPoint,4,15,2,0,-0.182954928,0,0,0,1.4,Normal,Normal
+R15,RandomWayPoint,4,65,12,0,-0.388110761,281,281,0,1.4,Normal,Normal
+R16,RandomWayPoint,4,70,7,0,-0.181613261,0,0,0,1.4,Normal,Normal
+R17,RandomWayPoint,4,67,11,2,-0.177862667,3,1,2,1.4,Normal,Normal
+R18,RandomWayPoint,4,77,9,0,-0.182053638,0,0,0,1.4,Normal,Normal
+R19,RandomWayPoint,4,45,5,0,-0.165352296,40,40,0,1.4,Normal,Normal
+R20,RandomWayPoint,4,56,5,0,-0.242641777,0,0,0,1.4,Normal,Normal
+R21,RandomWayPoint,4,72,8,0,-0.227179405,0,0,0,1.4,Normal,Normal
+R22,RandomWayPoint,4,61,8,0,-0.260300037,0,0,0,1.4,Normal,Normal
+A,RandomWayPoint,4,21,2070,-1269,-1.413721165,2,1271,1,1.4,Normal,Normal
+B,RandomWayPoint,4,347,9,321,-0.108105845,328,7,1,1.4,Normal,Normal
+R0,RandomWayPoint,8,7,1,0,-0.282851972,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,8,16,2,0,-0.290617632,0,0,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,8,19,1,0,-0.281509368,0,0,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,8,6,0,0,-0.122101424,0,0,0,1.4,Blackhole,Normal
+R4,RandomWayPoint,8,16,1,0,-0.244251448,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,8,15,2,1515,-0.318136775,1516,1,0,1.4,Blackhole,Attacker
+R6,RandomWayPoint,8,13,2,0,-0.290602314,0,0,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,8,6,1,0,-0.200085258,0,0,0,1.4,Blackhole,Normal
+R8,RandomWayPoint,8,11,2,0,-0.290585921,0,0,0,1.4,Blackhole,Normal
+R9,RandomWayPoint,8,8,1,0,-0.166891996,0,0,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,8,6,1,0,-0.109936308,0,0,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,8,12,2,0,-0.290234914,0,0,0,1.4,Blackhole,Normal
+R12,RandomWayPoint,8,7,1,0,-0.187756411,0,0,0,1.4,Blackhole,Normal
+R13,RandomWayPoint,8,17,1,0,-0.285410162,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,8,4,1,0,-0.215678514,0,0,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,8,6,1,0,-0.169228316,0,0,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,8,10,0,0,-0.061986553,0,0,0,1.4,Blackhole,Normal
+R17,RandomWayPoint,8,6,1,0,-0.065484889,0,0,0,1.4,Blackhole,Normal
+R18,RandomWayPoint,8,14,3,176,-1.558257305,1690,1514,0,1.4,Blackhole,Normal
+R19,RandomWayPoint,8,14,2,0,-0.290601915,0,0,0,1.4,Blackhole,Normal
+R20,RandomWayPoint,8,9,1,0,-0.251618639,0,0,0,1.4,Blackhole,Normal
+R21,RandomWayPoint,8,16,1,0,-0.282086179,0,0,0,1.4,Blackhole,Normal
+R22,RandomWayPoint,8,9,2,0,-0.145997472,1,1,0,1.4,Blackhole,Normal
+A,RandomWayPoint,8,9,1963,-1688,-1.626940593,1,1689,0,1.4,Blackhole,Normal
+B,RandomWayPoint,8,6,1,-1,-0.103300113,0,1,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,12,58,7,0,-0.283883508,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,12,57,8,0,-0.265328674,14,14,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,12,40,7,0,-0.28181356,0,0,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,12,42,3,0,-0.21259243,0,0,0,1.4,Blackhole,Normal
+R4,RandomWayPoint,12,30,5,0,-0.222969214,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,12,55,6,0,-0.249663386,0,0,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,12,53,7,0,-0.287627702,0,0,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,12,63,8,0,-0.17789024,2,2,2,1.4,Blackhole,Normal
+R8,RandomWayPoint,12,58,7,0,-0.224364861,0,0,0,1.4,Blackhole,Normal
+R9,RandomWayPoint,12,22,5,0,-0.213925486,0,0,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,12,39,6,0,-0.293116405,5,5,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,12,71,10,1,-0.266984061,10,9,1,1.4,Blackhole,Normal
+R12,RandomWayPoint,12,66,10,636,-0.252858971,638,2,2,1.4,Blackhole,Attacker
+R13,RandomWayPoint,12,49,7,0,-0.277025248,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,12,47,7,0,-0.279714044,0,0,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,12,54,7,0,-0.289653508,0,0,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,12,69,10,2,-0.248301324,2,0,3,1.4,Blackhole,Normal
+R17,RandomWayPoint,12,50,3,0,-0.228609225,0,0,0,1.4,Blackhole,Normal
+R18,RandomWayPoint,12,63,9,260,-0.948262727,957,697,0,1.4,Blackhole,Normal
+R19,RandomWayPoint,12,54,10,39,-0.893570353,714,675,3,1.4,Blackhole,Normal
+R20,RandomWayPoint,12,71,11,0,-0.251722837,31,31,1,1.4,Blackhole,Normal
+R21,RandomWayPoint,12,49,7,0,-0.26149581,0,0,0,1.4,Blackhole,Normal
+R22,RandomWayPoint,12,69,9,34,-0.79851958,662,628,0,1.4,Blackhole,Normal
+A,RandomWayPoint,12,41,2084,-965,-1.193903032,3,968,3,1.4,Blackhole,Normal
+B,RandomWayPoint,12,77,12,32,-0.180246337,39,7,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,16,62,10,0,-0.140765516,0,0,0,1.4,Normal,Normal
+R1,RandomWayPoint,16,37,9,10,-0.450602426,268,258,0,1.4,Normal,Normal
+R2,RandomWayPoint,16,61,10,0,-0.223084809,1,1,0,1.4,Normal,Normal
+R3,RandomWayPoint,16,53,12,129,-0.615028594,519,390,0,1.4,Normal,Normal
+R4,RandomWayPoint,16,65,16,0,-0.226683584,4,4,1,1.4,Normal,Normal
+R5,RandomWayPoint,16,61,8,-3,-0.18929632,0,3,0,1.4,Normal,Normal
+R6,RandomWayPoint,16,52,9,0,-0.190797163,0,0,0,1.4,Normal,Normal
+R7,RandomWayPoint,16,68,11,0,-0.219878731,1,1,0,1.4,Normal,Normal
+R8,RandomWayPoint,16,75,12,6,-0.176624165,31,25,1,1.4,Normal,Normal
+R9,RandomWayPoint,16,59,10,31,-0.378745352,158,127,0,1.4,Normal,Normal
+R10,RandomWayPoint,16,66,10,-3,-0.225998601,0,3,0,1.4,Normal,Normal
+R11,RandomWayPoint,16,58,10,0,-0.186634839,0,0,0,1.4,Normal,Normal
+R12,RandomWayPoint,16,44,6,0,-0.105334951,0,0,0,1.4,Normal,Normal
+R13,RandomWayPoint,16,54,9,-2,-0.212129566,0,2,1,1.4,Normal,Normal
+R14,RandomWayPoint,16,67,16,364,-0.614367804,643,279,11,1.4,Normal,Normal
+R15,RandomWayPoint,16,69,16,13,-0.31842012,76,63,0,1.4,Normal,Normal
+R16,RandomWayPoint,16,63,11,-4,-0.228682764,0,4,0,1.4,Normal,Normal
+R17,RandomWayPoint,16,65,11,132,-0.288383636,203,71,0,1.4,Normal,Normal
+R18,RandomWayPoint,16,46,8,0,-0.240286674,0,0,1,1.4,Normal,Normal
+R19,RandomWayPoint,16,60,16,28,-0.2591428,47,19,7,1.4,Normal,Normal
+R20,RandomWayPoint,16,58,7,-1,-0.162910454,0,1,0,1.4,Normal,Normal
+R21,RandomWayPoint,16,56,12,-3,-0.346360401,176,179,0,1.4,Normal,Normal
+R22,RandomWayPoint,16,62,8,-1,-0.226289184,0,1,0,1.4,Normal,Normal
+A,RandomWayPoint,16,66,1998,-1367,-1.501112238,6,1373,2,1.4,Normal,Normal
+B,RandomWayPoint,16,789,11,724,-0.226752998,730,6,2,1.4,Normal,Normal
+R0,RandomWayPoint,20,92,17,-1,-0.243712637,0,1,0,1.4,Normal,Normal
+R1,RandomWayPoint,20,77,17,0,-0.166502231,1,1,0,1.4,Normal,Normal
+R2,RandomWayPoint,20,109,17,4,-0.254555023,5,1,3,1.4,Normal,Normal
+R3,RandomWayPoint,20,71,10,0,-0.150020758,0,0,0,1.4,Normal,Normal
+R4,RandomWayPoint,20,92,18,0,-0.16771944,0,0,0,1.4,Normal,Normal
+R5,RandomWayPoint,20,121,16,-5,-0.229291599,12,17,0,1.4,Normal,Normal
+R6,RandomWayPoint,20,97,13,-1,-0.205814168,0,1,0,1.4,Normal,Normal
+R7,RandomWayPoint,20,99,20,212,-0.912158645,913,701,0,1.4,Normal,Normal
+R8,RandomWayPoint,20,119,18,-2,-0.235858203,1,3,0,1.4,Normal,Normal
+R9,RandomWayPoint,20,144,19,-6,-0.218271467,3,9,0,1.4,Normal,Normal
+R10,RandomWayPoint,20,96,15,0,-0.264257587,1,1,0,1.4,Normal,Normal
+R11,RandomWayPoint,20,83,17,0,-0.265985622,0,0,0,1.4,Normal,Normal
+R12,RandomWayPoint,20,127,19,-4,-0.178668588,11,15,1,1.4,Normal,Normal
+R13,RandomWayPoint,20,82,14,0,-0.260707973,0,0,0,1.4,Normal,Normal
+R14,RandomWayPoint,20,134,17,-1,-0.246114461,2,3,0,1.4,Normal,Normal
+R15,RandomWayPoint,20,114,16,-2,-0.20784637,3,5,1,1.4,Normal,Normal
+R16,RandomWayPoint,20,117,21,71,-0.485099316,342,271,0,1.4,Normal,Normal
+R17,RandomWayPoint,20,113,22,245,-0.328584257,297,52,1,1.4,Normal,Normal
+R18,RandomWayPoint,20,101,20,1,-0.280189599,8,7,1,1.4,Normal,Normal
+R19,RandomWayPoint,20,85,14,0,-0.266669906,0,0,0,1.4,Normal,Normal
+R20,RandomWayPoint,20,87,9,0,-0.159293747,1,1,0,1.4,Normal,Normal
+R21,RandomWayPoint,20,107,23,14,-0.309422673,58,44,9,1.4,Normal,Normal
+R22,RandomWayPoint,20,113,23,42,-0.903061256,737,695,16,1.4,Normal,Normal
+A,RandomWayPoint,20,109,2004,-1244,-1.350699544,10,1254,2,1.4,Normal,Normal
+B,RandomWayPoint,20,811,19,700,-0.230850866,713,13,2,1.4,Normal,Normal
+R0,RandomWayPoint,4,8,2,0,-0.203120022,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,4,7,1,0,-0.083617868,0,0,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,4,9,1,0,-0.06363464,0,0,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,4,7,1,0,-0.090190441,0,0,0,1.4,Blackhole,Normal
+R4,RandomWayPoint,4,7,1,0,-0.105219505,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,4,7,1,0,-0.134559842,0,0,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,4,9,2,0,-0.068368155,1,1,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,4,12,1,0,-0.063031395,0,0,0,1.4,Blackhole,Normal
+R8,RandomWayPoint,4,10,1,0,-0.153526834,0,0,0,1.4,Blackhole,Normal
+R9,RandomWayPoint,4,10,3,2033,-0.24310754,2034,1,0,1.4,Blackhole,Attacker
+R10,RandomWayPoint,4,8,1,0,-0.068002596,0,0,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,4,9,1,0,-0.170410161,0,0,0,1.4,Blackhole,Normal
+R12,RandomWayPoint,4,10,1,0,-0.115667574,0,0,0,1.4,Blackhole,Normal
+R13,RandomWayPoint,4,7,2,0,-0.203112002,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,4,7,1,0,-0.122113024,0,0,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,4,7,1,0,-0.060485688,0,0,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,4,9,1,0,-0.062792439,0,0,0,1.4,Blackhole,Normal
+R17,RandomWayPoint,4,7,1,0,-0.034725956,0,0,0,1.4,Blackhole,Normal
+R18,RandomWayPoint,4,11,1,0,-0.062197903,0,0,0,1.4,Blackhole,Normal
+R19,RandomWayPoint,4,7,2,0,-0.060468505,1,1,0,1.4,Blackhole,Normal
+R20,RandomWayPoint,4,8,1,0,-0.092326661,0,0,0,1.4,Blackhole,Normal
+R21,RandomWayPoint,4,11,1,0,-0.063709784,0,0,0,1.4,Blackhole,Normal
+R22,RandomWayPoint,4,10,1,0,-0.119676651,0,0,0,1.4,Blackhole,Normal
+A,RandomWayPoint,4,7,2041,-2032,-1.770883522,1,2033,0,1.4,Blackhole,Normal
+B,RandomWayPoint,4,3,1,-1,-0.000832621,0,1,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,10,11,2,0,-0.1998089,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,10,7,1,0,-0.17863939,0,0,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,10,2,0,0,-0.101193496,0,0,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,10,12,1,0,-0.180800185,0,0,0,1.4,Blackhole,Normal
+R4,RandomWayPoint,10,9,1,0,-0.190784434,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,10,11,2,0,-0.199804758,0,0,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,10,11,2,0,-0.174049799,1,1,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,10,8,1,0,-0.104174885,0,0,0,1.4,Blackhole,Normal
+R8,RandomWayPoint,10,8,1,0,-0.135698161,0,0,0,1.4,Blackhole,Normal
+R9,RandomWayPoint,10,11,2,0,-0.199784881,0,0,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,10,12,3,1998,-0.239089576,1999,1,0,1.4,Blackhole,Attacker
+R11,RandomWayPoint,10,12,2,0,-0.199842098,0,0,0,1.4,Blackhole,Normal
+R12,RandomWayPoint,10,8,1,0,-0.160608941,0,0,0,1.4,Blackhole,Normal
+R13,RandomWayPoint,10,4,0,0,-0.148797411,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,10,7,2,0,-0.163293445,1,1,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,10,4,1,0,-0.15097076,0,0,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,10,6,1,0,-0.157334561,0,0,0,1.4,Blackhole,Normal
+R17,RandomWayPoint,10,4,1,0,-0.140373918,0,0,0,1.4,Blackhole,Normal
+R18,RandomWayPoint,10,8,1,0,-0.180241946,0,0,0,1.4,Blackhole,Normal
+R19,RandomWayPoint,10,10,2,0,-0.199343192,0,0,0,1.4,Blackhole,Normal
+R20,RandomWayPoint,10,6,1,0,-0.156789271,0,0,0,1.4,Blackhole,Normal
+R21,RandomWayPoint,10,4,1,0,-0.150813561,0,0,0,1.4,Blackhole,Normal
+R22,RandomWayPoint,10,6,1,0,-0.15101298,0,0,0,1.4,Blackhole,Normal
+A,RandomWayPoint,10,12,2020,-1997,-1.730792831,1,1998,0,1.4,Blackhole,Normal
+B,RandomWayPoint,10,2,1,-1,-0.110675806,0,1,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,12,15,2,0,-0.276096232,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,12,17,3,34,-1.585482544,1599,1565,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,12,12,2,0,-0.289492414,0,0,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,12,4,0,0,-0.193928224,0,0,0,1.4,Blackhole,Normal
+R4,RandomWayPoint,12,7,1,0,-0.257168472,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,12,5,1,0,-0.22273652,0,0,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,12,15,2,0,-0.287983709,0,0,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,12,7,2,0,-0.171529964,1,1,0,1.4,Blackhole,Normal
+R8,RandomWayPoint,12,7,1,0,-0.233498817,0,0,0,1.4,Blackhole,Normal
+R9,RandomWayPoint,12,5,1,0,-0.25054918,0,0,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,12,10,1,0,-0.270091445,0,0,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,12,8,1,0,-0.247580485,0,0,0,1.4,Blackhole,Normal
+R12,RandomWayPoint,12,7,1,0,-0.214998514,0,0,0,1.4,Blackhole,Normal
+R13,RandomWayPoint,12,14,2,0,-0.272065481,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,12,12,1,0,-0.252111996,0,0,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,12,12,1,0,-0.288801594,0,0,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,12,8,1,0,-0.220086447,0,0,0,1.4,Blackhole,Normal
+R17,RandomWayPoint,12,5,0,0,-0.199836047,0,0,0,1.4,Blackhole,Normal
+R18,RandomWayPoint,12,15,2,0,-0.271717759,0,0,0,1.4,Blackhole,Normal
+R19,RandomWayPoint,12,12,2,1587,-0.308034764,1588,1,0,1.4,Blackhole,Attacker
+R20,RandomWayPoint,12,8,1,0,-0.226654681,0,0,0,1.4,Blackhole,Normal
+R21,RandomWayPoint,12,8,1,0,-0.261427672,0,0,0,1.4,Blackhole,Normal
+R22,RandomWayPoint,12,9,1,0,-0.252766736,0,0,0,1.4,Blackhole,Normal
+A,RandomWayPoint,12,13,1963,-1596,-1.592225772,1,1597,0,1.4,Blackhole,Normal
+B,RandomWayPoint,12,3,1,-1,-0.162707011,0,1,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,16,86,15,0,-0.122931982,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,16,55,17,0,-0.185452717,1,1,1,1.4,Blackhole,Normal
+R2,RandomWayPoint,16,94,18,33,-0.18723933,57,24,1,1.4,Blackhole,Normal
+R3,RandomWayPoint,16,84,18,812,-0.181585847,816,4,0,1.4,Blackhole,Attacker
+R4,RandomWayPoint,16,85,19,-1,-0.144092035,3,4,2,1.4,Blackhole,Normal
+R5,RandomWayPoint,16,118,15,-3,-0.112572211,2,5,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,16,77,21,0,-0.108451517,15,15,2,1.4,Blackhole,Normal
+R7,RandomWayPoint,16,86,15,0,-0.191371022,0,0,0,1.4,Blackhole,Normal
+R8,RandomWayPoint,16,121,20,7,-0.167757494,32,25,7,1.4,Blackhole,Normal
+R9,RandomWayPoint,16,99,19,-2,-0.222107903,26,28,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,16,115,14,-2,-0.168735424,0,2,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,16,79,14,0,-0.094426222,0,0,0,1.4,Blackhole,Normal
+R12,RandomWayPoint,16,96,12,0,-0.052495362,0,0,0,1.4,Blackhole,Normal
+R13,RandomWayPoint,16,112,15,-1,-0.157572288,5,6,2,1.4,Blackhole,Normal
+R14,RandomWayPoint,16,80,16,0,-0.210561539,0,0,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,16,81,16,16,-0.251991853,68,52,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,16,107,19,9,-0.202221994,19,10,5,1.4,Blackhole,Normal
+R17,RandomWayPoint,16,95,20,94,-0.264066573,161,67,5,1.4,Blackhole,Normal
+R18,RandomWayPoint,16,66,14,-1,-0.179889482,0,1,1,1.4,Blackhole,Normal
+R19,RandomWayPoint,16,79,19,28,-0.15318689,53,25,3,1.4,Blackhole,Normal
+R20,RandomWayPoint,16,107,15,0,-0.075177555,0,0,1,1.4,Blackhole,Normal
+R21,RandomWayPoint,16,123,18,26,-0.159123209,31,5,0,1.4,Blackhole,Attacker
+R22,RandomWayPoint,16,119,14,-1,-0.106335029,0,1,0,1.4,Blackhole,Normal
+A,RandomWayPoint,16,86,1990,-1777,-1.672075796,8,1785,3,1.4,Blackhole,Normal
+B,RandomWayPoint,16,910,18,799,-0.168628059,808,9,4,1.4,Blackhole,Normal
+R0,RandomWayPoint,20,103,16,0,-0.18738427,0,0,0,1.4,Normal,Normal
+R1,RandomWayPoint,20,110,20,-1,-0.183024973,0,1,0,1.4,Normal,Normal
+R2,RandomWayPoint,20,125,20,0,-0.202443686,4,4,0,1.4,Normal,Normal
+R3,RandomWayPoint,20,122,17,0,-0.157206699,0,0,0,1.4,Normal,Normal
+R4,RandomWayPoint,20,108,26,162,-0.561808957,499,337,8,1.4,Normal,Normal
+R5,RandomWayPoint,20,132,20,0,-0.183603405,3,3,0,1.4,Normal,Normal
+R6,RandomWayPoint,20,112,20,0,-0.197253085,4,4,0,1.4,Normal,Normal
+R7,RandomWayPoint,20,105,19,0,-0.256808165,1,1,0,1.4,Normal,Normal
+R8,RandomWayPoint,20,151,19,0,-0.228500024,0,0,0,1.4,Normal,Normal
+R9,RandomWayPoint,20,128,19,-1,-0.207107925,0,1,0,1.4,Normal,Normal
+R10,RandomWayPoint,20,128,18,0,-0.19090779,0,0,0,1.4,Normal,Normal
+R11,RandomWayPoint,20,131,25,0,-0.256876684,1,1,0,1.4,Normal,Normal
+R12,RandomWayPoint,20,134,18,1,-0.15030568,1,0,1,1.4,Normal,Normal
+R13,RandomWayPoint,20,137,23,275,-0.524225283,510,235,11,1.4,Normal,Normal
+R14,RandomWayPoint,20,146,20,-1,-0.229820496,0,1,0,1.4,Normal,Normal
+R15,RandomWayPoint,20,144,20,-1,-0.206128302,22,23,1,1.4,Normal,Normal
+R16,RandomWayPoint,20,149,24,0,-0.234259183,0,0,0,1.4,Normal,Normal
+R17,RandomWayPoint,20,142,24,2,-0.493320945,273,271,0,1.4,Normal,Normal
+R18,RandomWayPoint,20,127,25,244,-0.376560419,276,32,12,1.4,Normal,Normal
+R19,RandomWayPoint,20,131,19,-2,-0.222335138,1,3,0,1.4,Normal,Normal
+R20,RandomWayPoint,20,109,16,0,-0.122415871,0,0,0,1.4,Normal,Normal
+R21,RandomWayPoint,20,111,17,0,-0.184876036,0,0,0,1.4,Normal,Normal
+R22,RandomWayPoint,20,120,17,0,-0.198101731,0,0,0,1.4,Normal,Normal
+A,RandomWayPoint,20,156,1976,-1316,-1.512170495,24,1340,20,1.4,Normal,Normal
+B,RandomWayPoint,20,826,23,686,-0.171481288,700,14,2,1.4,Normal,Normal
+R0,RandomWayPoint,4,75,16,554,-1.056086976,1360,806,3,1.4,Normal,Normal
+R1,RandomWayPoint,4,69,7,0,-0.15191525,0,0,0,1.4,Normal,Normal
+R2,RandomWayPoint,4,84,8,0,-0.161740025,0,0,0,1.4,Normal,Normal
+R3,RandomWayPoint,4,66,7,0,-0.122462592,0,0,0,1.4,Normal,Normal
+R4,RandomWayPoint,4,49,7,0,-0.132498098,0,0,0,1.4,Normal,Normal
+R5,RandomWayPoint,4,56,7,0,-0.162461088,0,0,0,1.4,Normal,Normal
+R6,RandomWayPoint,4,102,14,17,-0.20699166,60,43,0,1.4,Normal,Normal
+R7,RandomWayPoint,4,102,9,0,-0.175885524,0,0,0,1.4,Normal,Normal
+R8,RandomWayPoint,4,70,9,0,-0.251184302,0,0,0,1.4,Normal,Normal
+R9,RandomWayPoint,4,80,16,34,-0.373521867,90,56,0,1.4,Normal,Normal
+R10,RandomWayPoint,4,100,11,652,-0.168725147,654,2,0,1.4,Normal,Attacker
+R11,RandomWayPoint,4,84,12,0,-0.259708157,2,2,0,1.4,Normal,Normal
+R12,RandomWayPoint,4,80,12,187,-0.76383375,785,598,0,1.4,Normal,Normal
+R13,RandomWayPoint,4,64,12,0,-0.286545467,0,0,0,1.4,Normal,Normal
+R14,RandomWayPoint,4,50,7,0,-0.147868715,0,0,0,1.4,Normal,Normal
+R15,RandomWayPoint,4,88,8,-1,-0.113419602,1,2,0,1.4,Normal,Normal
+R16,RandomWayPoint,4,94,10,0,-0.136484083,1,1,0,1.4,Normal,Normal
+R17,RandomWayPoint,4,91,11,2,-0.144134767,3,1,2,1.4,Normal,Normal
+R18,RandomWayPoint,4,99,9,0,-0.14772833,0,0,0,1.4,Normal,Normal
+R19,RandomWayPoint,4,79,8,0,-0.121437408,40,40,0,1.4,Normal,Normal
+R20,RandomWayPoint,4,103,10,0,-0.207083293,0,0,0,1.4,Normal,Normal
+R21,RandomWayPoint,4,107,10,0,-0.187336659,0,0,0,1.4,Normal,Normal
+R22,RandomWayPoint,4,92,10,0,-0.228864336,0,0,0,1.4,Normal,Normal
+A,RandomWayPoint,4,50,2013,-1410,-1.462777629,4,1414,1,1.4,Normal,Normal
+B,RandomWayPoint,4,89,12,43,-0.072225863,49,6,3,1.4,Normal,Normal
+R0,RandomWayPoint,10,11,2,0,-0.288417403,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,10,7,1,0,-0.264351602,0,0,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,10,2,0,0,-0.096183355,0,0,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,10,12,1,0,-0.270980354,0,0,0,1.4,Blackhole,Normal
+R4,RandomWayPoint,10,9,1,0,-0.279818747,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,10,11,2,0,-0.289861249,0,0,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,10,11,2,1503,-0.293776453,1504,1,0,1.4,Blackhole,Attacker
+R7,RandomWayPoint,10,8,1,0,-0.128654958,0,0,0,1.4,Blackhole,Normal
+R8,RandomWayPoint,10,8,1,0,-0.183660407,0,0,0,1.4,Blackhole,Normal
+R9,RandomWayPoint,10,11,2,0,-0.287451398,0,0,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,10,12,3,204,-1.538732141,1665,1461,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,10,12,2,0,-0.248684592,0,0,0,1.4,Blackhole,Normal
+R12,RandomWayPoint,10,8,1,0,-0.228931678,0,0,0,1.4,Blackhole,Normal
+R13,RandomWayPoint,10,4,0,0,-0.209265488,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,10,7,2,0,-0.241109216,1,1,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,10,4,1,0,-0.225076168,0,0,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,10,6,1,0,-0.230670088,0,0,0,1.4,Blackhole,Normal
+R17,RandomWayPoint,10,4,1,0,-0.192708448,0,0,0,1.4,Blackhole,Normal
+R18,RandomWayPoint,10,8,1,0,-0.241611249,0,0,0,1.4,Blackhole,Normal
+R19,RandomWayPoint,10,10,2,0,-0.275748697,0,0,0,1.4,Blackhole,Normal
+R20,RandomWayPoint,10,6,1,0,-0.229637426,0,0,0,1.4,Blackhole,Normal
+R21,RandomWayPoint,10,4,1,0,-0.20766904,0,0,0,1.4,Blackhole,Normal
+R22,RandomWayPoint,10,6,1,0,-0.159193664,0,0,0,1.4,Blackhole,Normal
+A,RandomWayPoint,10,12,1984,-1663,-1.641542725,1,1664,0,1.4,Blackhole,Normal
+B,RandomWayPoint,10,2,1,-1,-0.125743799,0,1,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,12,22,4,0,-0.184982874,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,12,27,5,1656,-0.221392388,1657,1,0,1.4,Blackhole,Attacker
+R2,RandomWayPoint,12,33,4,0,-0.201835108,0,0,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,12,24,2,0,-0.129157638,0,0,0,1.4,Blackhole,Normal
+R4,RandomWayPoint,12,26,3,0,-0.163735939,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,12,23,3,0,-0.148811352,0,0,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,12,35,4,0,-0.201450027,0,0,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,12,24,4,0,-0.117035894,1,1,0,1.4,Blackhole,Normal
+R8,RandomWayPoint,12,21,3,0,-0.146061048,0,0,0,1.4,Blackhole,Normal
+R9,RandomWayPoint,12,23,3,0,-0.154518042,0,0,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,12,28,3,0,-0.189384376,0,0,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,12,23,3,0,-0.160221774,0,0,0,1.4,Blackhole,Normal
+R12,RandomWayPoint,12,22,3,0,-0.146004152,0,0,0,1.4,Blackhole,Normal
+R13,RandomWayPoint,12,25,4,0,-0.190680818,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,12,35,3,0,-0.184704261,0,0,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,12,31,3,0,-0.201566583,0,0,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,12,26,3,0,-0.143772569,0,0,0,1.4,Blackhole,Normal
+R17,RandomWayPoint,12,24,2,0,-0.132546593,0,0,0,1.4,Blackhole,Normal
+R18,RandomWayPoint,12,31,4,0,-0.201848041,0,0,0,1.4,Blackhole,Normal
+R19,RandomWayPoint,12,31,4,0,-0.1867018,1,1,0,1.4,Blackhole,Normal
+R20,RandomWayPoint,12,24,3,0,-0.143927188,0,0,0,1.4,Blackhole,Normal
+R21,RandomWayPoint,12,27,3,0,-0.174343971,0,0,0,1.4,Blackhole,Normal
+R22,RandomWayPoint,12,24,3,0,-0.171607503,0,0,0,1.4,Blackhole,Normal
+A,RandomWayPoint,12,34,1980,-1859,-1.755190118,3,1862,11,1.4,Blackhole,Normal
+B,RandomWayPoint,12,233,3,206,-0.121346043,209,3,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,16,38,7,0,-0.125004942,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,16,13,5,0,-0.151510996,0,0,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,16,37,7,0,-0.154739537,1,1,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,16,35,8,1641,-0.24073791,1642,1,0,1.4,Blackhole,Attacker
+R4,RandomWayPoint,16,41,13,0,-0.159834377,4,4,1,1.4,Blackhole,Normal
+R5,RandomWayPoint,16,43,6,-3,-0.128260691,0,3,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,16,32,7,0,-0.097033307,0,0,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,16,42,8,0,-0.209957954,1,1,0,1.4,Blackhole,Normal
+R8,RandomWayPoint,16,51,10,6,-0.171866823,31,25,1,1.4,Blackhole,Normal
+R9,RandomWayPoint,16,37,7,-4,-0.2214778,36,40,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,16,39,6,-3,-0.167324098,0,3,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,16,35,7,0,-0.124845605,0,0,0,1.4,Blackhole,Normal
+R12,RandomWayPoint,16,31,4,0,-0.074643013,0,0,0,1.4,Blackhole,Normal
+R13,RandomWayPoint,16,33,7,-2,-0.140375047,0,2,1,1.4,Blackhole,Normal
+R14,RandomWayPoint,16,39,8,0,-0.208606364,1,1,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,16,43,12,13,-0.255076422,76,63,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,16,35,7,-4,-0.166333467,0,4,0,1.4,Blackhole,Normal
+R17,RandomWayPoint,16,41,8,132,-0.2329805,203,71,0,1.4,Blackhole,Normal
+R18,RandomWayPoint,16,16,4,0,-0.17700579,0,0,1,1.4,Blackhole,Normal
+R19,RandomWayPoint,16,45,14,28,-0.217403579,47,19,7,1.4,Blackhole,Normal
+R20,RandomWayPoint,16,33,5,-1,-0.085128535,0,1,0,1.4,Blackhole,Normal
+R21,RandomWayPoint,16,41,8,-3,-0.202388709,57,60,0,1.4,Blackhole,Normal
+R22,RandomWayPoint,16,37,5,-1,-0.153366414,0,1,0,1.4,Blackhole,Normal
+A,RandomWayPoint,16,40,2001,-1838,-1.70302546,4,1842,1,1.4,Blackhole,Normal
+B,RandomWayPoint,16,87,7,55,-0.148961606,57,2,2,1.4,Blackhole,Normal
+R0,RandomWayPoint,20,34,6,0,-0.218920793,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,20,31,6,0,-0.126435068,0,0,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,20,45,7,0,-0.19788132,1,1,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,20,35,4,0,-0.164757631,0,0,0,1.4,Blackhole,Normal
+R4,RandomWayPoint,20,30,6,0,-0.170362053,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,20,41,5,0,-0.158512026,0,0,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,20,45,6,0,-0.176161726,0,0,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,20,47,6,0,-0.253044017,0,0,0,1.4,Blackhole,Normal
+R8,RandomWayPoint,20,51,6,0,-0.194106529,0,0,0,1.4,Blackhole,Normal
+R9,RandomWayPoint,20,33,5,0,-0.168972708,0,0,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,20,49,6,0,-0.175666306,0,0,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,20,31,7,0,-0.174831349,0,0,0,1.4,Blackhole,Attacker
+R12,RandomWayPoint,20,37,4,0,-0.180684548,0,0,0,1.4,Blackhole,Normal
+R13,RandomWayPoint,20,51,6,0,-0.214206995,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,20,44,5,0,-0.209680543,0,0,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,20,40,5,0,-0.220763553,0,0,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,20,48,7,0,-0.261203417,0,0,0,1.4,Blackhole,Normal
+R17,RandomWayPoint,20,49,11,271,-0.802497796,859,588,11,1.4,Blackhole,Normal
+R18,RandomWayPoint,20,39,10,885,-0.267956673,889,4,0,1.4,Blackhole,Attacker
+R19,RandomWayPoint,20,56,9,11,-0.474031993,320,309,0,1.4,Blackhole,Normal
+R20,RandomWayPoint,20,31,4,0,-0.104660818,0,0,0,1.4,Blackhole,Normal
+R21,RandomWayPoint,20,47,5,0,-0.208241419,0,0,0,1.4,Blackhole,Normal
+R22,RandomWayPoint,20,53,6,0,-0.221729556,0,0,0,1.4,Blackhole,Normal
+A,RandomWayPoint,20,55,1998,-1671,-1.71108705,6,1677,11,1.4,Blackhole,Normal
+B,RandomWayPoint,20,566,6,509,-0.198752633,515,6,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,18,33,4,0,-0.198109408,0,0,0,1.4,Blackhole,Normal
+R1,RandomWayPoint,18,35,4,0,-0.266239504,0,0,0,1.4,Blackhole,Normal
+R2,RandomWayPoint,18,35,5,0,-0.185523362,1,1,0,1.4,Blackhole,Normal
+R3,RandomWayPoint,18,42,9,421,-1.456136311,1704,1283,11,1.4,Blackhole,Normal
+R4,RandomWayPoint,18,31,3,0,-0.210694443,0,0,0,1.4,Blackhole,Normal
+R5,RandomWayPoint,18,23,4,0,-0.23579856,0,0,0,1.4,Blackhole,Normal
+R6,RandomWayPoint,18,15,3,0,-0.163311261,0,0,0,1.4,Blackhole,Normal
+R7,RandomWayPoint,18,18,3,0,-0.179742629,0,0,0,1.4,Blackhole,Normal
+R8,RandomWayPoint,18,38,5,0,-0.287709952,0,0,0,1.4,Blackhole,Normal
+R9,RandomWayPoint,18,32,5,0,-0.287677432,0,0,0,1.4,Blackhole,Normal
+R10,RandomWayPoint,18,32,4,0,-0.243226671,0,0,0,1.4,Blackhole,Normal
+R11,RandomWayPoint,18,40,4,0,-0.22940802,0,0,0,1.4,Blackhole,Normal
+R12,RandomWayPoint,18,39,5,0,-0.287874909,0,0,0,1.4,Blackhole,Normal
+R13,RandomWayPoint,18,34,4,0,-0.268397241,0,0,0,1.4,Blackhole,Normal
+R14,RandomWayPoint,18,41,5,0,-0.2878562,0,0,0,1.4,Blackhole,Normal
+R15,RandomWayPoint,18,33,4,0,-0.24812152,0,0,0,1.4,Blackhole,Normal
+R16,RandomWayPoint,18,30,4,0,-0.244746549,0,0,0,1.4,Blackhole,Normal
+R17,RandomWayPoint,18,25,2,0,-0.175433274,0,0,0,1.4,Blackhole,Attacker
+R18,RandomWayPoint,18,24,3,0,-0.223936579,0,0,0,1.4,Blackhole,Normal
+R19,RandomWayPoint,18,41,5,0,-0.287864455,0,0,0,1.4,Blackhole,Normal
+R20,RandomWayPoint,18,25,3,0,-0.247614695,0,0,0,1.4,Blackhole,Normal
+R21,RandomWayPoint,18,39,4,1273,-0.263411249,1274,1,0,1.4,Blackhole,Attacker
+R22,RandomWayPoint,18,27,2,0,-0.157131991,0,0,0,1.4,Blackhole,Normal
+A,RandomWayPoint,18,38,2037,-1748,-1.718210084,14,1762,0,1.4,Blackhole,Normal
+B,RandomWayPoint,18,95,4,57,-0.17825828,61,4,0,1.4,Blackhole,Normal
+R0,RandomWayPoint,5,72,15,289,-0.356438308,335,46,2,1.4,Normal,Normal
+R1,RandomWayPoint,5,54,7,0,-0.272844021,0,0,0,1.4,Normal,Normal
+R2,RandomWayPoint,5,62,8,0,-0.278757204,0,0,0,1.4,Normal,Normal
+R3,RandomWayPoint,5,65,8,0,-0.284353289,0,0,0,1.4,Normal,Normal
+R4,RandomWayPoint,5,61,10,-1,-0.407499641,336,337,2,1.4,Normal,Normal
+R5,RandomWayPoint,5,62,13,979,-0.950139794,1545,566,0,1.4,Normal,Normal
+R6,RandomWayPoint,5,55,12,-1,-0.127758276,1,2,3,1.4,Normal,Normal
+R7,RandomWayPoint,5,63,11,2,-0.475269097,266,264,0,1.4,Normal,Normal
+R8,RandomWayPoint,5,62,8,0,-0.278762355,0,0,0,1.4,Normal,Normal
+R9,RandomWayPoint,5,57,13,0,-0.203678611,66,66,1,1.4,Normal,Normal
+R10,RandomWayPoint,5,55,7,0,-0.278012663,0,0,0,1.4,Normal,Normal
+R11,RandomWayPoint,5,66,12,2,-0.14657053,2,0,3,1.4,Normal,Normal
+R12,RandomWayPoint,5,33,7,0,-0.142904667,0,0,0,1.4,Normal,Normal
+R13,RandomWayPoint,5,85,14,0,-0.152144871,4,4,2,1.4,Normal,Normal
+R14,RandomWayPoint,5,46,8,0,-0.274771121,0,0,0,1.4,Normal,Normal
+R15,RandomWayPoint,5,56,8,0,-0.145435112,0,0,0,1.4,Normal,Normal
+R16,RandomWayPoint,5,85,15,4,-0.451475384,331,327,5,1.4,Normal,Normal
+R17,RandomWayPoint,5,53,6,0,-0.135815238,0,0,0,1.4,Normal,Normal
+R18,RandomWayPoint,5,62,14,3,-0.176729196,3,0,5,1.4,Normal,Normal
+R19,RandomWayPoint,5,55,7,0,-0.156864263,0,0,0,1.4,Normal,Normal
+R20,RandomWayPoint,5,60,12,1,-0.296085626,60,59,1,1.4,Normal,Normal
+R21,RandomWayPoint,5,63,10,69,-0.376002775,110,41,1,1.4,Normal,Normal
+R22,RandomWayPoint,5,5,2,0,-0.111548664,0,0,0,1.4,Normal,Normal
+A,RandomWayPoint,5,55,2019,-1647,-1.617620842,3,1650,1,1.4,Normal,Normal
+B,RandomWayPoint,5,448,13,391,-0.134876683,399,8,1,1.4,Normal,Normal
+R0,Mass,4,244,43,1,-0.152795922,25,24,3,1.4,Normal,Normal
+R1,Mass,4,268,43,6,-0.297987414,27,21,1,1.4,Normal,Normal
+R2,Mass,4,280,58,32,-0.344038731,70,38,22,1.4,Normal,Normal
+R3,Mass,4,291,54,-1,-0.196058738,29,30,9,1.4,Normal,Normal
+R4,Mass,4,252,46,187,-0.390520151,285,98,1,1.4,Normal,Normal
+R5,Mass,4,277,54,-2,-0.173260638,34,36,4,1.4,Normal,Normal
+R6,Mass,4,140,19,0,-0.107633795,0,0,1,1.4,Normal,Normal
+R7,Mass,4,173,20,0,-0.097765244,0,0,1,1.4,Normal,Normal
+R8,Mass,4,188,37,-6,-0.116154038,7,13,1,1.4,Normal,Normal
+R9,Mass,4,155,38,0,-0.49694419,269,269,0,1.4,Normal,Normal
+R10,Mass,4,246,33,-1,-0.187998641,3,4,0,1.4,Normal,Normal
+R11,Mass,4,259,62,-2,-0.419712578,266,268,9,1.4,Normal,Normal
+R12,Mass,4,240,40,0,-0.200030315,5,5,2,1.4,Normal,Normal
+R13,Mass,4,253,52,5,-0.246647735,35,30,5,1.4,Normal,Normal
+R14,Mass,4,229,39,0,-0.137997084,1,1,2,1.4,Normal,Normal
+R15,Mass,4,90,32,-4,-0.173366194,74,78,1,1.4,Normal,Normal
+R16,Mass,4,275,47,200,-0.295349327,248,48,3,1.4,Normal,Normal
+R17,Mass,4,198,33,0,-0.125284533,0,0,0,1.4,Normal,Normal
+R18,Mass,4,214,41,2,-0.326350579,34,32,4,1.4,Normal,Normal
+R19,Mass,4,151,21,0,-0.093747749,0,0,1,1.4,Normal,Normal
+R20,Mass,4,227,33,-1,-0.221481681,11,12,0,1.4,Normal,Normal
+R21,Mass,4,244,51,852,-0.894483219,1398,546,2,1.4,Normal,Normal
+R22,Mass,4,220,57,19,-0.354293541,42,23,7,1.4,Normal,Normal
+A,Mass,4,126,2041,-1404,-1.532012625,11,1415,7,1.4,Normal,Normal
+B,Mass,4,379,31,286,-0.121063928,297,11,4,1.4,Normal,Normal
+R0,Mass,8,164,26,-2,-0.168206336,3,5,0,1.4,Normal,Normal
+R1,Mass,8,171,26,0,-0.251850007,0,0,0,1.4,Normal,Normal
+R2,Mass,8,156,26,-2,-0.156048452,57,59,0,1.4,Normal,Normal
+R3,Mass,8,166,23,1,-0.101898893,12,11,3,1.4,Normal,Normal
+R4,Mass,8,172,31,498,-0.781614753,895,397,23,1.4,Normal,Normal
+R5,Mass,8,164,24,-2,-0.123197104,33,35,1,1.4,Normal,Normal
+R6,Mass,8,174,29,21,-0.580516938,402,381,0,1.4,Normal,Normal
+R7,Mass,8,184,28,-1,-0.280229126,12,13,0,1.4,Normal,Normal
+R8,Mass,8,182,39,369,-0.492916764,504,135,14,1.4,Normal,Normal
+R9,Mass,8,184,32,71,-0.328686849,119,48,3,1.4,Normal,Normal
+R10,Mass,8,144,35,222,-0.387754934,249,27,15,1.4,Normal,Normal
+R11,Mass,8,141,24,2,-0.097195094,3,1,4,1.4,Normal,Normal
+R12,Mass,8,138,18,0,-0.081998613,0,0,0,1.4,Normal,Normal
+R13,Mass,8,156,25,-2,-0.24573665,15,17,0,1.4,Normal,Normal
+R14,Mass,8,114,23,0,-0.153774374,0,0,0,1.4,Normal,Normal
+R15,Mass,8,163,22,2,-0.137190857,29,27,0,1.4,Normal,Normal
+R16,Mass,8,171,27,-1,-0.122948644,32,33,2,1.4,Normal,Normal
+R17,Mass,8,153,18,0,-0.10394006,0,0,0,1.4,Normal,Normal
+R18,Mass,8,181,19,0,-0.087798882,1,1,0,1.4,Normal,Normal
+R19,Mass,8,178,25,0,-0.108174377,1,1,0,1.4,Normal,Normal
+R20,Mass,8,203,28,1,-0.12500064,10,9,1,1.4,Normal,Normal
+R21,Mass,8,121,28,0,-0.145898939,5,5,1,1.4,Normal,Normal
+R22,Mass,8,147,19,0,-0.07857968,0,0,0,1.4,Normal,Normal
+A,Mass,8,123,2033,-1263,-1.456947779,29,1292,7,1.4,Normal,Normal
+B,Mass,8,264,27,145,-0.092224072,165,20,1,1.4,Normal,Normal
+R0,Mass,12,57,13,0,-0.240718194,0,0,0,1.4,Normal,Normal
+R1,Mass,12,105,18,0,-0.107601211,10,10,0,1.4,Normal,Normal
+R2,Mass,12,101,23,53,-0.581518777,455,402,0,1.4,Normal,Normal
+R3,Mass,12,91,14,0,-0.173455597,0,0,0,1.4,Normal,Normal
+R4,Mass,12,33,7,0,-0.218891419,0,0,0,1.4,Normal,Normal
+R5,Mass,12,86,20,17,-0.661128956,442,425,7,1.4,Normal,Normal
+R6,Mass,12,85,14,25,-0.453479154,299,274,2,1.4,Normal,Normal
+R7,Mass,12,86,18,340,-0.368943159,358,18,11,1.4,Normal,Normal
+R8,Mass,12,38,7,0,-0.188177002,0,0,0,1.4,Normal,Normal
+R9,Mass,12,112,19,3,-0.227904115,13,10,4,1.4,Normal,Normal
+R10,Mass,12,98,10,0,-0.135050681,0,0,0,1.4,Normal,Normal
+R11,Mass,12,92,14,-2,-0.12697066,11,13,0,1.4,Normal,Normal
+R12,Mass,12,32,7,0,-0.13191509,0,0,0,1.4,Normal,Normal
+R13,Mass,12,69,24,8,-0.275097505,14,6,8,1.4,Normal,Normal
+R14,Mass,12,93,17,2,-0.192549073,15,13,2,1.4,Normal,Normal
+R15,Mass,12,26,7,0,-0.119704919,0,0,0,1.4,Normal,Normal
+R16,Mass,12,79,14,0,-0.252696381,11,11,0,1.4,Normal,Normal
+R17,Mass,12,107,19,1,-0.185188798,4,3,1,1.4,Normal,Normal
+R18,Mass,12,111,22,1,-0.223954008,111,110,2,1.4,Normal,Normal
+R19,Mass,12,99,12,-2,-0.123951823,2,4,0,1.4,Normal,Normal
+R20,Mass,12,86,14,-2,-0.154927393,12,14,1,1.4,Normal,Normal
+R21,Mass,12,79,14,0,-0.253179107,11,11,0,1.4,Normal,Normal
+R22,Mass,12,80,9,0,-0.100649089,0,0,0,1.4,Normal,Normal
+A,Mass,12,79,2002,-1105,-1.496761126,16,1121,15,1.4,Normal,Normal
+B,Mass,12,881,19,776,-0.187239082,788,12,2,1.4,Normal,Normal
+R0,Mass,16,149,37,97,-0.373510354,159,62,9,1.4,Normal,Normal
+R1,Mass,16,120,37,100,-0.316369973,203,103,6,1.4,Normal,Normal
+R2,Mass,16,112,27,-2,-0.173968772,5,7,1,1.4,Normal,Normal
+R3,Mass,16,133,30,-3,-0.353892898,137,140,2,1.4,Normal,Normal
+R4,Mass,16,127,31,39,-0.334836382,67,28,3,1.4,Normal,Normal
+R5,Mass,16,107,28,-1,-0.182043881,15,16,1,1.4,Normal,Normal
+R6,Mass,16,135,30,336,-0.45485197,465,129,0,1.4,Normal,Normal
+R7,Mass,16,137,35,5,-0.836610824,786,781,4,1.4,Normal,Normal
+R8,Mass,16,142,29,4,-0.294084115,54,50,7,1.4,Normal,Normal
+R9,Mass,16,72,17,-1,-0.089907195,0,1,0,1.4,Normal,Normal
+R10,Mass,16,90,17,0,-0.103502726,0,0,0,1.4,Normal,Normal
+R11,Mass,16,112,25,3,-0.28626159,4,1,0,1.4,Normal,Normal
+R12,Mass,16,108,25,2,-0.131397259,4,2,2,1.4,Normal,Normal
+R13,Mass,16,72,16,0,-0.098161172,0,0,0,1.4,Normal,Normal
+R14,Mass,16,153,37,22,-0.279166829,31,9,13,1.4,Normal,Normal
+R15,Mass,16,61,16,0,-0.185650933,0,0,0,1.4,Normal,Normal
+R16,Mass,16,85,16,0,-0.204274999,0,0,0,1.4,Normal,Normal
+R17,Mass,16,164,37,72,-0.318938435,184,112,1,1.4,Normal,Normal
+R18,Mass,16,85,21,0,-0.141418479,51,51,1,1.4,Normal,Normal
+R19,Mass,16,127,27,0,-0.176224792,0,0,0,1.4,Normal,Normal
+R20,Mass,16,134,25,3,-0.198788174,9,6,2,1.4,Normal,Normal
+R21,Mass,16,91,17,0,-0.115424498,0,0,0,1.4,Normal,Normal
+R22,Mass,16,58,13,0,-0.193592011,0,0,0,1.4,Normal,Normal
+A,Mass,16,162,1958,-1446,-1.531714774,13,1459,7,1.4,Normal,Normal
+B,Mass,16,978,28,845,-0.207297714,859,14,3,1.4,Normal,Normal
+R0,Mass,20,115,20,-2,-0.199161964,13,15,1,1.4,Normal,Normal
+R1,Mass,20,104,15,0,-0.181125613,0,0,0,1.4,Normal,Normal
+R2,Mass,20,108,18,0,-0.17413984,1,1,0,1.4,Normal,Normal
+R3,Mass,20,126,21,0,-0.261318385,1,1,0,1.4,Normal,Normal
+R4,Mass,20,124,20,0,-0.257691821,60,60,2,1.4,Normal,Normal
+R5,Mass,20,110,18,0,-0.246399783,12,12,0,1.4,Normal,Normal
+R6,Mass,20,131,27,314,-0.521076543,469,155,8,1.4,Normal,Normal
+R7,Mass,20,103,25,23,-0.319873515,33,10,5,1.4,Normal,Normal
+R8,Mass,20,111,24,416,-0.368435651,442,26,20,1.4,Normal,Normal
+R9,Mass,20,114,17,11,-0.19417745,32,21,0,1.4,Normal,Normal
+R10,Mass,20,101,20,56,-0.5619081,493,437,0,1.4,Normal,Normal
+R11,Mass,20,135,25,1,-0.294502941,50,49,0,1.4,Normal,Normal
+R12,Mass,20,125,21,0,-0.216889305,17,17,0,1.4,Normal,Normal
+R13,Mass,20,132,25,-1,-0.22946599,40,41,1,1.4,Normal,Normal
+R14,Mass,20,129,20,7,-0.292194346,18,11,7,1.4,Normal,Normal
+R15,Mass,20,111,19,60,-0.278567613,89,29,1,1.4,Normal,Normal
+R16,Mass,20,105,12,0,-0.174223563,0,0,0,1.4,Normal,Normal
+R17,Mass,20,105,24,53,-0.358723307,120,67,1,1.4,Normal,Normal
+R18,Mass,20,111,16,0,-0.120743044,0,0,0,1.4,Normal,Normal
+R19,Mass,20,99,16,-2,-0.153312428,43,45,1,1.4,Normal,Normal
+R20,Mass,20,115,20,0,-0.220083524,79,79,1,1.4,Normal,Normal
+R21,Mass,20,139,22,1,-0.290344728,32,31,0,1.4,Normal,Normal
+R22,Mass,20,121,23,1,-0.235253144,15,14,2,1.4,Normal,Normal
+A,Mass,20,135,2047,-1208,-1.59774217,18,1226,24,1.4,Normal,Normal
+B,Mass,20,548,19,443,-0.128641583,457,14,0,1.4,Normal,Normal
+R0,Mass,3,103,31,0,-0.086340611,4,4,0,1.4,Blackhole,Normal
+R1,Mass,3,190,51,10,-0.380705951,77,67,3,1.4,Blackhole,Normal
+R2,Mass,3,232,38,-2,-0.092796672,1,3,1,1.4,Blackhole,Normal
+R3,Mass,3,320,58,347,-0.161987483,360,13,2,1.4,Blackhole,Attacker
+R4,Mass,3,197,50,514,-0.586090504,764,250,3,1.4,Blackhole,Normal
+R5,Mass,3,371,54,-5,-0.134500884,30,35,0,1.4,Blackhole,Normal
+R6,Mass,3,169,39,-1,-0.267948527,7,8,0,1.4,Blackhole,Normal
+R7,Mass,3,107,34,1,-0.135480903,5,4,1,1.4,Blackhole,Normal
+R8,Mass,3,202,47,465,-0.8628973,1076,611,3,1.4,Blackhole,Normal
+R9,Mass,3,339,59,2,-0.170036213,19,17,5,1.4,Blackhole,Normal
+R10,Mass,3,321,51,-1,-0.139283177,7,8,3,1.4,Blackhole,Normal
+R11,Mass,3,166,52,36,-0.470469637,204,168,5,1.4,Blackhole,Normal
+R12,Mass,3,352,46,-3,-0.114532219,2,5,0,1.4,Blackhole,Normal
+R13,Mass,3,362,66,15,-0.237206382,62,47,11,1.4,Blackhole,Normal
+R14,Mass,3,345,49,-2,-0.105481677,3,5,2,1.4,Blackhole,Normal
+R15,Mass,3,387,65,29,-0.276041132,68,39,15,1.4,Blackhole,Normal
+R16,Mass,3,208,41,0,-0.146127359,4,4,1,1.4,Blackhole,Normal
+R17,Mass,3,200,39,0,-0.153263206,1,1,1,1.4,Blackhole,Normal
+R18,Mass,3,360,50,-5,-0.144264398,21,26,2,1.4,Blackhole,Normal
+R19,Mass,3,204,40,-3,-0.197240525,11,14,0,1.4,Blackhole,Normal
+R20,Mass,3,285,67,10,-0.506339693,293,283,12,1.4,Blackhole,Normal
+R21,Mass,3,164,38,2,-0.137393973,4,2,1,1.4,Blackhole,Normal
+R22,Mass,3,191,53,69,-0.32580788,116,47,0,1.4,Blackhole,Normal
+A,Mass,3,160,2082,-1325,-1.53197748,20,1345,13,1.4,Blackhole,Normal
+B,Mass,3,356,52,50,-0.107140587,73,23,4,1.4,Blackhole,Normal
+R0,Mass,12,51,11,0,-0.214076198,0,0,0,1.4,Blackhole,Normal
+R1,Mass,12,92,15,-1,-0.099802504,9,10,0,1.4,Blackhole,Normal
+R2,Mass,12,87,19,821,-0.210129781,827,6,0,1.4,Blackhole,Attacker
+R3,Mass,12,94,14,0,-0.208493076,0,0,0,1.4,Blackhole,Normal
+R4,Mass,12,34,7,0,-0.239744032,0,0,0,1.4,Blackhole,Normal
+R5,Mass,12,75,13,0,-0.22973146,1,1,0,1.4,Blackhole,Normal
+R6,Mass,12,61,9,0,-0.178554209,0,0,0,1.4,Blackhole,Normal
+R7,Mass,12,82,17,340,-0.392404143,358,18,11,1.4,Blackhole,Normal
+R8,Mass,12,35,7,0,-0.219935662,0,0,0,1.4,Blackhole,Normal
+R9,Mass,12,98,21,3,-0.207927572,16,13,4,1.4,Blackhole,Normal
+R10,Mass,12,77,9,0,-0.110965875,0,0,0,1.4,Blackhole,Normal
+R11,Mass,12,72,12,-1,-0.13175773,11,12,0,1.4,Blackhole,Normal
+R12,Mass,12,29,7,46,-0.121614011,68,22,0,1.4,Blackhole,Normal
+R13,Mass,12,61,21,8,-0.273070671,14,6,8,1.4,Blackhole,Normal
+R14,Mass,12,93,17,2,-0.236962895,15,13,2,1.4,Blackhole,Normal
+R15,Mass,12,27,6,0,-0.068253832,0,0,0,1.4,Blackhole,Normal
+R16,Mass,12,62,15,510,-1.162322643,1383,873,7,1.4,Blackhole,Normal
+R17,Mass,12,87,13,0,-0.214519949,0,0,0,1.4,Blackhole,Normal
+R18,Mass,12,85,20,2,-0.087159172,5,3,3,1.4,Blackhole,Normal
+R19,Mass,12,81,11,-1,-0.106670653,2,3,0,1.4,Blackhole,Normal
+R20,Mass,12,68,11,-1,-0.126672287,1,2,1,1.4,Blackhole,Normal
+R21,Mass,12,66,13,0,-0.27999701,0,0,0,1.4,Blackhole,Normal
+R22,Mass,12,65,10,-1,-0.077029857,2,3,0,1.4,Blackhole,Normal
+A,Mass,12,85,2124,-1733,-1.709181833,10,1743,2,1.4,Blackhole,Normal
+B,Mass,12,121,17,42,-0.092207737,52,10,2,1.4,Blackhole,Normal
+R0,Mass,20,102,18,0,-0.150410349,11,11,1,1.4,Blackhole,Normal
+R1,Mass,20,79,16,1,-0.157517383,3,2,1,1.4,Blackhole,Normal
+R2,Mass,20,68,17,-2,-0.141446428,15,17,0,1.4,Blackhole,Normal
+R3,Mass,20,89,19,3,-0.214786924,5,2,1,1.4,Blackhole,Normal
+R4,Mass,20,90,18,-4,-0.269120293,61,65,2,1.4,Blackhole,Normal
+R5,Mass,20,63,14,-3,-0.181580076,9,12,0,1.4,Blackhole,Normal
+R6,Mass,20,101,18,0,-0.233718716,1,1,0,1.4,Blackhole,Normal
+R7,Mass,20,74,21,22,-0.269812908,35,13,5,1.4,Blackhole,Normal
+R8,Mass,20,46,11,0,-0.140331688,1,1,1,1.4,Blackhole,Normal
+R9,Mass,20,90,17,-1,-0.121031169,2,3,0,1.4,Blackhole,Normal
+R10,Mass,20,82,17,694,-0.170359973,697,3,0,1.4,Blackhole,Attacker
+R11,Mass,20,129,20,0,-0.234317426,2,2,0,1.4,Blackhole,Normal
+R12,Mass,20,56,11,-1,-0.168832543,1,2,0,1.4,Blackhole,Normal
+R13,Mass,20,105,19,-2,-0.175582998,14,16,1,1.4,Blackhole,Normal
+R14,Mass,20,99,17,0,-0.189267153,1,1,0,1.4,Blackhole,Normal
+R15,Mass,20,114,17,188,-0.366723568,316,128,4,1.4,Blackhole,Normal
+R16,Mass,20,72,11,-2,-0.160404806,1,3,0,1.4,Blackhole,Normal
+R17,Mass,20,92,23,53,-0.307532713,110,57,1,1.4,Blackhole,Normal
+R18,Mass,20,89,18,84,-0.166821803,94,10,0,1.4,Blackhole,Normal
+R19,Mass,20,63,11,-2,-0.108895741,2,4,0,1.4,Blackhole,Normal
+R20,Mass,20,61,18,-3,-0.182342955,81,84,1,1.4,Blackhole,Normal
+R21,Mass,20,113,19,2,-0.262208356,31,29,0,1.4,Blackhole,Normal
+R22,Mass,20,104,19,-1,-0.17814636,2,3,0,1.4,Blackhole,Normal
+A,Mass,20,122,2019,-1603,-1.844834196,18,1621,21,1.4,Blackhole,Normal
+B,Mass,20,685,12,621,-0.151455598,632,11,0,1.4,Blackhole,Normal
+R0,Mass,4,108,16,-3,-0.085014049,2,5,0,1.4,Blackhole,Normal
+R1,Mass,4,115,19,-1,-0.190467594,3,4,0,1.4,Blackhole,Attacker
+R2,Mass,4,110,16,-4,-0.02937342,1,5,0,1.4,Blackhole,Normal
+R3,Mass,4,104,22,7,-0.089593493,19,12,9,1.4,Blackhole,Normal
+R4,Mass,4,116,18,-1,-0.133271216,2,3,0,1.4,Blackhole,Normal
+R5,Mass,4,102,20,6,-0.034251544,9,3,1,1.4,Blackhole,Normal
+R6,Mass,4,47,5,0,-0.077501695,0,0,0,1.4,Blackhole,Normal
+R7,Mass,4,53,6,0,-0.015099411,0,0,0,1.4,Blackhole,Normal
+R8,Mass,4,62,12,-1,-0.074549216,0,1,0,1.4,Blackhole,Normal
+R9,Mass,4,72,18,0,-0.211686783,1,1,0,1.4,Blackhole,Normal
+R10,Mass,4,98,12,0,-0.095873944,0,0,0,1.4,Blackhole,Normal
+R11,Mass,4,92,19,1,-0.064856621,25,24,2,1.4,Blackhole,Normal
+R12,Mass,4,94,12,0,-0.098039883,0,0,0,1.4,Blackhole,Normal
+R13,Mass,4,119,25,5,-0.106364716,19,14,2,1.4,Blackhole,Normal
+R14,Mass,4,103,14,-1,-0.034462937,3,4,0,1.4,Blackhole,Normal
+R15,Mass,4,34,15,-2,-0.049495446,33,35,2,1.4,Blackhole,Normal
+R16,Mass,4,122,20,-2,-0.12095858,12,14,3,1.4,Blackhole,Normal
+R17,Mass,4,81,12,0,-0.025040557,0,0,0,1.4,Blackhole,Normal
+R18,Mass,4,104,20,0,-0.263326055,32,32,2,1.4,Blackhole,Normal
+R19,Mass,4,57,6,0,-0.014643769,0,0,0,1.4,Blackhole,Normal
+R20,Mass,4,95,12,0,-0.081939516,0,0,0,1.4,Blackhole,Normal
+R21,Mass,4,92,20,1823,-0.248926007,1829,6,0,1.4,Blackhole,Attacker
+R22,Mass,4,118,23,31,-0.28755526,44,13,8,1.4,Blackhole,Normal
+A,Mass,4,59,2062,-1861,-1.723780649,5,1866,5,1.4,Blackhole,Normal
+B,Mass,4,50,7,26,-0.021071474,32,6,0,1.4,Blackhole,Normal
+R0,Mass,8,164,26,-2,-0.168206336,3,5,0,1.4,Blackhole,Normal
+R1,Mass,8,171,26,0,-0.251850007,0,0,0,1.4,Blackhole,Attacker
+R2,Mass,8,156,26,-2,-0.156048452,57,59,0,1.4,Blackhole,Normal
+R3,Mass,8,166,23,1,-0.101898893,12,11,3,1.4,Blackhole,Normal
+R4,Mass,8,172,31,498,-0.781614753,895,397,23,1.4,Blackhole,Normal
+R5,Mass,8,164,24,-2,-0.123197104,33,35,1,1.4,Blackhole,Normal
+R6,Mass,8,174,29,21,-0.580516938,402,381,0,1.4,Blackhole,Normal
+R7,Mass,8,184,28,-1,-0.280229126,12,13,0,1.4,Blackhole,Normal
+R8,Mass,8,182,39,369,-0.492916764,504,135,14,1.4,Blackhole,Normal
+R9,Mass,8,184,32,71,-0.328686849,119,48,3,1.4,Blackhole,Normal
+R10,Mass,8,144,35,222,-0.387754934,249,27,15,1.4,Blackhole,Normal
+R11,Mass,8,141,24,2,-0.097195094,3,1,4,1.4,Blackhole,Normal
+R12,Mass,8,138,18,0,-0.081998613,0,0,0,1.4,Blackhole,Normal
+R13,Mass,8,156,25,-2,-0.24573665,15,17,0,1.4,Blackhole,Normal
+R14,Mass,8,114,23,0,-0.153774374,0,0,0,1.4,Blackhole,Normal
+R15,Mass,8,163,22,2,-0.137190857,29,27,0,1.4,Blackhole,Normal
+R16,Mass,8,171,27,-1,-0.122948644,32,33,2,1.4,Blackhole,Normal
+R17,Mass,8,153,18,0,-0.10394006,0,0,0,1.4,Blackhole,Normal
+R18,Mass,8,181,19,0,-0.087798882,1,1,0,1.4,Blackhole,Normal
+R19,Mass,8,178,25,0,-0.108174377,1,1,0,1.4,Blackhole,Normal
+R20,Mass,8,203,28,1,-0.12500064,10,9,1,1.4,Blackhole,Normal
+R21,Mass,8,121,28,0,-0.145898939,5,5,1,1.4,Blackhole,Attacker
+R22,Mass,8,147,19,0,-0.07857968,0,0,0,1.4,Blackhole,Normal
+A,Mass,8,123,2033,-1263,-1.456947779,29,1292,7,1.4,Blackhole,Normal
+B,Mass,8,264,27,145,-0.092224072,165,20,1,1.4,Blackhole,Normal
+R0,Mass,12,26,6,0,-0.224036524,0,0,0,1.4,Blackhole,Normal
+R1,Mass,12,37,6,10,-0.069765748,12,2,0,1.4,Blackhole,Attacker
+R2,Mass,12,49,6,0,-0.042637915,1,1,0,1.4,Blackhole,Normal
+R3,Mass,12,35,5,0,-0.163208781,0,0,0,1.4,Blackhole,Normal
+R4,Mass,12,9,2,0,-0.184194822,0,0,0,1.4,Blackhole,Normal
+R5,Mass,12,49,7,0,-0.202700476,2,2,0,1.4,Blackhole,Normal
+R6,Mass,12,19,1,0,-0.010900642,0,0,0,1.4,Blackhole,Normal
+R7,Mass,12,39,5,0,-0.211245211,0,0,0,1.4,Blackhole,Normal
+R8,Mass,12,9,2,0,-0.171712805,0,0,0,1.4,Blackhole,Normal
+R9,Mass,12,44,10,3,-0.151932882,5,2,3,1.4,Blackhole,Normal
+R10,Mass,12,29,1,0,-0.011121668,0,0,0,1.4,Blackhole,Normal
+R11,Mass,12,26,1,0,-0.075336662,0,0,0,1.4,Blackhole,Normal
+R12,Mass,12,7,2,0,-0.008248208,0,0,0,1.4,Blackhole,Normal
+R13,Mass,12,34,12,11,-0.253927135,18,7,9,1.4,Blackhole,Normal
+R14,Mass,12,53,11,3,-0.203302065,30,27,3,1.4,Blackhole,Normal
+R15,Mass,12,9,2,0,-0.008534767,0,0,0,1.4,Blackhole,Normal
+R16,Mass,12,40,6,0,-0.247745414,15,15,0,1.4,Blackhole,Normal
+R17,Mass,12,34,5,0,-0.150901214,0,0,0,1.4,Blackhole,Normal
+R18,Mass,12,40,7,-1,-0.032603661,16,17,0,1.4,Blackhole,Normal
+R19,Mass,12,32,1,0,-0.068470945,0,0,0,1.4,Blackhole,Normal
+R20,Mass,12,22,1,0,-0.103618839,0,0,0,1.4,Blackhole,Normal
+R21,Mass,12,45,9,1873,-0.265552803,1876,3,0,1.4,Blackhole,Attacker
+R22,Mass,12,18,1,0,-0.01045583,0,0,0,1.4,Blackhole,Normal
+A,Mass,12,35,2103,-1892,-1.980306952,4,1896,2,1.4,Blackhole,Normal
+B,Mass,12,38,7,11,-0.012309295,16,5,1,1.4,Blackhole,Normal
+R0,Mass,16,84,15,8,-0.337317563,14,6,8,1.4,Blackhole,Normal
+R1,Mass,16,81,10,59,-0.228496733,60,1,0,1.4,Blackhole,Attacker
+R2,Mass,16,59,13,-1,-0.197376816,3,4,0,1.4,Blackhole,Normal
+R3,Mass,16,83,12,0,-0.276437732,0,0,0,1.4,Blackhole,Normal
+R4,Mass,16,69,10,0,-0.18415967,0,0,0,1.4,Blackhole,Normal
+R5,Mass,16,59,12,-1,-0.229164896,50,51,1,1.4,Blackhole,Normal
+R6,Mass,16,63,15,289,-1.223824281,1381,1092,0,1.4,Blackhole,Normal
+R7,Mass,16,72,10,0,-0.19580624,2,2,0,1.4,Blackhole,Normal
+R8,Mass,16,78,9,0,-0.205409906,0,0,0,1.4,Blackhole,Normal
+R9,Mass,16,50,9,-1,-0.123825073,0,1,0,1.4,Blackhole,Normal
+R10,Mass,16,58,8,0,-0.115935393,0,0,0,1.4,Blackhole,Normal
+R11,Mass,16,66,14,-1,-0.260214256,3,4,0,1.4,Blackhole,Normal
+R12,Mass,16,33,12,1,-0.069428624,2,1,1,1.4,Blackhole,Normal
+R13,Mass,16,44,10,-1,-0.075629093,1,2,0,1.4,Blackhole,Normal
+R14,Mass,16,62,12,18,-0.297943854,20,2,10,1.4,Blackhole,Normal
+R15,Mass,16,74,11,0,-0.196125573,0,0,0,1.4,Blackhole,Normal
+R16,Mass,16,69,9,0,-0.199242895,0,0,0,1.4,Blackhole,Normal
+R17,Mass,16,84,23,1051,-0.421426335,1096,45,11,1.4,Blackhole,Normal
+R18,Mass,16,48,10,0,-0.134334751,62,62,0,1.4,Blackhole,Normal
+R19,Mass,16,63,12,0,-0.271925799,0,0,0,1.4,Blackhole,Normal
+R20,Mass,16,70,17,5,-0.220898161,37,32,2,1.4,Blackhole,Normal
+R21,Mass,16,33,7,0,-0.070070488,0,0,0,1.4,Blackhole,Attacker
+R22,Mass,16,58,9,0,-0.200021093,0,0,0,1.4,Blackhole,Normal
+A,Mass,16,99,2048,-1436,-1.581370955,12,1448,14,1.4,Blackhole,Normal
+B,Mass,16,92,16,43,-0.077368483,50,7,4,1.4,Blackhole,Normal
+R0,Mass,20,162,35,1,-0.131764687,13,12,4,1.4,Blackhole,Normal
+R1,Mass,20,148,26,14,-0.141692819,22,8,0,1.4,Blackhole,Attacker
+R2,Mass,20,115,30,-3,-0.189824757,58,61,2,1.4,Blackhole,Normal
+R3,Mass,20,233,36,246,-0.695217315,651,405,2,1.4,Blackhole,Normal
+R4,Mass,20,165,27,22,-0.284538259,125,103,0,1.4,Blackhole,Normal
+R5,Mass,20,198,27,-1,-0.183406663,7,8,0,1.4,Blackhole,Normal
+R6,Mass,20,169,31,-1,-0.162262471,8,9,1,1.4,Blackhole,Normal
+R7,Mass,20,202,40,224,-0.451656266,300,76,21,1.4,Blackhole,Normal
+R8,Mass,20,134,38,4,-0.266486557,119,115,7,1.4,Blackhole,Normal
+R9,Mass,20,151,23,-1,-0.134596198,1,2,1,1.4,Blackhole,Normal
+R10,Mass,20,133,29,3,-0.183447777,18,15,0,1.4,Blackhole,Normal
+R11,Mass,20,206,39,10,-0.267293222,28,18,0,1.4,Blackhole,Normal
+R12,Mass,20,164,27,-1,-0.203734063,1,2,0,1.4,Blackhole,Normal
+R13,Mass,20,183,31,0,-0.236098557,24,24,2,1.4,Blackhole,Normal
+R14,Mass,20,199,31,0,-0.257499121,32,32,1,1.4,Blackhole,Normal
+R15,Mass,20,196,33,-4,-0.253824439,35,39,0,1.4,Blackhole,Normal
+R16,Mass,20,141,22,0,-0.201516649,2,2,1,1.4,Blackhole,Normal
+R17,Mass,20,154,34,52,-0.245198554,124,72,3,1.4,Blackhole,Normal
+R18,Mass,20,140,22,-1,-0.110321812,0,1,1,1.4,Blackhole,Normal
+R19,Mass,20,146,29,55,-0.220062764,75,20,1,1.4,Blackhole,Normal
+R20,Mass,20,118,33,7,-0.239728754,105,98,9,1.4,Blackhole,Normal
+R21,Mass,20,202,34,410,-0.236676101,414,4,0,1.4,Blackhole,Attacker
+R22,Mass,20,160,29,-1,-0.154375647,0,1,1,1.4,Blackhole,Normal
+A,Mass,20,209,2040,-1181,-1.595745346,37,1218,24,1.4,Blackhole,Normal
+B,Mass,20,393,29,259,-0.108490893,277,18,4,1.4,Blackhole,Normal
+R0,Mass,4,108,16,-3,-0.085014049,2,5,0,1.4,Blackhole,Normal
+R1,Mass,4,115,19,-1,-0.190467594,3,4,0,1.4,Blackhole,Normal
+R2,Mass,4,110,16,-4,-0.02937342,1,5,0,1.4,Blackhole,Normal
+R3,Mass,4,104,22,7,-0.089593493,19,12,9,1.4,Blackhole,Normal
+R4,Mass,4,116,18,-1,-0.133271216,2,3,0,1.4,Blackhole,Normal
+R5,Mass,4,102,20,6,-0.034251544,9,3,1,1.4,Blackhole,Normal
+R6,Mass,4,47,5,0,-0.077501695,0,0,0,1.4,Blackhole,Normal
+R7,Mass,4,53,6,0,-0.015099411,0,0,0,1.4,Blackhole,Normal
+R8,Mass,4,62,12,-1,-0.074549216,0,1,0,1.4,Blackhole,Normal
+R9,Mass,4,72,18,0,-0.211686783,1,1,0,1.4,Blackhole,Normal
+R10,Mass,4,98,12,0,-0.095873944,0,0,0,1.4,Blackhole,Normal
+R11,Mass,4,92,19,1,-0.064856621,25,24,2,1.4,Blackhole,Normal
+R12,Mass,4,94,12,0,-0.098039883,0,0,0,1.4,Blackhole,Normal
+R13,Mass,4,119,25,5,-0.106364716,19,14,2,1.4,Blackhole,Normal
+R14,Mass,4,103,14,-1,-0.034462937,3,4,0,1.4,Blackhole,Normal
+R15,Mass,4,34,15,-2,-0.049495446,33,35,2,1.4,Blackhole,Normal
+R16,Mass,4,122,20,-2,-0.12095858,12,14,3,1.4,Blackhole,Normal
+R17,Mass,4,81,12,0,-0.025040557,0,0,0,1.4,Blackhole,Normal
+R18,Mass,4,104,20,0,-0.263326055,32,32,2,1.4,Blackhole,Normal
+R19,Mass,4,57,6,0,-0.014643769,0,0,0,1.4,Blackhole,Normal
+R20,Mass,4,95,12,0,-0.081939516,0,0,0,1.4,Blackhole,Normal
+R21,Mass,4,92,20,1823,-0.248926007,1829,6,0,1.4,Blackhole,Normal
+R22,Mass,4,118,23,31,-0.28755526,44,13,8,1.4,Blackhole,Normal
+A,Mass,4,59,2062,-1861,-1.723780649,5,1866,5,1.4,Blackhole,Normal
+B,Mass,4,50,7,26,-0.021071474,32,6,0,1.4,Blackhole,Normal
+R0,Mass,8,14,1,0,-0.08257847,0,0,0,1.4,Blackhole,Normal
+R1,Mass,8,12,1,0,-0.196090338,0,0,0,1.4,Blackhole,Normal
+R2,Mass,8,12,1,0,-0.065387507,0,0,0,1.4,Blackhole,Normal
+R3,Mass,8,9,1,0,-0.060690065,0,0,0,1.4,Blackhole,Normal
+R4,Mass,8,12,1,0,-0.193394294,0,0,0,1.4,Blackhole,Normal
+R5,Mass,8,9,2,0,-0.069922706,1,1,0,1.4,Blackhole,Normal
+R6,Mass,8,13,1,0,-0.188882735,0,0,0,1.4,Blackhole,Normal
+R7,Mass,8,13,1,0,-0.19052166,0,0,0,1.4,Blackhole,Normal
+R8,Mass,8,12,2,0,-0.196123738,0,0,0,1.4,Blackhole,Normal
+R9,Mass,8,17,2,0,-0.175491758,1,1,0,1.4,Blackhole,Normal
+R10,Mass,8,12,3,1969,-0.236808642,1970,1,0,1.4,Blackhole,Attacker
+R11,Mass,8,9,1,0,-0.066545103,0,0,0,1.4,Blackhole,Normal
+R12,Mass,8,13,1,0,-0.015708829,0,0,0,1.4,Blackhole,Normal
+R13,Mass,8,14,1,0,-0.078252511,0,0,0,1.4,Blackhole,Normal
+R14,Mass,8,9,1,0,-0.071228424,0,0,0,1.4,Blackhole,Normal
+R15,Mass,8,8,1,0,-0.021760673,0,0,0,1.4,Blackhole,Normal
+R16,Mass,8,8,1,0,-0.000879523,0,0,0,1.4,Blackhole,Normal
+R17,Mass,8,9,1,0,-0.08745606,0,0,0,1.4,Blackhole,Normal
+R18,Mass,8,16,1,0,-0.069100573,0,0,0,1.4,Blackhole,Normal
+R19,Mass,8,10,1,0,-0.034680119,0,0,0,1.4,Blackhole,Normal
+R20,Mass,8,14,1,0,-0.021030782,0,0,0,1.4,Blackhole,Normal
+R21,Mass,8,13,1,0,-0.084760589,0,0,0,1.4,Blackhole,Normal
+R22,Mass,8,8,1,0,-0.073218875,0,0,0,1.4,Blackhole,Attacker
+A,Mass,8,5,1991,-1968,-1.710657417,1,1969,0,1.4,Blackhole,Normal
+B,Mass,8,4,1,-1,-0.000880587,0,1,0,1.4,Blackhole,Normal
+R0,Mass,12,115,30,233,-0.381219646,247,14,18,1.4,Blackhole,Normal
+R1,Mass,12,176,24,0,-0.161819838,19,19,1,1.4,Blackhole,Normal
+R2,Mass,12,171,30,1,-0.218771787,7,6,2,1.4,Blackhole,Normal
+R3,Mass,12,144,26,-1,-0.158515893,2,3,1,1.4,Blackhole,Normal
+R4,Mass,12,92,21,489,-0.590477825,738,249,11,1.4,Blackhole,Normal
+R5,Mass,12,141,26,11,-0.228986901,12,1,0,1.4,Blackhole,Attacker
+R6,Mass,12,138,21,-1,-0.396144898,268,269,1,1.4,Blackhole,Normal
+R7,Mass,12,161,34,297,-0.413851821,382,85,10,1.4,Blackhole,Normal
+R8,Mass,12,66,10,0,-0.205756441,0,0,0,1.4,Blackhole,Normal
+R9,Mass,12,175,29,1,-0.219783236,18,17,4,1.4,Blackhole,Normal
+R10,Mass,12,161,18,-2,-0.157625533,14,16,0,1.4,Blackhole,Normal
+R11,Mass,12,141,20,0,-0.137867848,12,12,1,1.4,Blackhole,Normal
+R12,Mass,12,55,12,235,-0.138347271,237,2,1,1.4,Blackhole,Attacker
+R13,Mass,12,148,38,111,-0.360886806,138,27,10,1.4,Blackhole,Normal
+R14,Mass,12,158,33,1,-0.203101919,20,19,3,1.4,Blackhole,Normal
+R15,Mass,12,52,9,0,-0.168674692,0,0,0,1.4,Blackhole,Normal
+R16,Mass,12,149,33,33,-0.326664574,89,56,0,1.4,Blackhole,Normal
+R17,Mass,12,168,31,11,-0.324875134,64,53,12,1.4,Blackhole,Normal
+R18,Mass,12,197,29,-1,-0.180706808,57,58,1,1.4,Blackhole,Normal
+R19,Mass,12,155,21,-2,-0.109875614,3,5,1,1.4,Blackhole,Normal
+R20,Mass,12,149,17,-1,-0.16317512,1,2,1,1.4,Blackhole,Normal
+R21,Mass,12,136,33,-2,-0.212071781,19,21,0,1.4,Blackhole,Normal
+R22,Mass,12,134,14,0,-0.137611445,0,0,0,1.4,Blackhole,Normal
+A,Mass,12,163,2071,-1587,-1.637170185,39,1626,6,1.4,Blackhole,Normal
+B,Mass,12,423,28,244,-0.138760411,264,20,2,1.4,Blackhole,Normal
+R0,Mass,16,61,14,8,-0.240455268,25,17,8,1.4,Blackhole,Normal
+R1,Mass,16,54,10,0,-0.154991509,1,1,2,1.4,Blackhole,Normal
+R2,Mass,16,70,14,-1,-0.163490904,2,3,0,1.4,Blackhole,Normal
+R3,Mass,16,44,8,1374,-0.226583735,1378,4,0,1.4,Blackhole,Attacker
+R4,Mass,16,36,8,0,-0.174467086,1,1,0,1.4,Blackhole,Normal
+R5,Mass,16,56,14,0,-0.179101053,5,5,3,1.4,Blackhole,Normal
+R6,Mass,16,51,9,0,-0.215748773,0,0,0,1.4,Blackhole,Normal
+R7,Mass,16,52,8,-1,-0.154130288,0,1,0,1.4,Blackhole,Normal
+R8,Mass,16,59,11,0,-0.138986538,1,1,1,1.4,Blackhole,Normal
+R9,Mass,16,39,5,-1,-0.142433711,0,1,0,1.4,Blackhole,Normal
+R10,Mass,16,42,9,1,-0.145784977,1,0,1,1.4,Blackhole,Normal
+R11,Mass,16,56,14,226,-0.27740476,248,22,1,1.4,Blackhole,Normal
+R12,Mass,16,56,11,0,-0.135889434,19,19,0,1.4,Blackhole,Normal
+R13,Mass,16,40,6,0,-0.142692954,0,0,0,1.4,Blackhole,Normal
+R14,Mass,16,59,11,19,-0.216545168,21,2,0,1.4,Blackhole,Attacker
+R15,Mass,16,65,15,2,-0.160033352,20,18,2,1.4,Blackhole,Normal
+R16,Mass,16,50,13,1,-0.148440677,21,20,0,1.4,Blackhole,Normal
+R17,Mass,16,40,6,0,-0.19151525,0,0,0,1.4,Blackhole,Normal
+R18,Mass,16,45,7,0,-0.141471031,0,0,0,1.4,Blackhole,Normal
+R19,Mass,16,52,10,0,-0.21603462,1,1,0,1.4,Blackhole,Normal
+R20,Mass,16,64,16,4,-0.096269129,12,8,3,1.4,Blackhole,Normal
+R21,Mass,16,45,9,2,-0.119252912,3,1,0,1.4,Blackhole,Attacker
+R22,Mass,16,49,12,-1,-0.093802017,1,2,0,1.4,Blackhole,Normal
+A,Mass,16,55,1979,-1811,-1.807165654,7,1818,9,1.4,Blackhole,Normal
+B,Mass,16,251,13,196,-0.148164783,202,6,2,1.4,Blackhole,Normal
+R0,Mass,20,177,39,-6,-0.147090878,35,41,3,1.4,Blackhole,Normal
+R1,Mass,20,166,25,-2,-0.173265653,1,3,0,1.4,Blackhole,Normal
+R2,Mass,20,156,29,-1,-0.146119365,7,8,0,1.4,Blackhole,Normal
+R3,Mass,20,193,43,328,-0.388409629,344,16,21,1.4,Blackhole,Normal
+R4,Mass,20,161,41,1,-0.258180241,69,68,2,1.4,Blackhole,Normal
+R5,Mass,20,184,35,230,-0.342193941,270,40,11,1.4,Blackhole,Normal
+R6,Mass,20,197,33,-2,-0.251637527,1,3,0,1.4,Blackhole,Normal
+R7,Mass,20,183,35,23,-0.251374015,30,7,0,1.4,Blackhole,Attacker
+R8,Mass,20,130,33,90,-0.149079988,94,4,0,1.4,Blackhole,Attacker
+R9,Mass,20,158,32,5,-0.218812741,23,18,0,1.4,Blackhole,Normal
+R10,Mass,20,141,34,9,-0.253165396,32,23,5,1.4,Blackhole,Normal
+R11,Mass,20,168,34,23,-0.244223744,27,4,0,1.4,Blackhole,Normal
+R12,Mass,20,143,33,5,-0.197846942,9,4,0,1.4,Blackhole,Normal
+R13,Mass,20,185,39,2,-0.215307805,21,19,0,1.4,Blackhole,Normal
+R14,Mass,20,170,31,0,-0.213724294,6,6,0,1.4,Blackhole,Normal
+R15,Mass,20,204,36,-2,-0.200592986,8,10,0,1.4,Blackhole,Normal
+R16,Mass,20,151,32,3,-0.148063017,6,3,4,1.4,Blackhole,Attacker
+R17,Mass,20,122,30,57,-0.242412049,111,54,2,1.4,Blackhole,Normal
+R18,Mass,20,165,31,-3,-0.203523594,19,22,0,1.4,Blackhole,Normal
+R19,Mass,20,133,22,-2,-0.17340641,0,2,0,1.4,Blackhole,Normal
+R20,Mass,20,159,39,4,-0.194239651,92,88,6,1.4,Blackhole,Normal
+R21,Mass,20,174,34,281,-0.36706216,380,99,11,1.4,Blackhole,Normal
+R22,Mass,20,166,26,0,-0.173941119,0,0,0,1.4,Blackhole,Normal
+A,Mass,20,215,2030,-1493,-1.754781567,29,1522,31,1.4,Blackhole,Normal
+B,Mass,20,690,38,511,-0.165606587,540,29,7,1.4,Blackhole,Normal
+R0,Mass,12,58,14,0,-0.239693503,0,0,1,1.4,Blackhole,Normal
+R1,Mass,12,89,12,0,-0.155417402,7,7,0,1.4,Blackhole,Normal
+R2,Mass,12,78,13,-1,-0.216129374,1,2,0,1.4,Blackhole,Normal
+R3,Mass,12,81,13,-1,-0.163619696,2,3,0,1.4,Blackhole,Normal
+R4,Mass,12,23,5,-1,-0.200671846,0,1,0,1.4,Blackhole,Normal
+R5,Mass,12,90,15,11,-0.231895887,12,1,0,1.4,Blackhole,Attacker
+R6,Mass,12,65,8,0,-0.204794953,0,0,0,1.4,Blackhole,Normal
+R7,Mass,12,75,17,281,-0.376406227,300,19,10,1.4,Blackhole,Attacker
+R8,Mass,12,13,4,0,-0.179899684,0,0,0,1.4,Blackhole,Normal
+R9,Mass,12,89,16,2,-0.234492705,13,11,4,1.4,Blackhole,Normal
+R10,Mass,12,76,9,0,-0.156908234,1,1,0,1.4,Blackhole,Normal
+R11,Mass,12,69,9,-1,-0.154073631,11,12,0,1.4,Blackhole,Normal
+R12,Mass,12,12,4,0,-0.161026535,0,0,0,1.4,Blackhole,Normal
+R13,Mass,12,67,23,8,-0.275259498,14,6,8,1.4,Blackhole,Normal
+R14,Mass,12,85,20,1,-0.20368502,20,19,2,1.4,Blackhole,Normal
+R15,Mass,12,13,3,0,-0.134127512,0,0,0,1.4,Blackhole,Normal
+R16,Mass,12,73,15,79,-1.278228218,1267,1188,0,1.4,Blackhole,Normal
+R17,Mass,12,87,17,1253,-0.258554643,1258,5,1,1.4,Blackhole,Attacker
+R18,Mass,12,95,15,0,-0.137890405,3,3,1,1.4,Blackhole,Normal
+R19,Mass,12,81,9,-1,-0.190999858,2,3,0,1.4,Blackhole,Normal
+R20,Mass,12,66,9,-1,-0.177909287,1,2,1,1.4,Blackhole,Normal
+R21,Mass,12,83,24,-2,-0.269373002,30,32,0,1.4,Blackhole,Normal
+R22,Mass,12,59,7,0,-0.151307864,0,0,0,1.4,Blackhole,Normal
+A,Mass,12,80,2007,-1571,-1.632453284,15,1586,3,1.4,Blackhole,Normal
+B,Mass,12,87,14,7,-0.103243052,16,9,1,1.4,Blackhole,Normal
+R0,Mass,4,108,16,-3,-0.085014049,2,5,0,1.4,Blackhole,Normal
+R1,Mass,4,115,19,-1,-0.190467594,3,4,0,1.4,Blackhole,Normal
+R2,Mass,4,110,16,-4,-0.02937342,1,5,0,1.4,Blackhole,Normal
+R3,Mass,4,104,22,7,-0.089593493,19,12,9,1.4,Blackhole,Normal
+R4,Mass,4,116,18,-1,-0.133271216,2,3,0,1.4,Blackhole,Normal
+R5,Mass,4,102,20,6,-0.034251544,9,3,1,1.4,Blackhole,Normal
+R6,Mass,4,47,5,0,-0.077501695,0,0,0,1.4,Blackhole,Normal
+R7,Mass,4,53,6,0,-0.015099411,0,0,0,1.4,Blackhole,Normal
+R8,Mass,4,62,12,-1,-0.074549216,0,1,0,1.4,Blackhole,Normal
+R9,Mass,4,72,18,0,-0.211686783,1,1,0,1.4,Blackhole,Normal
+R10,Mass,4,98,12,0,-0.095873944,0,0,0,1.4,Blackhole,Normal
+R11,Mass,4,92,19,1,-0.064856621,25,24,2,1.4,Blackhole,Normal
+R12,Mass,4,94,12,0,-0.098039883,0,0,0,1.4,Blackhole,Normal
+R13,Mass,4,119,25,5,-0.106364716,19,14,2,1.4,Blackhole,Normal
+R14,Mass,4,103,14,-1,-0.034462937,3,4,0,1.4,Blackhole,Normal
+R15,Mass,4,34,15,-2,-0.049495446,33,35,2,1.4,Blackhole,Normal
+R16,Mass,4,122,20,-2,-0.12095858,12,14,3,1.4,Blackhole,Normal
+R17,Mass,4,81,12,0,-0.025040557,0,0,0,1.4,Blackhole,Normal
+R18,Mass,4,104,20,0,-0.263326055,32,32,2,1.4,Blackhole,Normal
+R19,Mass,4,57,6,0,-0.014643769,0,0,0,1.4,Blackhole,Normal
+R20,Mass,4,95,12,0,-0.081939516,0,0,0,1.4,Blackhole,Normal
+R21,Mass,4,92,20,1823,-0.248926007,1829,6,0,1.4,Blackhole,Attacker
+R22,Mass,4,118,23,31,-0.28755526,44,13,8,1.4,Blackhole,Normal
+A,Mass,4,59,2062,-1861,-1.723780649,5,1866,5,1.4,Blackhole,Normal
+B,Mass,4,50,7,26,-0.021071474,32,6,0,1.4,Blackhole,Normal
+R0,Mass,4,180,28,-1,-0.09658,0,1,0,1.4,Hello Flooding,Normal
+R1,Mass,4,207,32,0,-0.2473,29,29,0,1.4,Hello Flooding,Normal
+R2,Mass,4,228,35,173,-0.11597,180,7,0,10,Hello Flooding,Attacker
+R3,Mass,4,221,40,4,-0.15899,51,47,6,1.4,Hello Flooding,Normal
+R4,Mass,4,199,34,10,-0.26551,47,37,2,1.4,Hello Flooding,Normal
+R5,Mass,4,183,31,-1,-0.09724,0,1,0,1.4,Hello Flooding,Normal
+R6,Mass,4,169,21,0,-0.08963,0,0,0,10,Hello Flooding,Attacker
+R7,Mass,4,177,22,0,-0.08623,0,0,0,1.4,Hello Flooding,Normal
+R8,Mass,4,142,26,-1,-0.09646,128,129,1,1.4,Hello Flooding,Normal
+R9,Mass,4,144,38,146,-0.39595,190,44,12,1.4,Hello Flooding,Normal
+R10,Mass,4,233,32,4,-0.30825,163,159,0,1.4,Hello Flooding,Normal
+R11,Mass,4,192,39,2,-0.15223,41,39,4,1.4,Hello Flooding,Normal
+R12,Mass,4,218,31,4,-0.13838,7,3,3,1.4,Hello Flooding,Normal
+R13,Mass,4,223,38,118,-0.2242,257,139,12,1.4,Hello Flooding,Normal
+R14,Mass,4,190,36,2,-0.14106,140,138,4,1.4,Hello Flooding,Normal
+R15,Mass,4,117,29,-1,-0.08971,12,13,1,1.4,Hello Flooding,Normal
+R16,Mass,4,227,35,0,-0.15428,7,7,0,1.4,Hello Flooding,Normal
+R17,Mass,4,199,25,0,-0.09824,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,4,174,30,-2,-0.24546,2,4,0,1.4,Hello Flooding,Normal
+R19,Mass,4,170,21,0,-0.08743,0,0,0,1.4,Hello Flooding,Normal
+R20,Mass,4,219,25,0,-0.11331,0,0,0,1.4,Hello Flooding,Normal
+R21,Mass,4,206,47,969,-0.7226,1252,283,13,1.4,Hello Flooding,Normal
+R22,Mass,4,157,28,-1,-0.25333,14,15,0,1.4,Hello Flooding,Normal
+A,Mass,4,141,2027,-1433,-1.41746,12,1445,3,1.4,Hello Flooding,Normal
+B,Mass,4,170,46,44,-0.08754,55,11,13,1.4,Hello Flooding,Normal
+R0,Mass,8,168,17,0,-0.11713,0,0,0,1.4,Hello Flooding,Normal
+R1,Mass,8,132,19,0,-0.28829,33,33,0,1.4,Hello Flooding,Normal
+R2,Mass,8,158,19,121,-0.08367,123,2,0,10,Hello Flooding,Attacker
+R3,Mass,8,161,16,0,-0.08072,0,0,0,1.4,Hello Flooding,Normal
+R4,Mass,8,131,17,56,-0.88387,800,744,0,1.4,Hello Flooding,Normal
+R5,Mass,8,155,19,-1,-0.111,6,7,0,1.4,Hello Flooding,Normal
+R6,Mass,8,138,19,-1,-0.25983,1,2,0,10,Hello Flooding,Attacker
+R7,Mass,8,140,17,0,-0.30542,38,38,0,1.4,Hello Flooding,Normal
+R8,Mass,8,122,17,0,-0.23035,0,0,0,1.4,Hello Flooding,Normal
+R9,Mass,8,157,34,1020,-0.62353,1203,183,22,1.4,Hello Flooding,Normal
+R10,Mass,8,111,18,0,-0.27586,10,10,0,1.4,Hello Flooding,Normal
+R11,Mass,8,136,18,0,-0.14656,56,56,0,1.4,Hello Flooding,Normal
+R12,Mass,8,144,17,0,-0.09238,0,0,0,1.4,Hello Flooding,Normal
+R13,Mass,8,157,17,0,-0.11442,0,0,0,1.4,Hello Flooding,Normal
+R14,Mass,8,93,13,0,-0.15444,0,0,0,1.4,Hello Flooding,Normal
+R15,Mass,8,160,15,0,-0.08609,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,8,160,21,0,-0.13658,41,41,2,1.4,Hello Flooding,Normal
+R17,Mass,8,166,15,0,-0.09686,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,8,173,17,0,-0.09273,0,0,0,1.4,Hello Flooding,Normal
+R19,Mass,8,168,21,3,-0.14185,22,19,3,1.4,Hello Flooding,Normal
+R20,Mass,8,173,19,1,-0.14398,56,55,1,1.4,Hello Flooding,Normal
+R21,Mass,8,112,14,0,-0.14286,0,0,0,1.4,Hello Flooding,Normal
+R22,Mass,8,171,16,0,-0.10824,10,10,0,1.4,Hello Flooding,Normal
+A,Mass,8,92,2041,-1273,-1.49871,8,1281,8,1.4,Hello Flooding,Normal
+B,Mass,8,230,29,115,-0.08292,124,9,9,1.4,Hello Flooding,Normal
+R0,Mass,12,51,11,0,-0.17638,0,0,0,1.4,Hello Flooding,Normal
+R1,Mass,12,91,14,9,-0.14909,12,3,10,1.4,Hello Flooding,Normal
+R2,Mass,12,91,11,607,-0.18524,608,1,0,10,Hello Flooding,Attacker
+R3,Mass,12,64,9,0,-0.14256,0,0,0,1.4,Hello Flooding,Normal
+R4,Mass,12,62,9,0,-0.20128,0,0,0,1.4,Hello Flooding,Normal
+R5,Mass,12,66,10,0,-0.19308,0,0,0,1.4,Hello Flooding,Normal
+R6,Mass,12,85,14,420,-0.18268,424,4,0,10,Hello Flooding,Attacker
+R7,Mass,12,77,16,43,-0.23647,63,20,0,1.4,Hello Flooding,Normal
+R8,Mass,12,70,8,0,-0.08905,0,0,0,1.4,Hello Flooding,Normal
+R9,Mass,12,99,17,5,-0.16742,24,19,4,1.4,Hello Flooding,Normal
+R10,Mass,12,99,15,2,-0.09593,6,4,3,1.4,Hello Flooding,Normal
+R11,Mass,12,94,11,0,-0.11315,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,12,54,8,0,-0.07087,0,0,0,1.4,Hello Flooding,Normal
+R13,Mass,12,68,11,0,-0.17809,0,0,0,1.4,Hello Flooding,Normal
+R14,Mass,12,77,14,-1,-0.17054,4,5,0,1.4,Hello Flooding,Normal
+R15,Mass,12,60,8,0,-0.10682,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,12,67,15,217,-0.82601,837,620,11,1.4,Hello Flooding,Normal
+R17,Mass,12,90,11,0,-0.17364,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,12,92,9,0,-0.10225,0,0,0,1.4,Hello Flooding,Normal
+R19,Mass,12,107,12,-2,-0.1086,12,14,0,1.4,Hello Flooding,Normal
+R20,Mass,12,91,10,0,-0.14074,0,0,0,1.4,Hello Flooding,Normal
+R21,Mass,12,63,10,0,-0.17685,0,0,0,1.4,Hello Flooding,Normal
+R22,Mass,12,97,13,-2,-0.12664,12,14,0,1.4,Hello Flooding,Normal
+A,Mass,12,72,1944,-1300,-1.2709,7,1307,1,1.4,Hello Flooding,Normal
+B,Mass,12,110,17,11,-0.09289,16,5,6,1.4,Hello Flooding,Normal
+R0,Mass,16,93,14,-1,-0.1371,0,1,0,1.4,Hello Flooding,Normal
+R1,Mass,16,101,11,0,-0.12658,0,0,0,1.4,Hello Flooding,Normal
+R2,Mass,16,91,14,2,-0.17206,2,0,1,10,Hello Flooding,Attacker
+R3,Mass,16,77,13,-1,-0.08828,0,1,0,1.4,Hello Flooding,Normal
+R4,Mass,16,103,14,27,-0.16667,45,18,2,1.4,Hello Flooding,Normal
+R5,Mass,16,93,15,23,-0.15795,24,1,11,1.4,Hello Flooding,Normal
+R6,Mass,16,85,15,-3,-0.09809,0,3,0,10,Hello Flooding,Attacker
+R7,Mass,16,91,13,0,-0.13523,0,0,0,1.4,Hello Flooding,Normal
+R8,Mass,16,97,17,4,-0.18826,23,19,3,1.4,Hello Flooding,Normal
+R9,Mass,16,77,13,-1,-0.1294,0,1,0,1.4,Hello Flooding,Normal
+R10,Mass,16,91,13,14,-0.65335,621,607,0,1.4,Hello Flooding,Normal
+R11,Mass,16,84,14,-1,-0.18191,0,1,0,1.4,Hello Flooding,Normal
+R12,Mass,16,91,14,0,-0.11264,0,0,0,1.4,Hello Flooding,Normal
+R13,Mass,16,66,11,0,-0.16198,0,0,0,1.4,Hello Flooding,Normal
+R14,Mass,16,94,14,-1,-0.16156,7,8,0,1.4,Hello Flooding,Normal
+R15,Mass,16,68,11,0,-0.08636,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,16,68,11,0,-0.11788,0,0,0,1.4,Hello Flooding,Normal
+R17,Mass,16,91,13,-1,-0.09511,0,1,0,1.4,Hello Flooding,Normal
+R18,Mass,16,82,11,0,-0.15159,0,0,0,1.4,Hello Flooding,Normal
+R19,Mass,16,85,14,-1,-0.08948,0,1,0,1.4,Hello Flooding,Normal
+R20,Mass,16,96,14,0,-0.1537,0,0,0,1.4,Hello Flooding,Normal
+R21,Mass,16,88,16,2,-0.16942,10,8,2,1.4,Hello Flooding,Normal
+R22,Mass,16,69,11,0,-0.07518,0,0,0,1.4,Hello Flooding,Normal
+A,Mass,16,94,2084,-696,-0.93814,12,708,21,1.4,Hello Flooding,Normal
+B,Mass,16,733,20,646,-0.17877,652,6,5,1.4,Hello Flooding,Normal
+R0,Mass,20,121,15,0,-0.19209,0,0,0,1.4,Hello Flooding,Normal
+R1,Mass,20,85,15,0,-0.23799,0,0,0,1.4,Hello Flooding,Normal
+R2,Mass,20,83,15,2,-0.19036,3,1,1,10,Hello Flooding,Attacker
+R3,Mass,20,111,15,0,-0.24105,0,0,0,1.4,Hello Flooding,Normal
+R4,Mass,20,101,16,0,-0.21963,0,0,0,1.4,Hello Flooding,Normal
+R5,Mass,20,112,14,0,-0.20455,0,0,0,1.4,Hello Flooding,Normal
+R6,Mass,20,100,19,37,-0.2414,40,3,0,10,Hello Flooding,Attacker
+R7,Mass,20,100,15,0,-0.16709,0,0,0,1.4,Hello Flooding,Normal
+R8,Mass,20,98,18,0,-0.23934,31,31,0,1.4,Hello Flooding,Normal
+R9,Mass,20,105,14,0,-0.11814,0,0,0,1.4,Hello Flooding,Normal
+R10,Mass,20,107,14,0,-0.14957,0,0,0,1.4,Hello Flooding,Normal
+R11,Mass,20,129,16,0,-0.26828,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,20,80,13,0,-0.21058,0,0,0,1.4,Hello Flooding,Normal
+R13,Mass,20,97,19,-1,-0.18059,8,9,0,1.4,Hello Flooding,Normal
+R14,Mass,20,117,20,3,-0.23476,14,11,3,1.4,Hello Flooding,Normal
+R15,Mass,20,107,25,582,-1.07012,1419,837,12,1.4,Hello Flooding,Normal
+R16,Mass,20,83,23,1,-0.11583,10,9,1,1.4,Hello Flooding,Normal
+R17,Mass,20,108,19,243,-0.32149,256,13,10,1.4,Hello Flooding,Normal
+R18,Mass,20,102,14,0,-0.13053,0,0,0,1.4,Hello Flooding,Normal
+R19,Mass,20,87,18,-2,-0.18354,2,4,0,1.4,Hello Flooding,Normal
+R20,Mass,20,92,18,1,-0.18522,26,25,1,1.4,Hello Flooding,Normal
+R21,Mass,20,127,16,0,-0.26026,0,0,0,1.4,Hello Flooding,Normal
+R22,Mass,20,112,16,0,-0.26795,0,0,0,1.4,Hello Flooding,Normal
+A,Mass,20,116,2051,-1646,-1.74735,12,1658,13,1.4,Hello Flooding,Normal
+B,Mass,20,907,22,819,-0.21748,831,12,4,1.4,Hello Flooding,Normal
+R0,Mass,12,57,10,0,-0.23464,0,0,0,1.4,Hello Flooding,Normal
+R1,Mass,12,93,10,0,-0.07696,0,0,0,1.4,Hello Flooding,Normal
+R2,Mass,12,83,11,0,-0.17793,0,0,0,10,Hello Flooding,Attacker
+R3,Mass,12,77,13,1,-0.21359,1,0,1,1.4,Hello Flooding,Normal
+R4,Mass,12,46,10,11,-0.77778,664,653,0,1.4,Hello Flooding,Normal
+R5,Mass,12,84,12,0,-0.24941,12,12,0,1.4,Hello Flooding,Normal
+R6,Mass,12,80,11,648,-0.21937,650,2,1,10,Hello Flooding,Attacker
+R7,Mass,12,71,16,271,-0.83844,933,662,1,1.4,Hello Flooding,Normal
+R8,Mass,12,51,10,2,-0.14723,3,1,2,1.4,Hello Flooding,Normal
+R9,Mass,12,90,12,0,-0.18644,1,1,0,10,Hello Flooding,Attacker
+R10,Mass,12,92,7,0,-0.12352,0,0,0,1.4,Hello Flooding,Normal
+R11,Mass,12,83,7,0,-0.09884,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,12,49,8,0,-0.14986,0,0,0,1.4,Hello Flooding,Normal
+R13,Mass,12,67,10,0,-0.23487,0,0,0,1.4,Hello Flooding,Normal
+R14,Mass,12,81,11,0,-0.11256,0,0,0,1.4,Hello Flooding,Normal
+R15,Mass,12,49,8,0,-0.10669,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,12,75,11,0,-0.22817,0,0,0,1.4,Hello Flooding,Normal
+R17,Mass,12,79,16,10,-0.22314,19,9,7,1.4,Hello Flooding,Normal
+R18,Mass,12,93,10,0,-0.15433,0,0,0,1.4,Hello Flooding,Normal
+R19,Mass,12,92,7,0,-0.09028,0,0,0,1.4,Hello Flooding,Normal
+R20,Mass,12,84,7,0,-0.13452,0,0,0,1.4,Hello Flooding,Normal
+R21,Mass,12,78,10,0,-0.22251,0,0,0,1.4,Hello Flooding,Normal
+R22,Mass,12,80,7,0,-0.109,0,0,0,1.4,Hello Flooding,Normal
+A,Mass,12,64,1989,-940,-1.07391,2,942,4,1.4,Hello Flooding,Normal
+B,Mass,12,100,19,3,-0.09306,9,6,6,1.4,Hello Flooding,Normal
+R0,Mass,12,66,10,0,-0.20414,0,0,0,1.4,Hello Flooding,Normal
+R1,Mass,12,68,7,0,-0.09171,0,0,0,1.4,Hello Flooding,Normal
+R2,Mass,12,70,10,324,-0.17858,327,3,0,10,Hello Flooding,Attacker
+R3,Mass,12,68,8,0,-0.19182,0,0,0,1.4,Hello Flooding,Normal
+R4,Mass,12,54,7,0,-0.20921,0,0,0,1.4,Hello Flooding,Normal
+R5,Mass,12,83,14,212,-0.55093,538,326,7,1.4,Hello Flooding,Normal
+R6,Mass,12,61,7,0,-0.10479,0,0,0,10,Hello Flooding,Attacker
+R7,Mass,12,73,10,0,-0.16755,0,0,0,1.4,Hello Flooding,Normal
+R8,Mass,12,49,8,-1,-0.15473,1,2,0,10,Hello Flooding,Attacker
+R9,Mass,12,74,10,438,-0.15293,440,2,0,10,Hello Flooding,Attacker
+R10,Mass,12,71,7,0,-0.10964,0,0,0,1.4,Hello Flooding,Normal
+R11,Mass,12,69,7,0,-0.08818,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,12,41,6,0,-0.0757,0,0,0,1.4,Hello Flooding,Normal
+R13,Mass,12,72,10,0,-0.18925,0,0,0,1.4,Hello Flooding,Normal
+R14,Mass,12,72,10,18,-0.54298,458,440,0,1.4,Hello Flooding,Normal
+R15,Mass,12,37,6,0,-0.07514,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,12,66,9,0,-0.19386,0,0,0,1.4,Hello Flooding,Normal
+R17,Mass,12,73,8,0,-0.15961,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,12,77,7,0,-0.06919,0,0,0,1.4,Hello Flooding,Normal
+R19,Mass,12,70,7,0,-0.06707,0,0,0,1.4,Hello Flooding,Normal
+R20,Mass,12,75,7,0,-0.06451,0,0,0,1.4,Hello Flooding,Normal
+R21,Mass,12,66,11,27,-0.61411,485,458,0,1.4,Hello Flooding,Normal
+R22,Mass,12,63,7,0,-0.13189,0,0,0,1.4,Hello Flooding,Normal
+A,Mass,12,68,2045,-1011,-1.0894,4,1015,0,1.4,Hello Flooding,Normal
+B,Mass,12,67,13,-3,-0.15127,0,3,5,1.4,Hello Flooding,Normal
+R0,Mass,6,135,21,0,-0.2529,2,2,1,1.4,Hello Flooding,Normal
+R1,Mass,6,109,17,0,-0.23069,0,0,0,1.4,Hello Flooding,Normal
+R2,Mass,6,61,11,0,-0.07055,0,0,0,1.4,Hello Flooding,Normal
+R3,Mass,6,176,23,0,-0.2109,2,2,0,1.4,Hello Flooding,Normal
+R4,Mass,6,91,14,0,-0.08052,0,0,0,1.4,Hello Flooding,Normal
+R5,Mass,6,145,20,11,-0.22443,43,32,0,1.4,Hello Flooding,Normal
+R6,Mass,6,160,20,0,-0.12152,0,0,0,1.4,Hello Flooding,Normal
+R7,Mass,6,144,18,-1,-0.25296,0,1,0,1.4,Hello Flooding,Normal
+R8,Mass,6,93,13,0,-0.03849,0,0,0,1.4,Hello Flooding,Normal
+R9,Mass,6,100,13,0,-0.07576,0,0,0,1.4,Hello Flooding,Normal
+R10,Mass,6,176,29,-3,-0.16799,47,50,3,1.4,Hello Flooding,Normal
+R11,Mass,6,129,20,44,-0.95204,892,848,0,1.4,Hello Flooding,Normal
+R12,Mass,6,119,21,-3,-0.04702,1,4,0,1.4,Hello Flooding,Normal
+R13,Mass,6,189,26,11,-0.23182,40,29,3,1.4,Hello Flooding,Normal
+R14,Mass,6,55,13,0,-0.0713,0,0,0,1.4,Hello Flooding,Normal
+R15,Mass,6,47,12,0,-0.07396,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,6,144,33,124,-0.3703,168,44,11,1.4,Hello Flooding,Normal
+R17,Mass,6,142,20,3,-0.27289,14,11,4,1.4,Hello Flooding,Normal
+R18,Mass,6,171,27,12,-0.16669,18,6,9,1.4,Hello Flooding,Normal
+R19,Mass,6,109,16,10,-0.12098,10,0,0,10,Hello Flooding,Attacker
+R20,Mass,6,135,19,0,-0.09092,4,4,0,1.4,Hello Flooding,Normal
+R21,Mass,6,145,37,938,-0.37978,979,41,8,1.4,Hello Flooding,Normal
+R22,Mass,6,178,24,11,-0.20285,14,3,0,10,Hello Flooding,Attacker
+A,Mass,6,142,2012,-1173,-1.36911,15,1188,17,1.4,Hello Flooding,Normal
+B,Mass,6,176,32,55,-0.08661,65,10,11,1.4,Hello Flooding,Normal
+R0,Mass,11,104,16,-2,-0.26494,0,2,0,1.4,Hello Flooding,Normal
+R1,Mass,11,146,17,-2,-0.15392,21,23,0,1.4,Hello Flooding,Normal
+R2,Mass,11,131,20,-1,-0.0783,4,5,3,1.4,Hello Flooding,Normal
+R3,Mass,11,94,17,0,-0.0739,0,0,2,1.4,Hello Flooding,Normal
+R4,Mass,11,135,16,0,-0.11297,0,0,0,1.4,Hello Flooding,Normal
+R5,Mass,11,144,16,0,-0.24257,0,0,0,1.4,Hello Flooding,Normal
+R6,Mass,11,149,22,-2,-0.2873,13,15,0,1.4,Hello Flooding,Normal
+R7,Mass,11,142,17,-2,-0.24294,1,3,0,1.4,Hello Flooding,Normal
+R8,Mass,11,164,18,-2,-0.25074,10,12,0,1.4,Hello Flooding,Normal
+R9,Mass,11,152,19,-5,-0.10278,24,29,0,1.4,Hello Flooding,Normal
+R10,Mass,11,117,18,239,-0.34264,250,11,12,1.4,Hello Flooding,Normal
+R11,Mass,11,131,21,15,-0.17119,31,16,9,1.4,Hello Flooding,Normal
+R12,Mass,11,118,15,-2,-0.14987,0,2,0,1.4,Hello Flooding,Normal
+R13,Mass,11,52,14,0,-0.23375,0,0,0,1.4,Hello Flooding,Normal
+R14,Mass,11,147,29,822,-0.48353,1022,200,8,1.4,Hello Flooding,Normal
+R15,Mass,11,131,15,0,-0.17027,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,11,100,17,-1,-0.29734,22,23,1,1.4,Hello Flooding,Normal
+R17,Mass,11,115,14,0,-0.08008,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,11,121,19,19,-1.10818,1044,1025,0,1.4,Hello Flooding,Normal
+R19,Mass,11,124,21,7,-0.1152,13,6,1,10,Hello Flooding,Attacker
+R20,Mass,11,50,10,0,-0.06596,0,0,0,1.4,Hello Flooding,Normal
+R21,Mass,11,136,18,1,-0.16643,2,1,1,1.4,Hello Flooding,Normal
+R22,Mass,11,137,17,198,-0.09898,199,1,0,10,Hello Flooding,Attacker
+A,Mass,11,117,2010,-1289,-1.47229,25,1314,21,1.4,Hello Flooding,Normal
+B,Mass,11,103,25,20,-0.10576,27,7,9,1.4,Hello Flooding,Normal
+R0,Mass,17,61,11,0,-0.09284,0,0,1,1.4,Hello Flooding,Normal
+R1,Mass,17,87,18,281,-0.24774,302,21,12,1.4,Hello Flooding,Normal
+R2,Mass,17,120,26,7,-0.15063,19,12,4,1.4,Hello Flooding,Normal
+R3,Mass,17,123,17,0,-0.16721,0,0,1,1.4,Hello Flooding,Normal
+R4,Mass,17,69,13,-1,-0.1611,0,1,1,1.4,Hello Flooding,Normal
+R5,Mass,17,129,20,3,-0.10639,9,6,1,1.4,Hello Flooding,Normal
+R6,Mass,17,117,20,-3,-0.07183,2,5,3,1.4,Hello Flooding,Normal
+R7,Mass,17,76,19,-4,-0.18613,10,14,4,1.4,Hello Flooding,Normal
+R8,Mass,17,97,20,1,-0.12677,13,12,1,1.4,Hello Flooding,Normal
+R9,Mass,17,107,21,3,-0.15714,7,4,3,1.4,Hello Flooding,Normal
+R10,Mass,17,95,14,0,-0.17682,0,0,1,1.4,Hello Flooding,Normal
+R11,Mass,17,102,14,0,-0.09201,0,0,1,1.4,Hello Flooding,Normal
+R12,Mass,17,100,15,-1,-0.18191,0,1,1,1.4,Hello Flooding,Normal
+R13,Mass,17,66,14,0,-0.1467,0,0,1,1.4,Hello Flooding,Normal
+R14,Mass,17,78,13,-1,-0.21091,0,1,0,1.4,Hello Flooding,Normal
+R15,Mass,17,91,17,2,-0.18777,15,13,2,1.4,Hello Flooding,Normal
+R16,Mass,17,118,19,0,-0.18211,4,4,1,1.4,Hello Flooding,Normal
+R17,Mass,17,75,14,20,-0.23045,22,2,0,1.4,Hello Flooding,Normal
+R18,Mass,17,54,12,-1,-0.14609,0,1,0,1.4,Hello Flooding,Normal
+R19,Mass,17,64,15,1189,-0.20756,1194,5,0,10,Hello Flooding,Attacker
+R20,Mass,17,83,20,-2,-0.17034,2,4,6,1.4,Hello Flooding,Normal
+R21,Mass,17,83,14,0,-0.17835,0,0,1,1.4,Hello Flooding,Normal
+R22,Mass,17,92,15,307,-0.17925,310,3,0,10,Hello Flooding,Attacker
+A,Mass,17,81,2034,-1817,-1.90459,11,1828,14,1.4,Hello Flooding,Normal
+B,Mass,17,146,30,23,-0.10863,34,11,8,1.4,Hello Flooding,Normal
+R0,Mass,19,130,22,-2,-0.10822,3,5,0,1.4,Hello Flooding,Normal
+R1,Mass,19,118,19,-5,-0.12466,1,6,0,1.4,Hello Flooding,Normal
+R2,Mass,19,154,23,6,-0.12862,9,3,0,1.4,Hello Flooding,Normal
+R3,Mass,19,145,22,5,-0.15898,8,3,1,1.4,Hello Flooding,Normal
+R4,Mass,19,155,24,300,-0.28772,333,33,11,1.4,Hello Flooding,Normal
+R5,Mass,19,143,19,20,-0.19488,27,7,0,1.4,Hello Flooding,Normal
+R6,Mass,19,130,22,0,-0.17381,4,4,0,1.4,Hello Flooding,Normal
+R7,Mass,19,127,24,-2,-0.10055,0,2,3,1.4,Hello Flooding,Normal
+R8,Mass,19,106,15,4,-0.10419,5,1,0,1.4,Hello Flooding,Normal
+R9,Mass,19,132,28,61,-0.20948,92,31,3,1.4,Hello Flooding,Normal
+R10,Mass,19,131,18,128,-0.24251,184,56,0,1.4,Hello Flooding,Normal
+R11,Mass,19,117,19,-2,-0.10146,2,4,1,1.4,Hello Flooding,Normal
+R12,Mass,19,131,23,0,-0.08411,3,3,1,1.4,Hello Flooding,Normal
+R13,Mass,19,136,21,-3,-0.10561,1,4,0,1.4,Hello Flooding,Normal
+R14,Mass,19,112,25,2,-0.17497,77,75,5,1.4,Hello Flooding,Normal
+R15,Mass,19,128,21,-2,-0.13557,3,5,3,1.4,Hello Flooding,Normal
+R16,Mass,19,134,22,83,-0.31795,247,164,3,1.4,Hello Flooding,Normal
+R17,Mass,19,109,21,1,-0.23798,16,15,1,1.4,Hello Flooding,Normal
+R18,Mass,19,136,16,-5,-0.08787,0,5,0,1.4,Hello Flooding,Normal
+R19,Mass,19,97,18,734,-0.14986,738,4,0,10,Hello Flooding,Attacker
+R20,Mass,19,114,20,-3,-0.16834,2,5,0,1.4,Hello Flooding,Normal
+R21,Mass,19,159,21,4,-0.14457,20,16,0,1.4,Hello Flooding,Normal
+R22,Mass,19,124,19,-3,-0.18774,0,3,0,10,Hello Flooding,Attacker
+A,Mass,19,101,2067,-1390,-1.48097,14,1404,13,1.4,Hello Flooding,Normal
+B,Mass,19,273,27,119,-0.09809,129,10,5,1.4,Hello Flooding,Normal
+R0,Mass,2,143,21,-3,-0.0707,0,3,0,1.4,Hello Flooding,Normal
+R1,Mass,2,170,25,17,-0.1128,40,23,2,1.4,Hello Flooding,Normal
+R2,Mass,2,139,24,-1,-0.0728,4,5,3,1.4,Hello Flooding,Normal
+R3,Mass,2,117,25,-1,-0.06888,0,1,2,1.4,Hello Flooding,Normal
+R4,Mass,2,152,28,-1,-0.08638,14,15,2,1.4,Hello Flooding,Normal
+R5,Mass,2,111,19,0,-0.06604,0,0,0,1.4,Hello Flooding,Normal
+R6,Mass,2,178,27,-1,-0.09832,1,2,0,1.4,Hello Flooding,Normal
+R7,Mass,2,166,25,-3,-0.08577,0,3,0,1.4,Hello Flooding,Normal
+R8,Mass,2,135,24,-2,-0.07084,0,2,1,1.4,Hello Flooding,Normal
+R9,Mass,2,187,21,19,-0.08453,31,12,0,1.4,Hello Flooding,Normal
+R10,Mass,2,150,25,-1,-0.07123,1,2,0,1.4,Hello Flooding,Normal
+R11,Mass,2,152,21,0,-0.09157,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,2,179,29,19,-0.07895,29,10,0,10,Hello Flooding,Attacker
+R13,Mass,2,125,24,11,-0.07049,16,5,0,10,Hello Flooding,Attacker
+R14,Mass,2,199,29,11,-0.14626,35,24,1,1.4,Hello Flooding,Normal
+R15,Mass,2,195,33,0,-0.1058,6,6,0,1.4,Hello Flooding,Normal
+R16,Mass,2,108,22,-4,-0.06737,0,4,0,10,Hello Flooding,Attacker
+R17,Mass,2,178,23,0,-0.09425,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,2,186,25,-2,-0.12579,10,12,0,1.4,Hello Flooding,Normal
+R19,Mass,2,125,20,0,-0.06655,0,0,0,1.4,Hello Flooding,Normal
+R20,Mass,2,186,25,-2,-0.11309,0,2,0,1.4,Hello Flooding,Normal
+R21,Mass,2,155,19,0,-0.06873,0,0,0,1.4,Hello Flooding,Normal
+R22,Mass,2,180,29,218,-0.18884,229,11,9,1.4,Hello Flooding,Normal
+A,Mass,2,132,2026,-246,-0.54015,10,256,32,1.4,Hello Flooding,Normal
+B,Mass,2,88,40,1,-0.0729,8,7,13,1.4,Hello Flooding,Normal
+R0,Mass,15,46,6,0,-0.20746,0,0,0,1.4,Hello Flooding,Normal
+R1,Mass,15,42,6,0,-0.08083,0,0,0,1.4,Hello Flooding,Normal
+R2,Mass,15,46,7,0,-0.09552,0,0,0,1.4,Hello Flooding,Normal
+R3,Mass,15,47,9,0,-0.06434,4,4,0,1.4,Hello Flooding,Normal
+R4,Mass,15,43,6,0,-0.15852,0,0,0,1.4,Hello Flooding,Normal
+R5,Mass,15,41,6,0,-0.0645,0,0,0,1.4,Hello Flooding,Normal
+R6,Mass,15,54,6,0,-0.06479,0,0,0,1.4,Hello Flooding,Normal
+R7,Mass,15,40,6,0,-0.12653,0,0,0,1.4,Hello Flooding,Normal
+R8,Mass,15,41,6,0,-0.06403,0,0,0,1.4,Hello Flooding,Normal
+R9,Mass,15,52,8,5,-0.51383,430,425,0,1.4,Hello Flooding,Normal
+R10,Mass,15,48,6,0,-0.14937,0,0,0,1.4,Hello Flooding,Normal
+R11,Mass,15,39,6,0,-0.14191,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,15,49,8,1286,-0.19756,1288,2,0,10,Hello Flooding,Attacker
+R13,Mass,15,35,6,0,-0.10159,0,0,0,10,Hello Flooding,Attacker
+R14,Mass,15,53,6,0,-0.06392,0,0,0,1.4,Hello Flooding,Normal
+R15,Mass,15,50,7,0,-0.15918,1,1,0,1.4,Hello Flooding,Normal
+R16,Mass,15,56,8,423,-0.17204,425,2,0,10,Hello Flooding,Attacker
+R17,Mass,15,50,6,0,-0.08073,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,15,41,6,0,-0.11711,0,0,0,1.4,Hello Flooding,Normal
+R19,Mass,15,40,6,0,-0.08733,0,0,0,1.4,Hello Flooding,Normal
+R20,Mass,15,39,6,0,-0.22203,0,0,0,1.4,Hello Flooding,Normal
+R21,Mass,15,43,8,0,-0.21914,3,3,0,1.4,Hello Flooding,Normal
+R22,Mass,15,47,6,0,-0.19038,0,0,0,1.4,Hello Flooding,Normal
+A,Mass,15,38,2039,-1712,-1.67501,3,1715,9,1.4,Hello Flooding,Normal
+B,Mass,15,40,11,0,-0.11728,3,3,3,1.4,Hello Flooding,Normal
+R0,Mass,1,74,14,70,-0.37129,147,77,0,1.4,Hello Flooding,Normal
+R1,Mass,1,116,27,265,-0.57187,526,261,10,1.4,Hello Flooding,Normal
+R2,Mass,1,116,14,-1,-0.21923,0,1,0,1.4,Hello Flooding,Normal
+R3,Mass,1,102,16,-1,-0.17234,0,1,0,1.4,Hello Flooding,Normal
+R4,Mass,1,76,9,0,-0.09676,0,0,0,1.4,Hello Flooding,Normal
+R5,Mass,1,123,11,0,-0.1326,15,15,0,1.4,Hello Flooding,Normal
+R6,Mass,1,69,13,0,-0.14702,1,1,1,1.4,Hello Flooding,Normal
+R7,Mass,1,73,13,0,-0.27954,0,0,0,1.4,Hello Flooding,Normal
+R8,Mass,1,50,8,0,-0.23561,0,0,0,1.4,Hello Flooding,Normal
+R9,Mass,1,69,17,1312,-0.98861,1759,447,1,1.4,Hello Flooding,Normal
+R10,Mass,1,128,16,1,-0.18628,11,10,2,1.4,Hello Flooding,Normal
+R11,Mass,1,52,8,0,-0.10329,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,1,125,13,0,-0.14505,3,3,0,1.4,Hello Flooding,Normal
+R13,Mass,1,126,11,0,-0.14935,0,0,0,1.4,Hello Flooding,Normal
+R14,Mass,1,101,17,8,-0.24473,9,1,9,1.4,Hello Flooding,Normal
+R15,Mass,1,74,9,0,-0.1044,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,1,114,10,0,-0.11731,0,0,0,10,Hello Flooding,Attacker
+R17,Mass,1,115,14,0,-0.19931,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,1,114,10,0,-0.12344,0,0,0,1.4,Hello Flooding,Normal
+R19,Mass,1,87,10,0,-0.16985,0,0,0,1.4,Hello Flooding,Normal
+R20,Mass,1,139,10,0,-0.13263,0,0,0,1.4,Hello Flooding,Normal
+R21,Mass,1,129,17,-1,-0.40759,274,275,0,1.4,Hello Flooding,Normal
+R22,Mass,1,125,15,5,-0.39065,279,274,5,1.4,Hello Flooding,Normal
+A,Mass,1,37,2063,-1763,-1.82751,3,1766,2,1.4,Hello Flooding,Normal
+B,Mass,1,354,15,297,-0.10351,303,6,3,1.4,Hello Flooding,Normal
+R0,Mass,3,88,18,0,-0.11969,0,0,0,1.4,Hello Flooding,Normal
+R1,Mass,3,146,43,9,-0.38747,64,55,5,1.4,Hello Flooding,Normal
+R2,Mass,3,136,15,-1,-0.12259,16,17,0,1.4,Hello Flooding,Normal
+R3,Mass,3,186,29,6,-0.22397,31,25,8,1.4,Hello Flooding,Normal
+R4,Mass,3,170,32,0,-0.27346,28,28,1,1.4,Hello Flooding,Normal
+R5,Mass,3,195,24,-2,-0.13206,11,13,1,1.4,Hello Flooding,Normal
+R6,Mass,3,140,35,308,-0.41707,399,91,2,1.4,Hello Flooding,Normal
+R7,Mass,3,97,20,0,-0.136,0,0,0,1.4,Hello Flooding,Normal
+R8,Mass,3,141,30,507,-0.74548,927,420,4,1.4,Hello Flooding,Normal
+R9,Mass,3,206,42,8,-0.37216,222,214,6,1.4,Hello Flooding,Normal
+R10,Mass,3,181,30,0,-0.1679,20,20,1,1.4,Hello Flooding,Normal
+R11,Mass,3,120,24,0,-0.29991,11,11,0,1.4,Hello Flooding,Normal
+R12,Mass,3,196,30,4,-0.37245,208,204,4,1.4,Hello Flooding,Normal
+R13,Mass,3,209,30,4,-0.19206,18,14,4,1.4,Hello Flooding,Normal
+R14,Mass,3,175,18,0,-0.11882,2,2,0,1.4,Hello Flooding,Normal
+R15,Mass,3,215,33,1,-0.17607,21,20,3,1.4,Hello Flooding,Normal
+R16,Mass,3,75,16,4,-0.09528,6,2,0,10,Hello Flooding,Attacker
+R17,Mass,3,77,14,0,-0.10393,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,3,185,22,0,-0.14744,20,20,2,1.4,Hello Flooding,Normal
+R19,Mass,3,86,13,0,-0.1267,0,0,0,1.4,Hello Flooding,Normal
+R20,Mass,3,163,28,2,-0.13491,15,13,2,1.4,Hello Flooding,Normal
+R21,Mass,3,75,12,0,-0.08508,0,0,0,1.4,Hello Flooding,Normal
+R22,Mass,3,124,23,22,-1.00541,905,883,0,1.4,Hello Flooding,Normal
+A,Mass,3,108,2017,-974,-1.29202,23,997,22,1.4,Hello Flooding,Normal
+B,Mass,3,413,32,253,-0.12097,269,16,7,1.4,Hello Flooding,Normal
+R0,Mass,7,235,35,270,-0.34805,370,100,9,1.4,Hello Flooding,Normal
+R1,Mass,7,212,30,0,-0.13539,10,10,0,1.4,Hello Flooding,Normal
+R2,Mass,7,226,32,0,-0.12564,18,18,0,1.4,Hello Flooding,Normal
+R3,Mass,7,255,28,0,-0.12049,1,1,0,1.4,Hello Flooding,Normal
+R4,Mass,7,274,30,0,-0.16105,17,17,0,1.4,Hello Flooding,Normal
+R5,Mass,7,287,31,1,-0.1697,16,15,1,1.4,Hello Flooding,Normal
+R6,Mass,7,253,42,5,-0.31985,111,106,2,1.4,Hello Flooding,Normal
+R7,Mass,7,271,31,0,-0.13223,4,4,0,1.4,Hello Flooding,Normal
+R8,Mass,7,301,30,0,-0.12798,7,7,0,1.4,Hello Flooding,Normal
+R9,Mass,7,244,29,-1,-0.11385,3,4,0,1.4,Hello Flooding,Normal
+R10,Mass,7,137,24,0,-0.09316,0,0,0,1.4,Hello Flooding,Normal
+R11,Mass,7,268,34,0,-0.17697,2,2,0,1.4,Hello Flooding,Normal
+R12,Mass,7,275,28,-1,-0.23652,110,111,0,1.4,Hello Flooding,Normal
+R13,Mass,7,281,29,0,-0.10794,2,2,0,1.4,Hello Flooding,Normal
+R14,Mass,7,123,19,0,-0.10118,0,0,0,1.4,Hello Flooding,Normal
+R15,Mass,7,205,33,3,-0.15698,25,22,4,1.4,Hello Flooding,Normal
+R16,Mass,7,159,28,140,-0.16379,144,4,0,10,Hello Flooding,Attacker
+R17,Mass,7,186,28,0,-0.09877,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,7,285,32,4,-0.14257,7,3,3,1.4,Hello Flooding,Normal
+R19,Mass,7,306,32,12,-0.17016,20,8,6,1.4,Hello Flooding,Normal
+R20,Mass,7,253,30,0,-0.13402,0,0,0,1.4,Hello Flooding,Normal
+R21,Mass,7,221,31,0,-0.20153,15,15,0,1.4,Hello Flooding,Normal
+R22,Mass,7,221,28,0,-0.12495,0,0,0,1.4,Hello Flooding,Normal
+A,Mass,7,79,2091,-575,-1.04015,19,594,16,1.4,Hello Flooding,Normal
+B,Mass,7,405,43,223,-0.11399,237,14,13,1.4,Hello Flooding,Normal
+R0,Mass,14,61,16,47,-0.18133,80,33,7,1.4,Hello Flooding,Normal
+R1,Mass,14,96,12,0,-0.21614,0,0,0,1.4,Hello Flooding,Normal
+R2,Mass,14,57,10,0,-0.11992,0,0,0,1.4,Hello Flooding,Normal
+R3,Mass,14,88,12,0,-0.22214,0,0,0,1.4,Hello Flooding,Normal
+R4,Mass,14,80,13,0,-0.22301,0,0,0,1.4,Hello Flooding,Normal
+R5,Mass,14,51,9,0,-0.0943,0,0,0,1.4,Hello Flooding,Normal
+R6,Mass,14,57,9,0,-0.17306,0,0,0,1.4,Hello Flooding,Normal
+R7,Mass,14,74,12,0,-0.2001,0,0,0,1.4,Hello Flooding,Normal
+R8,Mass,14,45,10,0,-0.0677,0,0,0,1.4,Hello Flooding,Normal
+R9,Mass,14,56,9,0,-0.17585,0,0,0,1.4,Hello Flooding,Normal
+R10,Mass,14,69,13,0,-0.1447,12,12,0,1.4,Hello Flooding,Normal
+R11,Mass,14,87,12,0,-0.19267,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,14,90,12,0,-0.20676,0,0,0,1.4,Hello Flooding,Normal
+R13,Mass,14,44,8,0,-0.08718,0,0,0,1.4,Hello Flooding,Normal
+R14,Mass,14,75,17,2,-0.36835,192,190,0,1.4,Hello Flooding,Normal
+R15,Mass,14,68,10,0,-0.21268,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,14,95,14,-1,-0.21916,0,1,0,10,Hello Flooding,Attacker
+R17,Mass,14,50,9,0,-0.08886,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,14,76,14,-3,-0.14147,7,10,1,1.4,Hello Flooding,Normal
+R19,Mass,14,72,12,0,-0.20437,0,0,0,1.4,Hello Flooding,Normal
+R20,Mass,14,43,10,0,-0.11521,0,0,0,1.4,Hello Flooding,Normal
+R21,Mass,14,66,11,15,-0.66296,573,558,0,1.4,Hello Flooding,Normal
+R22,Mass,14,89,16,242,-0.37053,330,88,6,1.4,Hello Flooding,Normal
+A,Mass,14,94,1978,-1074,-1.28823,5,1079,9,1.4,Hello Flooding,Normal
+B,Mass,14,888,21,836,-0.16588,841,5,7,1.4,Hello Flooding,Normal
+R0,Mass,17,148,25,-2,-0.25901,1,3,0,1.4,Hello Flooding,Normal
+R1,Mass,17,106,19,0,-0.10071,2,2,0,1.4,Hello Flooding,Normal
+R2,Mass,17,138,23,-2,-0.2609,0,2,0,1.4,Hello Flooding,Normal
+R3,Mass,17,99,16,0,-0.15645,0,0,0,1.4,Hello Flooding,Normal
+R4,Mass,17,156,27,-2,-0.26101,2,4,0,1.4,Hello Flooding,Normal
+R5,Mass,17,136,19,-4,-0.17307,3,7,0,1.4,Hello Flooding,Normal
+R6,Mass,17,117,17,2,-0.20718,5,3,0,1.4,Hello Flooding,Normal
+R7,Mass,17,140,21,-2,-0.21378,3,5,3,1.4,Hello Flooding,Normal
+R8,Mass,17,171,30,214,-0.3349,231,17,12,1.4,Hello Flooding,Normal
+R9,Mass,17,115,20,-2,-0.18538,2,4,0,1.4,Hello Flooding,Normal
+R10,Mass,17,141,25,-1,-0.27212,17,18,0,1.4,Hello Flooding,Normal
+R11,Mass,17,107,16,-3,-0.12409,3,6,0,1.4,Hello Flooding,Normal
+R12,Mass,17,127,25,125,-0.88598,875,750,2,1.4,Hello Flooding,Normal
+R13,Mass,17,145,23,0,-0.27904,36,36,5,1.4,Hello Flooding,Normal
+R14,Mass,17,133,21,-6,-0.12667,4,10,1,1.4,Hello Flooding,Normal
+R15,Mass,17,101,19,-2,-0.17996,0,2,0,1.4,Hello Flooding,Normal
+R16,Mass,17,130,31,10,-0.12919,25,15,0,10,Hello Flooding,Attacker
+R17,Mass,17,146,26,86,-0.35135,122,36,5,1.4,Hello Flooding,Normal
+R18,Mass,17,110,20,-6,-0.1295,38,44,0,1.4,Hello Flooding,Normal
+R19,Mass,17,162,37,28,-0.21151,62,34,5,1.4,Hello Flooding,Normal
+R20,Mass,17,151,27,15,-0.28754,38,23,3,1.4,Hello Flooding,Normal
+R21,Mass,17,105,19,-1,-0.14236,1,2,1,1.4,Hello Flooding,Normal
+R22,Mass,17,103,17,-2,-0.15083,0,2,1,1.4,Hello Flooding,Normal
+A,Mass,17,150,2033,-1279,-1.6489,19,1298,21,1.4,Hello Flooding,Normal
+B,Mass,17,1028,24,911,-0.21663,924,13,3,1.4,Hello Flooding,Normal
+R0,Mass,7,17,2,0,-0.20638,0,0,0,10,Hello Flooding,Attacker
+R1,Mass,7,14,1,0,-0.13447,0,0,0,1.4,Hello Flooding,Normal
+R2,Mass,7,16,1,0,-0.06752,0,0,0,1.4,Hello Flooding,Normal
+R3,Mass,7,15,1,0,-0.13643,0,0,0,1.4,Hello Flooding,Normal
+R4,Mass,7,17,3,0,-0.24929,4,4,0,1.4,Hello Flooding,Normal
+R5,Mass,7,18,6,4,-0.18671,7,3,4,1.4,Hello Flooding,Normal
+R6,Mass,7,15,7,97,-1.53171,1568,1471,1,1.4,Hello Flooding,Normal
+R7,Mass,7,16,2,0,-0.21836,0,0,0,1.4,Hello Flooding,Normal
+R8,Mass,7,17,2,0,-0.21275,0,0,0,1.4,Hello Flooding,Normal
+R9,Mass,7,11,0,0,-0.16547,0,0,0,1.4,Hello Flooding,Normal
+R10,Mass,7,7,1,0,-0.14033,0,0,0,1.4,Hello Flooding,Normal
+R11,Mass,7,18,2,0,-0.25451,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,7,13,1,0,-0.16193,0,0,0,1.4,Hello Flooding,Normal
+R13,Mass,7,17,2,0,-0.09804,0,0,0,1.4,Hello Flooding,Normal
+R14,Mass,7,6,0,0,-0.18481,0,0,0,1.4,Hello Flooding,Normal
+R15,Mass,7,14,1,0,-0.07564,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,7,9,1,0,-0.16905,0,0,0,1.4,Hello Flooding,Normal
+R17,Mass,7,13,2,0,-0.18002,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,7,17,2,0,-0.17266,0,0,0,1.4,Hello Flooding,Normal
+R19,Mass,7,18,2,0,-0.19749,0,0,0,1.4,Hello Flooding,Normal
+R20,Mass,7,11,3,1465,-0.22686,1466,1,0,10,Hello Flooding,Attacker
+R21,Mass,7,18,2,0,-0.27042,0,0,0,1.4,Hello Flooding,Normal
+R22,Mass,7,12,2,0,-0.18904,0,0,0,1.4,Hello Flooding,Normal
+A,Mass,7,10,1973,-1562,-1.64928,3,1565,3,1.4,Hello Flooding,Normal
+B,Mass,7,14,4,2,-0.08872,4,2,1,1.4,Hello Flooding,Normal
+R0,Mass,10,129,28,317,-0.16536,320,3,0,10,Hello Flooding,Attacker
+R1,Mass,10,122,23,0,-0.13783,0,0,0,1.4,Hello Flooding,Normal
+R2,Mass,10,203,29,221,-0.32109,308,87,3,1.4,Hello Flooding,Normal
+R3,Mass,10,171,29,-1,-0.0999,14,15,3,1.4,Hello Flooding,Normal
+R4,Mass,10,186,26,-1,-0.19143,0,1,0,1.4,Hello Flooding,Normal
+R5,Mass,10,205,26,-1,-0.19624,0,1,0,1.4,Hello Flooding,Normal
+R6,Mass,10,190,25,-1,-0.15948,18,19,0,1.4,Hello Flooding,Normal
+R7,Mass,10,170,29,1,-0.10402,5,4,2,1.4,Hello Flooding,Normal
+R8,Mass,10,181,28,8,-0.2116,25,17,1,1.4,Hello Flooding,Normal
+R9,Mass,10,181,27,16,-0.17384,40,24,3,1.4,Hello Flooding,Normal
+R10,Mass,10,184,33,-1,-0.12523,32,33,3,1.4,Hello Flooding,Normal
+R11,Mass,10,140,25,0,-0.16927,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,10,162,25,0,-0.09145,3,3,0,1.4,Hello Flooding,Normal
+R13,Mass,10,144,28,1,-0.1098,13,12,3,1.4,Hello Flooding,Normal
+R14,Mass,10,195,26,-1,-0.16505,0,1,0,1.4,Hello Flooding,Normal
+R15,Mass,10,116,24,0,-0.07615,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,10,196,30,-1,-0.19568,17,18,0,1.4,Hello Flooding,Normal
+R17,Mass,10,182,36,3,-0.22759,34,31,3,1.4,Hello Flooding,Normal
+R18,Mass,10,180,29,-1,-0.16141,16,17,0,1.4,Hello Flooding,Normal
+R19,Mass,10,177,25,44,-0.16543,77,33,1,1.4,Hello Flooding,Normal
+R20,Mass,10,135,29,74,-0.12443,82,8,0,10,Hello Flooding,Attacker
+R21,Mass,10,158,29,1,-0.2052,26,25,0,1.4,Hello Flooding,Normal
+R22,Mass,10,181,26,0,-0.11378,20,20,0,1.4,Hello Flooding,Normal
+A,Mass,10,190,2054,-756,-1.30759,18,774,15,1.4,Hello Flooding,Normal
+B,Mass,10,300,45,150,-0.10843,162,12,13,1.4,Hello Flooding,Normal
+R0,Mass,14,80,12,-1,-0.13397,0,1,0,10,Hello Flooding,Attacker
+R1,Mass,14,104,12,0,-0.13284,0,0,0,1.4,Hello Flooding,Normal
+R2,Mass,14,67,10,0,-0.11999,0,0,0,1.4,Hello Flooding,Normal
+R3,Mass,14,95,12,0,-0.13196,0,0,0,1.4,Hello Flooding,Normal
+R4,Mass,14,87,12,0,-0.09712,0,0,0,1.4,Hello Flooding,Normal
+R5,Mass,14,70,9,0,-0.07056,0,0,0,1.4,Hello Flooding,Normal
+R6,Mass,14,56,10,0,-0.10911,0,0,0,1.4,Hello Flooding,Normal
+R7,Mass,14,81,11,0,-0.09847,0,0,0,1.4,Hello Flooding,Normal
+R8,Mass,14,59,10,0,-0.0654,0,0,0,1.4,Hello Flooding,Normal
+R9,Mass,14,56,10,0,-0.12852,0,0,0,1.4,Hello Flooding,Normal
+R10,Mass,14,81,10,0,-0.13031,0,0,0,1.4,Hello Flooding,Normal
+R11,Mass,14,102,12,0,-0.13278,0,0,0,1.4,Hello Flooding,Normal
+R12,Mass,14,96,12,0,-0.13286,0,0,0,1.4,Hello Flooding,Normal
+R13,Mass,14,57,11,0,-0.12105,0,0,0,1.4,Hello Flooding,Normal
+R14,Mass,14,66,12,0,-0.15764,21,21,0,1.4,Hello Flooding,Normal
+R15,Mass,14,61,10,0,-0.13,0,0,0,1.4,Hello Flooding,Normal
+R16,Mass,14,105,12,0,-0.13281,0,0,0,1.4,Hello Flooding,Normal
+R17,Mass,14,78,10,0,-0.13072,0,0,0,1.4,Hello Flooding,Normal
+R18,Mass,14,87,11,0,-0.06568,0,0,0,1.4,Hello Flooding,Normal
+R19,Mass,14,82,11,0,-0.12327,0,0,0,1.4,Hello Flooding,Normal
+R20,Mass,14,58,12,952,-0.1491,953,1,0,10,Hello Flooding,Attacker
+R21,Mass,14,62,10,0,-0.12887,0,0,0,1.4,Hello Flooding,Normal
+R22,Mass,14,103,12,0,-0.13414,0,0,0,1.4,Hello Flooding,Normal
+A,Mass,14,100,1964,-970,-0.90814,1,971,1,1.4,Hello Flooding,Normal
+B,Mass,14,78,21,27,-0.13508,29,2,9,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,3,194,26,30,-0.41351,274,244,1,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,3,175,23,-1,-0.16622,0,1,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,3,186,21,0,-0.15763,0,0,0,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,3,197,25,14,-0.13708,18,4,1,10,Hello Flooding,Attacker
+R4,RandomWayPoint,3,222,25,-1,-0.1555,20,21,2,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,3,185,25,8,-0.15472,27,19,4,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,3,209,24,214,-0.24884,251,37,1,1.4,Hello Flooding,Normal
+R7,RandomWayPoint,3,175,27,0,-0.09538,0,0,4,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,3,182,28,3,-0.12648,16,13,6,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,3,179,20,0,-0.17522,0,0,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,3,196,32,-1,-0.11118,26,27,6,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,3,189,26,-1,-0.18802,5,6,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,3,190,27,0,-0.09706,0,0,4,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,3,178,23,-1,-0.19099,0,1,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,3,189,23,-1,-0.12683,2,3,2,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,3,179,20,-3,-0.15212,18,21,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,3,209,28,285,-0.23665,302,17,1,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,3,201,29,38,-0.45599,338,300,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,3,193,27,0,-0.09382,0,0,4,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,3,158,22,-1,-0.12328,2,3,3,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,3,196,26,34,-0.19339,42,8,0,10,Hello Flooding,Attacker
+R21,RandomWayPoint,3,188,26,2,-0.46056,307,305,2,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,3,124,20,0,-0.14856,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,3,149,2053,-632,-0.826,17,649,6,1.4,Hello Flooding,Normal
+B,RandomWayPoint,3,229,42,68,-0.08889,72,4,16,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,8,95,10,0,-0.24016,2,2,1,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,8,114,11,0,-0.23179,0,0,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,8,114,13,0,-0.24268,0,0,0,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,8,79,10,202,-0.21041,206,4,0,10,Hello Flooding,Attacker
+R4,RandomWayPoint,8,109,13,0,-0.28074,0,0,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,8,100,14,284,-1.36658,1470,1186,11,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,8,106,11,0,-0.19641,0,0,0,1.4,Hello Flooding,Normal
+R7,RandomWayPoint,8,103,8,0,-0.24536,2,2,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,8,95,11,-1,-0.27511,13,14,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,8,56,8,0,-0.24487,0,0,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,8,79,8,0,-0.25653,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,8,98,10,0,-0.25234,0,0,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,8,98,8,0,-0.24287,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,8,115,10,0,-0.26633,0,0,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,8,76,8,0,-0.2804,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,8,94,9,172,-0.35962,184,12,11,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,8,93,8,0,-0.25436,0,0,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,8,82,8,0,-0.27346,0,0,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,8,109,11,0,-0.26663,1,1,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,8,113,12,0,-0.22233,0,0,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,8,87,9,0,-0.21689,0,0,0,10,Hello Flooding,Attacker
+R21,RandomWayPoint,8,115,10,0,-0.26154,0,0,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,8,106,8,0,-0.27285,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,8,86,1961,-1641,-1.59945,4,1645,0,1.4,Hello Flooding,Normal
+B,RandomWayPoint,8,742,15,996,-0.22809,1003,7,2,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,15,100,14,0,-0.13008,0,0,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,15,88,10,0,-0.14621,0,0,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,15,103,9,0,-0.2017,0,0,0,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,15,81,12,1723,-0.23083,1724,1,0,10,Hello Flooding,Attacker
+R4,RandomWayPoint,15,90,11,0,-0.20031,0,0,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,15,89,14,0,-0.12773,0,0,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,15,89,9,0,-0.16237,0,0,0,1.4,Hello Flooding,Normal
+R7,RandomWayPoint,15,89,11,0,-0.2031,0,0,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,15,101,13,0,-0.20324,1,1,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,15,93,9,0,-0.16389,0,0,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,15,86,10,0,-0.17255,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,15,101,9,0,-0.20237,0,0,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,15,83,9,0,-0.19493,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,15,90,9,0,-0.20316,0,0,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,15,102,11,2,-0.15435,3,1,2,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,15,86,14,0,-0.12229,0,0,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,15,96,9,0,-0.14592,0,0,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,15,90,10,0,-0.18279,0,0,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,15,89,10,0,-0.14763,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,15,87,10,0,-0.16579,0,0,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,15,68,10,8,-0.17279,10,2,0,10,Hello Flooding,Attacker
+R21,RandomWayPoint,15,104,11,0,-0.13565,0,0,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,15,73,11,0,-0.22728,13,13,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,15,95,1976,-1782,-1.74179,5,1787,13,1.4,Hello Flooding,Normal
+B,RandomWayPoint,15,1081,12,49,-0.11291,53,4,3,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,19,52,5,0,-0.23881,0,0,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,19,44,5,0,-0.2393,0,0,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,19,55,6,6,-0.29256,39,33,1,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,19,53,8,1,-0.17371,2,1,0,10,Hello Flooding,Attacker
+R4,RandomWayPoint,19,64,6,61,-0.73438,667,606,3,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,19,39,6,134,-0.32742,213,79,3,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,19,56,6,0,-0.2391,0,0,0,1.4,Hello Flooding,Normal
+R7,RandomWayPoint,19,73,7,0,-0.19966,0,0,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,19,64,8,0,-0.23577,0,0,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,19,48,5,0,-0.16601,0,0,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,19,44,6,0,-0.1715,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,19,55,6,0,-0.23461,0,0,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,19,62,6,0,-0.1969,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,19,58,7,0,-0.23667,0,0,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,19,50,8,0,-0.19636,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,19,48,5,0,-0.1878,0,0,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,19,61,7,0,-0.18762,0,0,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,19,47,5,0,-0.15309,0,0,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,19,30,5,0,-0.24081,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,19,63,6,31,-0.7223,628,597,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,19,58,7,-1,-0.21719,0,1,0,10,Hello Flooding,Attacker
+R21,RandomWayPoint,19,56,5,0,-0.2373,0,0,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,19,63,9,0,-0.17186,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,19,48,1954,-862,-1.12238,13,875,11,1.4,Hello Flooding,Normal
+B,RandomWayPoint,19,97,10,668,-0.18149,674,6,4,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,1,95,21,0,-0.07278,2,2,1,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,1,197,25,-1,-0.11841,1,2,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,1,164,34,12,-0.19156,32,20,8,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,1,210,23,0,-0.17771,0,0,0,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,1,48,16,0,-0.18253,0,0,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,1,221,31,1127,-0.34758,1162,35,4,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,1,151,24,0,-0.1383,1,1,0,1.4,Hello Flooding,Normal
+R7,RandomWayPoint,1,235,25,-1,-0.23128,18,19,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,1,131,22,0,-0.11412,0,0,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,1,261,28,-2,-0.20604,13,15,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,1,139,28,-2,-0.09392,23,25,1,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,1,189,30,3,-0.21775,5,2,2,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,1,57,16,0,-0.07286,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,1,129,38,54,-1.24523,1240,1186,1,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,1,214,23,0,-0.13631,11,11,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,1,146,22,0,-0.11778,0,0,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,1,203,29,73,-0.09476,84,11,0,10,Hello Flooding,Attacker
+R17,RandomWayPoint,1,93,19,0,-0.07231,0,0,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,1,214,23,0,-0.21056,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,1,138,28,152,-0.35654,191,39,4,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,1,131,21,0,-0.07405,0,0,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,1,247,28,-1,-0.2132,38,39,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,1,239,24,0,-0.18203,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,1,55,2005,-1404,-1.50472,12,1416,9,1.4,Hello Flooding,Normal
+B,RandomWayPoint,1,112,32,15,-0.07676,31,16,7,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,4,82,15,575,-0.84238,1120,545,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,4,68,9,0,-0.20327,0,0,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,4,73,10,0,-0.21237,0,0,0,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,4,67,8,0,-0.1515,0,0,0,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,4,62,8,0,-0.13525,0,0,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,4,57,7,0,-0.16934,0,0,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,4,101,13,0,-0.25596,40,40,0,1.4,Hello Flooding,Normal
+R7,RandomWayPoint,4,124,15,13,-0.25717,28,15,1,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,4,77,11,0,-0.26419,1,1,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,4,98,17,65,-0.37963,121,56,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,4,91,11,0,-0.21236,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,4,93,15,5,-0.7,538,533,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,4,107,13,320,-0.52769,528,208,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,4,68,17,8,-0.31675,36,28,1,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,4,57,7,0,-0.15084,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,4,84,11,0,-0.46249,334,334,1,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,4,109,13,-2,-0.19965,2,4,0,10,Hello Flooding,Attacker
+R17,RandomWayPoint,4,106,13,1,-0.20136,2,1,1,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,4,120,13,1,-0.45076,303,302,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,4,75,12,-1,-0.18515,45,46,1,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,4,93,11,0,-0.24403,0,0,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,4,118,14,9,-0.28256,36,27,4,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,4,100,12,0,-0.25328,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,4,46,2025,-1242,-1.39742,8,1250,11,1.4,Hello Flooding,Normal
+B,RandomWayPoint,4,436,17,396,-0.12322,402,6,3,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,5,22,3,0,-0.28309,0,0,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,5,18,2,0,-0.27049,0,0,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,5,22,3,0,-0.2831,0,0,0,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,5,21,3,0,-0.28308,0,0,0,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,5,8,1,0,-0.11797,0,0,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,5,21,3,0,-0.28308,0,0,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,5,8,1,0,-0.10965,0,0,0,1.4,Hello Flooding,Normal
+R7,RandomWayPoint,5,17,2,0,-0.23715,0,0,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,5,21,4,1,-1.36168,1348,1347,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,5,9,1,0,-0.15334,0,0,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,5,18,2,0,-0.27504,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,5,8,1,0,-0.13161,0,0,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,5,8,2,0,-0.15581,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,5,11,1,0,-0.14626,0,0,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,5,13,3,0,-0.28308,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,5,10,2,0,-0.14673,0,0,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,5,18,2,1346,-0.19943,1347,1,0,10,Hello Flooding,Attacker
+R17,RandomWayPoint,5,8,1,0,-0.11506,0,0,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,5,10,2,0,-0.18305,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,5,10,2,0,-0.16485,0,0,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,5,16,2,0,-0.23835,0,0,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,5,22,3,0,-0.28308,0,0,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,5,3,2,0,-0.1091,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,5,18,1996,-1329,-1.73285,1,1330,0,1.4,Hello Flooding,Normal
+B,RandomWayPoint,5,8,1,-1,-0.1082,0,1,0,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,11,28,3,0,-0.19404,0,0,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,11,14,2,0,-0.06364,0,0,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,11,31,3,0,-0.17786,0,0,0,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,11,11,3,0,-0.06844,0,0,0,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,11,31,3,0,-0.19408,0,0,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,11,18,1,0,-0.08171,0,0,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,11,9,2,0,-0.07013,0,0,0,1.4,Hello Flooding,Normal
+R7,RandomWayPoint,11,32,3,0,-0.19405,0,0,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,11,26,2,0,-0.16998,0,0,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,11,26,3,0,-0.19405,0,0,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,11,21,2,0,-0.1617,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,11,28,2,0,-0.18886,0,0,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,11,29,2,0,-0.14028,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,11,15,3,0,-0.14739,2,2,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,11,16,2,0,-0.14188,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,11,33,3,0,-0.14993,0,0,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,11,36,4,1911,-0.23168,1913,2,0,10,Hello Flooding,Attacker
+R17,RandomWayPoint,11,26,2,0,-0.11618,0,0,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,11,33,3,0,-0.16169,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,11,25,2,0,-0.18236,0,0,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,11,10,2,0,-0.14518,0,0,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,11,11,3,0,-0.1152,0,0,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,11,13,2,0,-0.10344,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,11,20,1956,-1911,-1.65986,1,1912,0,1.4,Hello Flooding,Normal
+B,RandomWayPoint,11,12,5,1,-0.09784,2,1,1,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,3,36,4,0,-0.23563,0,0,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,3,31,4,0,-0.19597,0,0,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,3,29,3,1,-0.1283,2,1,0,10,Hello Flooding,Attacker
+R3,RandomWayPoint,3,34,3,0,-0.06398,0,0,0,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,3,36,5,0,-0.06435,0,0,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,3,36,4,0,-0.06769,0,0,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,3,42,6,-1,-0.27421,0,1,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,3,31,4,0,-0.06406,0,0,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,3,35,3,0,-0.06398,0,0,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,3,32,3,984,-0.18674,985,1,0,10,Hello Flooding,Attacker
+R10,RandomWayPoint,3,36,4,0,-0.06409,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,3,42,3,0,-0.18671,0,0,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,3,34,4,0,-0.0641,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,3,35,4,0,-0.23562,0,0,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,3,34,4,0,-0.06411,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,3,32,3,0,-0.06398,0,0,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,3,44,4,0,-0.23573,1,1,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,3,39,4,315,-0.23566,1488,1173,11,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,3,34,4,0,-0.0641,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,3,27,3,0,-0.06394,0,0,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,3,38,3,0,-0.22575,0,0,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,3,39,4,0,-0.23567,0,0,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,3,19,3,0,-0.11772,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,3,29,2075,-1477,-2.16737,1,1478,11,1.4,Hello Flooding,Normal
+B,RandomWayPoint,3,29,8,183,-0.0656,189,6,1,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,17,67,9,-1,-0.18307,0,1,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,17,76,8,-1,-0.14479,0,1,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,17,84,8,-1,-0.1842,0,1,0,10,Hello Flooding,Attacker
+R3,RandomWayPoint,17,84,8,-1,-0.22527,0,1,0,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,17,79,8,-1,-0.18179,0,1,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,17,81,8,-1,-0.22295,0,1,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,17,67,8,-1,-0.12811,0,1,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,17,63,8,-1,-0.17174,0,1,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,17,70,8,-1,-0.20298,0,1,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,17,90,24,137,-0.20533,153,16,0,10,Hello Flooding,Attacker
+R10,RandomWayPoint,17,63,8,-1,-0.18447,0,1,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,17,63,9,0,-0.15186,0,0,1,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,17,68,9,-1,-0.22942,0,1,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,17,78,9,0,-0.21399,5,5,1,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,17,83,9,-1,-0.20799,0,1,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,17,72,9,-1,-0.14832,0,1,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,17,65,8,-1,-0.18717,0,1,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,17,76,8,-1,-0.21823,1,2,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,17,64,9,-1,-0.13171,0,1,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,17,83,9,-1,-0.20523,0,1,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,17,70,9,-1,-0.17684,0,1,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,17,73,11,53,-0.80121,763,710,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,17,56,8,-1,-0.12081,0,1,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,17,79,1983,-1250,-1.51473,30,1280,16,1.4,Hello Flooding,Normal
+B,RandomWayPoint,17,1180,13,1111,-0.21498,1116,5,3,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,18,106,16,-2,-0.18827,0,2,1,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,18,126,13,-1,-0.24271,0,1,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,18,114,18,-2,-0.2066,2,4,1,10,Hello Flooding,Attacker
+R3,RandomWayPoint,18,119,16,-2,-0.24588,0,2,1,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,18,99,15,-2,-0.20528,0,2,1,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,18,119,15,-3,-0.23269,2,5,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,18,83,12,-1,-0.14198,0,1,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,18,99,15,0,-0.18279,0,0,2,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,18,119,13,-1,-0.24398,0,1,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,18,128,20,3,-0.24534,12,9,0,10,Hello Flooding,Attacker
+R10,RandomWayPoint,18,117,15,-2,-0.22116,0,2,1,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,18,109,18,126,-0.58544,441,315,21,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,18,132,15,-3,-0.24463,0,3,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,18,123,14,-3,-0.21338,0,3,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,18,129,16,-2,-0.25456,3,5,1,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,18,93,14,-3,-0.206,0,3,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,18,123,14,-3,-0.24041,10,13,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,18,118,15,-2,-0.21557,11,13,1,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,18,74,13,0,-0.15683,0,0,1,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,18,128,16,-4,-0.23773,2,6,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,18,130,20,331,-0.69564,775,444,12,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,18,128,15,-3,-0.22626,3,6,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,18,102,16,0,-0.16785,0,0,2,1.4,Hello Flooding,Normal
+A,RandomWayPoint,18,117,1993,-1180,-1.44068,17,1197,19,1.4,Hello Flooding,Normal
+B,RandomWayPoint,18,904,22,794,-0.21698,803,9,4,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,20,69,7,0,-0.19879,0,0,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,20,60,8,0,-0.13881,0,0,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,20,50,8,0,-0.23113,0,0,0,10,Hello Flooding,Attacker
+R3,RandomWayPoint,20,51,7,0,-0.12979,0,0,0,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,20,47,8,0,-0.16863,2,2,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,20,48,6,0,-0.17865,0,0,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,20,60,7,1954,-0.1875,1956,2,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,20,52,7,0,-0.25984,0,0,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,20,68,8,0,-0.26053,0,0,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,20,68,8,0,-0.22109,0,0,0,10,Hello Flooding,Attacker
+R10,RandomWayPoint,20,57,8,0,-0.24476,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,20,64,8,0,-0.20856,0,0,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,20,42,6,0,-0.16374,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,20,53,7,0,-0.22896,0,0,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,20,58,8,0,-0.25396,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,20,52,6,0,-0.22669,0,0,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,20,68,10,0,-0.27794,0,0,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,20,68,12,0,-1.31703,0,0,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,20,59,7,0,-0.17339,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,20,48,7,0,-0.23689,0,0,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,20,50,7,0,-0.12806,0,0,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,20,58,8,0,-0.21726,0,0,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,20,55,8,0,-0.24273,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,20,49,1990,-1954,-1.69072,1,1955,0,1.4,Hello Flooding,Normal
+B,RandomWayPoint,20,232,10,0,-0.22891,1,1,3,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,5,187,20,54,-0.21466,82,28,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,5,170,22,172,-0.27883,220,48,1,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,5,171,23,564,-0.18619,568,4,0,10,Hello Flooding,Attacker
+R3,RandomWayPoint,5,178,18,0,-0.17181,0,0,0,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,5,147,16,0,-0.07325,0,0,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,5,156,18,0,-0.17127,0,0,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,5,127,19,3,-0.07211,6,3,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,5,163,17,0,-0.16218,0,0,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,5,165,19,0,-0.17483,0,0,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,5,152,18,0,-0.16618,67,67,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,5,163,17,0,-0.17403,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,5,158,17,0,-0.07472,0,0,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,5,114,14,0,-0.09831,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,5,172,15,-1,-0.08195,1,2,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,5,161,18,0,-0.17022,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,5,159,15,-1,-0.07161,0,1,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,5,176,18,4,-0.12639,25,21,1,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,5,138,17,0,-0.07319,0,0,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,5,153,15,-1,-0.11405,0,1,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,5,145,15,-1,-0.10063,0,1,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,5,166,17,0,-0.16336,0,0,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,5,179,19,0,-0.17338,0,0,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,5,55,14,0,-0.11462,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,5,155,2073,-859,-1.24058,4,863,27,1.4,Hello Flooding,Normal
+B,RandomWayPoint,5,229,33,98,-0.07938,106,8,10,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,9,205,35,7,-0.26989,35,28,5,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,9,181,25,0,-0.23341,5,5,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,9,131,20,-1,-0.14918,2,3,0,10,Hello Flooding,Attacker
+R3,RandomWayPoint,9,215,35,280,-0.42514,329,49,12,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,9,214,32,1,-0.29987,37,36,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,9,157,25,1,-0.23959,1,0,1,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,9,222,32,97,-0.17854,108,11,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,9,204,30,6,-0.29557,19,13,4,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,9,204,28,-1,-0.26203,0,1,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,9,168,27,0,-0.26081,0,0,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,9,140,20,0,-0.21366,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,9,157,19,-1,-0.18886,6,7,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,9,215,26,1,-0.20502,1,0,1,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,9,211,31,76,-0.68619,551,475,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,9,152,25,2,-0.56759,480,478,2,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,9,199,29,0,-0.28188,19,19,2,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,9,191,24,-1,-0.19316,18,19,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,9,218,33,10,-0.32056,25,15,8,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,9,212,26,0,-0.21365,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,9,202,42,236,-0.45389,379,143,2,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,9,162,27,0,-0.25431,0,0,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,9,174,30,1,-0.15416,8,7,2,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,9,205,26,13,-0.26214,26,13,3,1.4,Hello Flooding,Normal
+A,RandomWayPoint,9,181,2056,-1198,-1.46882,20,1218,21,1.4,Hello Flooding,Normal
+B,RandomWayPoint,9,642,33,511,-0.18637,527,16,9,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,12,99,10,-1,-0.18973,0,1,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,12,93,12,-1,-0.15856,16,17,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,12,68,14,1633,-0.21944,1638,5,0,10,Hello Flooding,Attacker
+R3,RandomWayPoint,12,83,12,0,-0.0994,2,2,1,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,12,58,10,0,-0.08283,0,0,1,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,12,91,11,0,-0.13196,0,0,1,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,12,86,10,-1,-0.18774,0,1,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,12,111,15,2,-0.07513,3,1,4,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,12,95,12,1,-0.18859,3,2,2,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,12,52,10,0,-0.08344,0,0,1,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,12,85,12,3,-0.21078,17,14,2,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,12,98,14,0,-0.21175,30,30,2,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,12,105,11,0,-0.15799,0,0,1,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,12,76,10,-1,-0.17473,0,1,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,12,96,10,0,-0.17175,3,3,1,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,12,96,9,-1,-0.19034,0,1,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,12,99,10,0,-0.12447,0,0,1,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,12,92,11,0,-0.10494,0,0,1,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,12,90,10,-1,-0.15915,3,4,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,12,93,15,0,-0.20036,16,16,1,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,12,112,10,0,-0.09019,0,0,1,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,12,83,10,0,-0.13552,0,0,1,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,12,101,10,0,-0.18289,0,0,1,1.4,Hello Flooding,Normal
+A,RandomWayPoint,12,76,2060,-1650,-1.53302,13,1663,3,1.4,Hello Flooding,Normal
+B,RandomWayPoint,12,115,19,36,-0.08328,40,4,5,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,19,92,11,21,-0.2584,102,81,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,19,91,10,0,-0.17521,0,0,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,19,87,14,-2,-0.24241,1,3,0,10,Hello Flooding,Attacker
+R3,RandomWayPoint,19,95,13,2,-0.24347,19,17,0,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,19,99,16,261,-0.27319,274,13,11,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,19,72,10,0,-0.1408,0,0,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,19,97,12,649,-0.18999,652,3,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,19,106,13,-1,-0.24327,0,1,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,19,110,13,-1,-0.21427,0,1,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,19,97,11,0,-0.19728,1,1,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,19,96,10,0,-0.20468,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,19,92,13,-1,-0.24395,0,1,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,19,96,9,0,-0.20104,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,19,111,13,-1,-0.2492,6,7,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,19,99,10,0,-0.19988,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,19,99,10,0,-0.16748,0,0,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,19,96,13,-1,-0.23295,0,1,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,19,100,15,340,-0.38185,444,104,3,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,19,81,10,0,-0.20838,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,19,101,9,0,-0.19908,0,0,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,19,95,13,1,-0.18649,16,15,1,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,19,77,9,0,-0.16201,0,0,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,19,95,11,12,-0.26661,22,10,1,1.4,Hello Flooding,Normal
+A,RandomWayPoint,19,117,2125,-1783,-1.88579,17,1800,11,1.4,Hello Flooding,Normal
+B,RandomWayPoint,19,646,14,566,-0.1744,574,8,2,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,8,114,13,-1,-0.192896496,0,1,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,8,145,15,32,-0.228109599,60,28,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,8,146,14,38,-0.285910542,92,54,0,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,8,124,15,0,-0.118172993,0,0,1,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,8,127,14,-2,-0.192167297,24,26,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,8,112,13,-1,-0.194673612,0,1,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,8,140,23,1122,-0.218631778,1134,12,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,8,140,16,0,-0.167312755,5,5,2,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,8,119,16,-3,-0.192816984,0,3,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,8,74,15,0,-0.128655696,0,0,2,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,8,130,16,0,-0.110039347,0,0,2,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,8,116,13,-1,-0.194877361,0,1,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,8,137,17,0,-0.241539008,97,97,2,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,8,145,13,-1,-0.196112044,0,1,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,8,88,13,-1,-0.15390021,0,1,1,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,8,135,17,0,-0.177174682,45,45,1,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,8,134,16,0,-0.102525068,0,0,2,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,8,132,14,0,-0.090794652,0,0,1,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,8,135,16,-3,-0.253479368,53,56,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,8,132,13,-1,-0.196870825,0,1,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,8,106,14,-1,-0.180737794,0,1,1,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,8,128,14,33,-0.233086302,69,36,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,8,127,18,6,-0.18430191,15,9,7,1.4,Hello Flooding,Normal
+A,RandomWayPoint,8,125,2083,-1319,-1.412709049,29,1348,11,1.4,Hello Flooding,Normal
+B,RandomWayPoint,8,281,23,166,-0.113165831,171,5,6,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,13,61,6,0,-0.205368368,0,0,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,13,22,5,0,-0.099038893,0,0,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,13,51,5,0,-0.19942809,0,0,0,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,13,47,5,0,-0.20825496,0,0,0,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,13,59,7,0,-0.211383045,0,0,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,13,49,7,0,-0.212018819,0,0,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,13,62,7,0,-0.210985203,0,0,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,13,52,7,0,-0.211907976,0,0,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,13,56,5,0,-0.204338062,0,0,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,13,50,6,0,-0.210632648,0,0,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,13,47,5,0,-0.192092574,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,13,61,7,0,-0.204501761,0,0,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,13,55,7,38,-1.055686507,1014,976,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,13,46,5,0,-0.127411062,0,0,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,13,38,6,0,-0.206254606,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,13,48,5,0,-0.175479112,0,0,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,13,56,6,0,-0.211916195,0,0,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,13,61,7,0,-0.181782543,0,0,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,13,33,5,0,-0.157236482,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,13,45,5,0,-0.127792121,0,0,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,13,54,7,0,-0.212274642,0,0,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,13,56,6,0,-0.211327172,0,0,0,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,13,53,5,0,-0.164996315,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,13,52,1987,-1012,-1.087170249,1,1013,0,1.4,Hello Flooding,Normal
+B,RandomWayPoint,13,1050,13,1021,-0.215142132,1022,1,6,1.4,Hello Flooding,Normal
+R0,RandomWayPoint,18,34,5,0,-0.21563002,0,0,0,1.4,Hello Flooding,Normal
+R1,RandomWayPoint,18,56,8,-1,-0.282575404,1,2,0,1.4,Hello Flooding,Normal
+R2,RandomWayPoint,18,29,7,7,-0.550338962,362,355,6,1.4,Hello Flooding,Normal
+R3,RandomWayPoint,18,66,15,510,-1.129355821,1339,829,11,1.4,Hello Flooding,Normal
+R4,RandomWayPoint,18,49,5,0,-0.189876544,0,0,0,1.4,Hello Flooding,Normal
+R5,RandomWayPoint,18,48,7,-2,-0.263879099,11,13,0,1.4,Hello Flooding,Normal
+R6,RandomWayPoint,18,13,4,0,-0.169923695,0,0,0,10,Hello Flooding,Attacker
+R7,RandomWayPoint,18,35,5,0,-0.232278921,0,0,0,1.4,Hello Flooding,Normal
+R8,RandomWayPoint,18,59,7,0,-0.279684315,0,0,0,1.4,Hello Flooding,Normal
+R9,RandomWayPoint,18,62,7,0,-0.283411479,0,0,0,1.4,Hello Flooding,Normal
+R10,RandomWayPoint,18,45,5,0,-0.218304035,0,0,0,1.4,Hello Flooding,Normal
+R11,RandomWayPoint,18,47,6,0,-0.237113636,0,0,0,1.4,Hello Flooding,Normal
+R12,RandomWayPoint,18,50,7,0,-0.28550312,0,0,0,1.4,Hello Flooding,Normal
+R13,RandomWayPoint,18,25,5,0,-0.185602335,0,0,0,1.4,Hello Flooding,Normal
+R14,RandomWayPoint,18,58,7,0,-0.275098301,0,0,0,1.4,Hello Flooding,Normal
+R15,RandomWayPoint,18,44,5,0,-0.230162988,0,0,0,1.4,Hello Flooding,Normal
+R16,RandomWayPoint,18,48,5,0,-0.258764555,0,0,0,1.4,Hello Flooding,Normal
+R17,RandomWayPoint,18,41,5,0,-0.248796178,0,0,0,1.4,Hello Flooding,Normal
+R18,RandomWayPoint,18,44,5,0,-0.235118877,0,0,0,1.4,Hello Flooding,Normal
+R19,RandomWayPoint,18,52,7,0,-0.285090247,0,0,0,1.4,Hello Flooding,Normal
+R20,RandomWayPoint,18,45,8,-3,-0.276580888,16,19,0,1.4,Hello Flooding,Normal
+R21,RandomWayPoint,18,49,12,477,-0.672230605,821,344,16,1.4,Hello Flooding,Normal
+R22,RandomWayPoint,18,40,4,0,-0.177625146,0,0,0,1.4,Hello Flooding,Normal
+A,RandomWayPoint,18,48,2035,-1414,-1.453291012,6,1420,3,1.4,Hello Flooding,Normal
+B,RandomWayPoint,18,502,6,460,-0.214653694,466,6,0,1.4,Hello Flooding,Normal
+R0,Mass,4,597,116,-7,-0.283133634,5,12,1,1.4,Normal,Normal
+R1,Mass,4,768,132,-8,-0.300556312,35,43,0,1.4,Normal,Normal
+R2,Mass,4,672,128,2,-0.130105435,36,34,6,1.4,Normal,Normal
+R3,Mass,4,848,183,31,-0.262096663,153,122,28,1.4,Normal,Normal
+R4,Mass,4,727,232,810,-0.40386518,888,78,6,1.4,Normal,Normal
+R5,Mass,4,549,118,65,-1.000749369,941,876,1,1.4,Normal,Normal
+R6,Mass,4,656,201,-8,-0.349927522,70,78,12,1.4,Normal,Normal
+R7,Mass,4,761,129,132,-0.335895072,157,25,6,1.4,Normal,Normal
+R8,Mass,4,628,119,-6,-0.251555898,10,16,2,1.4,Normal,Normal
+R9,Mass,4,644,109,-4,-0.118054106,16,20,5,1.4,Normal,Normal
+R10,Mass,4,697,138,28,-0.259528451,53,25,4,1.4,Normal,Normal
+R11,Mass,4,791,131,0,-0.133069401,11,11,15,1.4,Normal,Normal
+R12,Mass,4,1005,166,17,-0.225533232,169,152,19,1.4,Normal,Normal
+R13,Mass,4,811,154,46,-0.177740758,139,93,28,1.4,Normal,Normal
+R14,Mass,4,480,115,6,-0.122761392,19,13,10,1.4,Normal,Normal
+R15,Mass,4,219,93,0,-0.106167794,2,2,11,1.4,Normal,Normal
+R16,Mass,4,226,90,-6,-0.09554689,2,8,1,1.4,Normal,Normal
+R17,Mass,4,661,140,7,-0.273747539,44,37,7,1.4,Normal,Normal
+R18,Mass,4,739,131,-8,-0.143013063,41,49,5,1.4,Normal,Normal
+R19,Mass,4,773,138,253,-0.377681606,329,76,0,1.4,Normal,Normal
+R20,Mass,4,733,143,-3,-0.248683963,39,42,1,1.4,Normal,Normal
+R21,Mass,4,755,129,3,-0.128647484,78,75,4,1.4,Normal,Normal
+R22,Mass,4,581,120,2,-0.248263555,20,18,5,1.4,Normal,Normal
+A,Mass,4,632,2134,-1321,-1.549640572,40,1361,22,1.4,Normal,Normal
+B,Mass,4,728,123,88,-0.099239513,116,28,2,1.4,Normal,Normal
+R0,Mass,4,656,121,-1,-0.29148182,21,22,2,1.4,UDP Flooding DOS,Normal
+R1,Mass,4,805,134,119,-0.701465199,606,487,2,1.4,UDP Flooding DOS,Normal
+R2,Mass,4,651,119,-1,-0.145026112,5,6,3,1.4,UDP Flooding DOS,Normal
+R3,Mass,4,725,153,17,-0.269173436,120,103,15,1.4,UDP Flooding DOS,Normal
+R4,Mass,4,620,3111,-2,-0.572982817,236,238,41,1.4,UDP Flooding DOS,Attacker
+R5,Mass,4,656,105,18,-0.30871805,115,97,2,1.4,UDP Flooding DOS,Normal
+R6,Mass,4,671,3302,-155,-0.619123512,256,411,31,1.4,UDP Flooding DOS,Attacker
+R7,Mass,4,839,128,29,-0.72267066,616,587,2,1.4,UDP Flooding DOS,Normal
+R8,Mass,4,614,111,19,-0.290118015,138,119,5,1.4,UDP Flooding DOS,Normal
+R9,Mass,4,560,107,0,-0.115772592,2,2,0,1.4,UDP Flooding DOS,Normal
+R10,Mass,4,695,134,-3,-0.320177324,131,134,2,1.4,UDP Flooding DOS,Normal
+R11,Mass,4,777,123,20,-0.178083182,427,407,7,1.4,UDP Flooding DOS,Normal
+R12,Mass,4,948,159,58,-0.296352882,617,559,26,1.4,UDP Flooding DOS,Normal
+R13,Mass,4,812,153,34,-0.278125878,343,309,21,1.4,UDP Flooding DOS,Normal
+R14,Mass,4,646,127,18,-0.189401288,76,58,18,1.4,UDP Flooding DOS,Normal
+R15,Mass,4,298,104,18,-0.145807457,70,52,15,1.4,UDP Flooding DOS,Normal
+R16,Mass,4,376,117,6,-0.111549574,36,30,6,1.4,UDP Flooding DOS,Normal
+R17,Mass,4,737,146,412,-0.335991261,479,67,6,1.4,UDP Flooding DOS,Normal
+R18,Mass,4,764,143,3,-0.17143064,75,72,13,1.4,UDP Flooding DOS,Normal
+R19,Mass,4,789,130,-2,-0.331513919,184,186,2,1.4,UDP Flooding DOS,Normal
+R20,Mass,4,751,126,17,-0.268912969,89,72,2,1.4,UDP Flooding DOS,Normal
+R21,Mass,4,711,135,15,-0.168246795,251,236,3,1.4,UDP Flooding DOS,Normal
+R22,Mass,4,575,121,44,-0.278205296,92,48,2,1.4,UDP Flooding DOS,Normal
+A,Mass,4,503,2172,-561,-0.987700231,25,586,29,1.4,UDP Flooding DOS,Normal
+B,Mass,4,682,108,33,-0.103378621,41,8,3,1.4,UDP Flooding DOS,Normal
+R0,Mass,8,1004,276,54,-0.406580486,163,109,34,1.4,UDP Flooding DOS,Normal
+R1,Mass,8,731,195,18,-0.28466969,103,85,3,1.4,UDP Flooding DOS,Normal
+R2,Mass,8,1472,250,201,-0.377127799,437,236,37,1.4,UDP Flooding DOS,Normal
+R3,Mass,8,1112,205,17,-0.307684588,146,129,15,1.4,UDP Flooding DOS,Normal
+R4,Mass,8,1228,3320,-356,-1.026442939,535,891,85,1.4,UDP Flooding DOS,Attacker
+R5,Mass,8,830,199,4,-0.302071386,94,90,9,1.4,UDP Flooding DOS,Normal
+R6,Mass,8,861,3223,-129,-0.788571372,306,435,67,1.4,UDP Flooding DOS,Attacker
+R7,Mass,8,563,178,44,-0.241784116,77,33,12,1.4,UDP Flooding DOS,Normal
+R8,Mass,8,787,191,-6,-0.19053595,72,78,12,1.4,UDP Flooding DOS,Normal
+R9,Mass,8,1454,211,10,-0.250323066,211,201,12,1.4,UDP Flooding DOS,Normal
+R10,Mass,8,1508,234,83,-0.313454369,294,211,28,1.4,UDP Flooding DOS,Normal
+R11,Mass,8,447,167,-1,-0.177044816,29,30,11,1.4,UDP Flooding DOS,Normal
+R12,Mass,8,1118,214,175,-0.429144154,298,123,25,1.4,UDP Flooding DOS,Normal
+R13,Mass,8,1268,215,12,-0.300890871,200,188,8,1.4,UDP Flooding DOS,Normal
+R14,Mass,8,848,192,20,-0.318357018,165,145,5,1.4,UDP Flooding DOS,Normal
+R15,Mass,8,1049,238,40,-0.361102824,162,122,26,1.4,UDP Flooding DOS,Normal
+R16,Mass,8,644,161,16,-0.258976451,41,25,16,1.4,UDP Flooding DOS,Normal
+R17,Mass,8,998,172,18,-0.286320796,125,107,17,1.4,UDP Flooding DOS,Normal
+R18,Mass,8,1435,262,60,-0.335537989,176,116,29,1.4,UDP Flooding DOS,Normal
+R19,Mass,8,1044,203,32,-0.359663306,179,147,22,1.4,UDP Flooding DOS,Normal
+R20,Mass,8,1004,207,24,-0.40382147,235,211,14,1.4,UDP Flooding DOS,Normal
+R21,Mass,8,978,173,12,-0.302352311,81,69,18,1.4,UDP Flooding DOS,Normal
+R22,Mass,8,664,183,8,-0.29591388,99,91,15,1.4,UDP Flooding DOS,Normal
+A,Mass,8,961,2225,-166,-0.965093316,55,221,82,1.4,UDP Flooding DOS,Normal
+B,Mass,8,1248,237,8,-0.334304793,180,172,16,1.4,UDP Flooding DOS,Normal
+R0,Mass,12,974,155,-4,-0.217978504,75,79,8,1.4,UDP Flooding DOS,Normal
+R1,Mass,12,768,177,154,-0.339511485,463,309,15,1.4,UDP Flooding DOS,Normal
+R2,Mass,12,948,172,145,-0.387097941,363,218,34,1.4,UDP Flooding DOS,Normal
+R3,Mass,12,945,156,1,-0.308517128,190,189,7,1.4,UDP Flooding DOS,Normal
+R4,Mass,12,740,3281,-310,-0.863715316,584,894,40,1.4,UDP Flooding DOS,Attacker
+R5,Mass,12,883,138,41,-0.254286949,226,185,12,1.4,UDP Flooding DOS,Normal
+R6,Mass,12,536,3185,-128,-0.693110837,332,460,55,1.4,UDP Flooding DOS,Attacker
+R7,Mass,12,1055,180,9,-0.255309254,222,213,8,1.4,UDP Flooding DOS,Normal
+R8,Mass,12,1005,151,1,-0.295696498,148,147,4,1.4,UDP Flooding DOS,Normal
+R9,Mass,12,1057,181,49,-0.316426292,283,234,5,1.4,UDP Flooding DOS,Normal
+R10,Mass,12,774,192,44,-0.229991983,169,125,23,1.4,UDP Flooding DOS,Normal
+R11,Mass,12,1015,144,-3,-0.200313075,44,47,4,1.4,UDP Flooding DOS,Normal
+R12,Mass,12,954,152,85,-0.315740689,339,254,1,1.4,UDP Flooding DOS,Normal
+R13,Mass,12,675,123,503,-0.340990563,551,48,24,1.4,UDP Flooding DOS,Normal
+R14,Mass,12,552,111,19,-0.27845284,49,30,9,1.4,UDP Flooding DOS,Normal
+R15,Mass,12,890,185,14,-0.2866988,142,128,9,1.4,UDP Flooding DOS,Normal
+R16,Mass,12,457,101,65,-0.329365055,118,53,9,1.4,UDP Flooding DOS,Normal
+R17,Mass,12,552,110,12,-0.30373889,145,133,2,1.4,UDP Flooding DOS,Normal
+R18,Mass,12,645,150,29,-0.275950259,122,93,25,1.4,UDP Flooding DOS,Normal
+R19,Mass,12,911,162,198,-0.485867164,436,238,13,1.4,UDP Flooding DOS,Normal
+R20,Mass,12,718,171,47,-0.458500661,371,324,17,1.4,UDP Flooding DOS,Normal
+R21,Mass,12,1030,161,28,-0.302346888,277,249,12,1.4,UDP Flooding DOS,Normal
+R22,Mass,12,477,130,0,-0.255753611,97,97,5,1.4,UDP Flooding DOS,Normal
+A,Mass,12,429,2164,-861,-1.214477898,37,898,26,1.4,UDP Flooding DOS,Normal
+B,Mass,12,630,157,75,-0.206629389,147,72,22,1.4,UDP Flooding DOS,Normal
+R0,Mass,16,701,143,473,-0.411946844,583,110,14,1.4,UDP Flooding DOS,Normal
+R1,Mass,16,772,139,24,-0.286810651,191,167,13,1.4,UDP Flooding DOS,Normal
+R2,Mass,16,706,137,34,-0.340367865,181,147,13,1.4,UDP Flooding DOS,Normal
+R3,Mass,16,889,151,43,-0.304627801,197,154,20,1.4,UDP Flooding DOS,Normal
+R4,Mass,16,732,3316,-65,-0.689405268,388,453,56,1.4,UDP Flooding DOS,Attacker
+R5,Mass,16,765,135,59,-0.349354642,163,104,2,1.4,UDP Flooding DOS,Normal
+R6,Mass,16,751,3174,-211,-0.726528892,332,543,45,1.4,UDP Flooding DOS,Attacker
+R7,Mass,16,742,123,4,-0.303974651,106,102,4,1.4,UDP Flooding DOS,Normal
+R8,Mass,16,651,151,79,-0.348502844,130,51,15,1.4,UDP Flooding DOS,Normal
+R9,Mass,16,804,143,22,-0.364808843,252,230,6,1.4,UDP Flooding DOS,Normal
+R10,Mass,16,874,169,39,-0.404889813,373,334,17,1.4,UDP Flooding DOS,Normal
+R11,Mass,16,630,124,23,-0.171070323,71,48,9,1.4,UDP Flooding DOS,Normal
+R12,Mass,16,807,140,58,-0.397287757,229,171,9,1.4,UDP Flooding DOS,Normal
+R13,Mass,16,707,150,37,-0.282546764,109,72,29,1.4,UDP Flooding DOS,Normal
+R14,Mass,16,631,126,-5,-0.142431154,20,25,6,1.4,UDP Flooding DOS,Normal
+R15,Mass,16,709,138,27,-0.273433693,151,124,17,1.4,UDP Flooding DOS,Normal
+R16,Mass,16,884,166,28,-0.271693438,140,112,14,1.4,UDP Flooding DOS,Normal
+R17,Mass,16,884,147,36,-0.295947183,209,173,7,1.4,UDP Flooding DOS,Normal
+R18,Mass,16,482,114,24,-0.151317798,38,14,8,1.4,UDP Flooding DOS,Normal
+R19,Mass,16,795,146,16,-0.318308819,184,168,22,1.4,UDP Flooding DOS,Normal
+R20,Mass,16,486,103,0,-0.125563063,14,14,5,1.4,UDP Flooding DOS,Normal
+R21,Mass,16,633,130,15,-0.741183846,629,614,16,1.4,UDP Flooding DOS,Normal
+R22,Mass,16,538,141,31,-0.307460591,164,133,19,1.4,UDP Flooding DOS,Normal
+A,Mass,16,633,2154,-631,-0.917654921,11,642,10,1.4,UDP Flooding DOS,Normal
+B,Mass,16,689,132,61,-0.165781332,89,28,13,1.4,UDP Flooding DOS,Normal
+R0,Mass,20,661,133,-12,-0.261307231,101,113,0,1.4,UDP Flooding DOS,Normal
+R1,Mass,20,875,145,7,-0.168955709,58,51,9,1.4,UDP Flooding DOS,Normal
+R2,Mass,20,873,158,-1,-0.290978157,114,115,12,1.4,UDP Flooding DOS,Normal
+R3,Mass,20,876,157,3,-0.214145964,105,102,12,1.4,UDP Flooding DOS,Normal
+R4,Mass,20,692,3157,-169,-0.735179,302,471,52,1.4,UDP Flooding DOS,Attacker
+R5,Mass,20,839,164,51,-0.343518521,201,150,18,1.4,UDP Flooding DOS,Normal
+R6,Mass,20,837,3252,-144,-0.757491148,468,612,39,1.4,UDP Flooding DOS,Attacker
+R7,Mass,20,750,169,53,-0.283830188,156,103,36,1.4,UDP Flooding DOS,Normal
+R8,Mass,20,960,155,1,-0.189000799,72,71,10,1.4,UDP Flooding DOS,Normal
+R9,Mass,20,836,156,18,-0.197990389,92,74,26,1.4,UDP Flooding DOS,Normal
+R10,Mass,20,843,150,10,-0.303315594,183,173,13,1.4,UDP Flooding DOS,Normal
+R11,Mass,20,849,158,28,-0.179832343,61,33,19,1.4,UDP Flooding DOS,Normal
+R12,Mass,20,687,140,116,-0.420653877,374,258,14,1.4,UDP Flooding DOS,Normal
+R13,Mass,20,825,160,11,-0.328783768,179,168,9,1.4,UDP Flooding DOS,Normal
+R14,Mass,20,800,153,4,-0.18337034,75,71,9,1.4,UDP Flooding DOS,Normal
+R15,Mass,20,614,142,42,-0.250001013,104,62,19,1.4,UDP Flooding DOS,Normal
+R16,Mass,20,771,139,28,-0.327442581,178,150,15,1.4,UDP Flooding DOS,Normal
+R17,Mass,20,746,158,309,-0.439585422,371,62,41,1.4,UDP Flooding DOS,Normal
+R18,Mass,20,945,182,300,-0.608211525,637,337,25,1.4,UDP Flooding DOS,Normal
+R19,Mass,20,784,156,-7,-0.248302363,141,148,6,1.4,UDP Flooding DOS,Normal
+R20,Mass,20,847,143,-4,-0.265140814,116,120,5,1.4,UDP Flooding DOS,Normal
+R21,Mass,20,632,130,1,-0.19785547,53,52,2,1.4,UDP Flooding DOS,Normal
+R22,Mass,20,810,151,10,-0.221999699,74,64,7,1.4,UDP Flooding DOS,Normal
+A,Mass,20,688,2160,-535,-0.84477012,59,594,16,1.4,UDP Flooding DOS,Normal
+B,Mass,20,886,170,56,-0.219333196,169,113,16,1.4,UDP Flooding DOS,Normal
+R0,Mass,12,921,139,384,-0.331913094,432,48,15,1.4,UDP Flooding DOS,Normal
+R1,Mass,12,972,182,44,-0.312582683,398,354,20,1.4,UDP Flooding DOS,Normal
+R2,Mass,12,989,183,65,-0.32097178,283,218,25,1.4,UDP Flooding DOS,Normal
+R3,Mass,12,869,148,0,-0.281643859,89,89,11,1.4,UDP Flooding DOS,Normal
+R4,Mass,12,886,3368,-428,-1.029786092,607,1035,66,1.4,UDP Flooding DOS,Attacker
+R5,Mass,12,852,140,20,-0.254715112,65,45,14,1.4,UDP Flooding DOS,Normal
+R6,Mass,12,909,271,162,-0.434559778,362,200,29,1.4,UDP Flooding DOS,Normal
+R7,Mass,12,953,154,6,-0.250015505,62,56,14,1.4,UDP Flooding DOS,Normal
+R8,Mass,12,1160,151,17,-0.318295359,123,106,9,1.4,UDP Flooding DOS,Normal
+R9,Mass,12,1006,143,7,-0.256091211,54,47,3,1.4,UDP Flooding DOS,Normal
+R10,Mass,12,831,189,83,-0.252236072,250,167,23,1.4,UDP Flooding DOS,Normal
+R11,Mass,12,834,126,-1,-0.198646754,20,21,6,1.4,UDP Flooding DOS,Normal
+R12,Mass,12,939,138,72,-0.390159846,108,36,18,1.4,UDP Flooding DOS,Normal
+R13,Mass,12,881,127,8,-0.270272266,34,26,9,1.4,UDP Flooding DOS,Normal
+R14,Mass,12,795,138,228,-0.439906527,320,92,14,1.4,UDP Flooding DOS,Normal
+R15,Mass,12,865,193,51,-0.426448176,183,132,31,1.4,UDP Flooding DOS,Normal
+R16,Mass,12,705,122,-1,-0.267512986,27,28,1,1.4,UDP Flooding DOS,Normal
+R17,Mass,12,902,138,230,-0.404246049,326,96,13,1.4,UDP Flooding DOS,Normal
+R18,Mass,12,736,182,66,-0.288285199,226,160,17,1.4,UDP Flooding DOS,Normal
+R19,Mass,12,860,179,3,-0.275496813,104,101,10,1.4,UDP Flooding DOS,Normal
+R20,Mass,12,596,136,14,-0.269801309,83,69,5,1.4,UDP Flooding DOS,Normal
+R21,Mass,12,993,154,31,-0.34975061,66,35,22,1.4,UDP Flooding DOS,Normal
+R22,Mass,12,638,195,82,-0.357485528,227,145,34,1.4,UDP Flooding DOS,Normal
+A,Mass,12,680,2087,-1000,-1.238599128,21,1021,26,1.4,UDP Flooding DOS,Normal
+B,Mass,12,621,174,70,-0.287286224,222,152,19,1.4,UDP Flooding DOS,Normal
+R0,Mass,12,767,157,639,-0.388279022,720,81,19,1.4,UDP Flooding DOS,Normal
+R1,Mass,12,639,117,-2,-0.202882998,16,18,5,1.4,UDP Flooding DOS,Normal
+R2,Mass,12,821,3207,2,-0.742641684,457,455,66,1.4,UDP Flooding DOS,Attacker
+R3,Mass,12,812,139,36,-0.275215017,197,161,11,1.4,UDP Flooding DOS,Normal
+R4,Mass,12,767,181,34,-0.311476957,138,104,22,1.4,UDP Flooding DOS,Normal
+R5,Mass,12,862,146,-1,-0.270994464,31,32,18,1.4,UDP Flooding DOS,Normal
+R6,Mass,12,871,133,-8,-0.315882698,148,156,3,1.4,UDP Flooding DOS,Normal
+R7,Mass,12,994,151,46,-0.315508188,151,105,13,1.4,UDP Flooding DOS,Normal
+R8,Mass,12,562,140,-1,-0.292039282,70,71,8,1.4,UDP Flooding DOS,Normal
+R9,Mass,12,978,139,9,-0.297832879,118,109,6,1.4,UDP Flooding DOS,Normal
+R10,Mass,12,745,139,34,-0.298411045,220,186,17,1.4,UDP Flooding DOS,Normal
+R11,Mass,12,439,3242,-191,-0.701199145,120,311,81,1.4,UDP Flooding DOS,Attacker
+R12,Mass,12,828,137,294,-0.327302237,353,59,10,1.4,UDP Flooding DOS,Normal
+R13,Mass,12,843,130,4,-0.28207109,143,139,5,1.4,UDP Flooding DOS,Normal
+R14,Mass,12,664,123,-7,-0.268889514,152,159,2,1.4,UDP Flooding DOS,Normal
+R15,Mass,12,714,123,7,-0.251512176,155,148,9,1.4,UDP Flooding DOS,Normal
+R16,Mass,12,781,3151,-66,-0.810448472,451,517,88,1.4,UDP Flooding DOS,Attacker
+R17,Mass,12,764,140,20,-0.341831524,139,119,11,1.4,UDP Flooding DOS,Normal
+R18,Mass,12,748,134,8,-0.218603946,66,58,4,1.4,UDP Flooding DOS,Normal
+R19,Mass,12,1004,136,15,-0.322036569,267,252,8,1.4,UDP Flooding DOS,Normal
+R20,Mass,12,716,163,19,-0.347070491,68,49,29,1.4,UDP Flooding DOS,Normal
+R21,Mass,12,729,190,103,-0.439765153,219,116,48,1.4,UDP Flooding DOS,Normal
+R22,Mass,12,598,143,-1,-0.269405143,88,89,8,1.4,UDP Flooding DOS,Normal
+A,Mass,12,724,2159,-868,-1.194775136,43,911,33,1.4,UDP Flooding DOS,Normal
+B,Mass,12,699,153,9,-0.29319014,204,195,11,1.4,UDP Flooding DOS,Normal
+R0,Mass,12,1120,244,96,-0.412351135,247,151,19,1.4,UDP Flooding DOS,Normal
+R1,Mass,12,1081,241,297,-0.377279504,413,116,22,1.4,UDP Flooding DOS,Normal
+R2,Mass,12,965,3216,-267,-0.59975184,196,463,28,1.4,UDP Flooding DOS,Attacker
+R3,Mass,12,641,184,19,-0.292085015,86,67,10,1.4,UDP Flooding DOS,Normal
+R4,Mass,12,746,242,159,-0.403660372,224,65,39,1.4,UDP Flooding DOS,Normal
+R5,Mass,12,436,164,48,-0.305977076,100,52,29,1.4,UDP Flooding DOS,Normal
+R6,Mass,12,716,202,30,-0.291039056,140,110,18,1.4,UDP Flooding DOS,Normal
+R7,Mass,12,1033,213,256,-0.636960927,680,424,13,1.4,UDP Flooding DOS,Normal
+R8,Mass,12,924,241,360,-0.400080292,663,303,17,1.4,UDP Flooding DOS,Normal
+R9,Mass,12,938,211,32,-0.357873325,92,60,22,1.4,UDP Flooding DOS,Normal
+R10,Mass,12,498,162,-1,-0.216415192,46,47,11,1.4,UDP Flooding DOS,Normal
+R11,Mass,12,882,3306,-556,-0.858781681,365,921,38,1.4,UDP Flooding DOS,Attacker
+R12,Mass,12,1336,219,38,-0.341107321,318,280,9,1.4,UDP Flooding DOS,Normal
+R13,Mass,12,629,204,59,-0.384863766,172,113,19,1.4,UDP Flooding DOS,Normal
+R14,Mass,12,731,3318,-172,-0.545648005,179,351,21,1.4,UDP Flooding DOS,Attacker
+R15,Mass,12,1092,179,-5,-0.320484205,146,151,6,1.4,UDP Flooding DOS,Normal
+R16,Mass,12,1088,3392,-181,-0.679259669,271,452,47,1.4,UDP Flooding DOS,Attacker
+R17,Mass,12,568,153,16,-0.260231905,84,68,6,1.4,UDP Flooding DOS,Normal
+R18,Mass,12,736,211,57,-0.345144334,182,125,19,1.4,UDP Flooding DOS,Normal
+R19,Mass,12,565,142,7,-0.261197968,167,160,14,1.4,UDP Flooding DOS,Normal
+R20,Mass,12,1190,208,207,-0.355681988,600,393,13,1.4,UDP Flooding DOS,Normal
+R21,Mass,12,933,233,67,-0.549195418,633,566,21,1.4,UDP Flooding DOS,Normal
+R22,Mass,12,885,233,40,-0.431492833,326,286,12,1.4,UDP Flooding DOS,Normal
+A,Mass,12,1064,2204,-477,-0.939986584,88,565,36,1.4,UDP Flooding DOS,Normal
+B,Mass,12,770,229,72,-0.338136003,120,48,18,1.4,UDP Flooding DOS,Normal
